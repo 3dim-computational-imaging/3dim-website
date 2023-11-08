@@ -103,18 +103,11 @@ sections:
     content:
       title: Sponsored Research
       subtitle: 'Past and Present'
-      text:
+      text: |
+        The work shown on this website has been generously funded by the following agencies and industry partners:
+        {{<figure library="true" src="Sponsored_all.jpg" width="800">}}  
     design:
       columns: '2'
-      background:
-        image: 
-          filename: Sponsored_all.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
 
@@ -122,18 +115,10 @@ sections:
     content:
       title: Collaborations
       subtitle: 'Past and Present'
-      text:
+      text: |
+        {{<figure library="true" src="Collaborations_all.jpg" width="800">}}  
     design:
       columns: '2'
-      background:
-        image: 
-          filename: Collaborations_all.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
   
