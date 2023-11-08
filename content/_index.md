@@ -16,12 +16,12 @@ sections:
         
         A **Summary** of the 3DIM group will eventually go here, similar to what is on the main homepage.
   
-  - block: collection
+  - block: portfolio
     content:
       title: Research
       subtitle:
       text:
-      count: 5
+      count: 0
       filters:
         author: ''
         category: ''
