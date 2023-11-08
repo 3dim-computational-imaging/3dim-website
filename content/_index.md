@@ -21,16 +21,24 @@ sections:
       title: Research
       subtitle:
       text:
-      count: 0
+      #count: 0
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: projects
+        # Folders to display content from
+        folders:
+          - projects
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      #offset: 0
+      #order: desc
+      #page_type: projects
     design:
       view: card
       columns: '2'
