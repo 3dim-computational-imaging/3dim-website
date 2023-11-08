@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Summary
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        A **Summary** of the 3DIM group will eventually go here, similar to what is on the main homepage.
   
   - block: collection
     content:
-      title: Latest News
+      title: Research
       subtitle:
       text:
       count: 5
@@ -31,9 +30,28 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: projects
     design:
       view: card
+      columns: '2'
+
+  - block: collection
+    content:
+      title: Selected Publications
+      subtitle:
+      text:
+      count: 0
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: true
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: citation
       columns: '1'
   
   - block: markdown
