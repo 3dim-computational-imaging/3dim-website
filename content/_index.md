@@ -40,7 +40,7 @@ sections:
       #order: desc
       #page_type: projects
     design:
-      view: card
+      view: 6
       columns: '2'
       spacing:
         padding: ['20px', '0', '20px', '0']
