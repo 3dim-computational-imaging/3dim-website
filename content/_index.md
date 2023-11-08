@@ -48,8 +48,8 @@ sections:
   - block: collection
     content:
       title: Selected Publications
-      subtitle:
-      text:
+      subtitle: 'cool subtitle'
+      text: cool text B)
       count: 0
       filters:
         author: ''
@@ -62,18 +62,53 @@ sections:
       page_type: publication
     design:
       view: citation
-      columns: '1'
-  
+      columns: '2'
+
+  - block: collection
+    content:
+      title: Talks
+      subtitle: 'Subtitle!'
+      text: Extra text for talks goes here
+      count: 4
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: talks
+    design:
+      view: compact
+      columns: '2'
+
   - block: markdown
     content:
-      title:
-      subtitle: ''
+      title: Media Coverage
+      subtitle: 'Suuubtitle'
+      text: This could possibly be a set of blocks, like the above sections!
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Join Us
+      subtitle: 'Subnautica'
+      text: bla bla bla bla bla advertisement is necessary
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Sponsored Research
+      subtitle: 'Past and Present'
       text:
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
-          filename: coders.jpg
+          filename: Sponsored_all.jpg
           filters:
             brightness: 1
           parallax: false
@@ -82,7 +117,35 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
+  - block: markdown
+    content:
+      title: Collaborations
+      subtitle: 'Past and Present'
+      text:
+    design:
+      columns: '2'
+      background:
+        image: 
+          filename: Collaborations_all.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+  
+  - block: markdown
+    content:
+      title: Contact
+      subtitle: 'subscribe'
+      text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    design:
+      columns: '2'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
   
   - block: markdown
     content:
