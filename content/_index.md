@@ -40,8 +40,8 @@ sections:
       #order: desc
       #page_type: projects
     design:
-      view: 6
-      columns: '2'
+      view: 3
+      columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
 
