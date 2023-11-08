@@ -17,6 +17,7 @@ sections:
         A **Summary** of the 3DIM group will eventually go here, similar to what is on the main homepage.
   
   - block: portfolio
+    id: research
     content:
       title: Research
       subtitle:
@@ -46,6 +47,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
 
   - block: collection
+    id: selected-publications
     content:
       title: Selected Publications
       subtitle: 'cool subtitle'
