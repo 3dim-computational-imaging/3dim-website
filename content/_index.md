@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: summary
     content:
       title: |
         Summary
@@ -67,6 +68,7 @@ sections:
       columns: '2'
 
   - block: collection
+    id: talks
     content:
       title: Talks
       subtitle: 'Subtitle!'
@@ -86,6 +88,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: mediacoverage
     content:
       title: Media Coverage
       subtitle: 'Suuubtitle'
@@ -94,6 +97,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: joinus
     content:
       title: Join Us
       subtitle: 'Subnautica'
@@ -102,6 +106,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: sponsoredresearch
     content:
       title: Sponsored Research
       subtitle: 'Past and Present'
@@ -114,6 +119,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
 
   - block: markdown
+    id: collaborations
     content:
       title: Collaborations
       subtitle: 'Past and Present'
@@ -125,6 +131,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
   
   - block: markdown
+    id: contact
     content:
       title: Contact
       subtitle: 'subscribe'

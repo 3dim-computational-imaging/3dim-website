@@ -7,7 +7,7 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: News
+  - name: <s>News</s>
     url: post
     weight: 10
   - name: Team
@@ -23,11 +23,11 @@ main:
     url: media
     weight: 50
   - name: Talks
-    url: talks
+    url: '#talks'
     weight: 60
   - name: Join Us
-    url: joinus
+    url: '#joinus'
     weight: 70
   - name: Contact
-    url: contact
+    url: '#contact'
     weight: 80
