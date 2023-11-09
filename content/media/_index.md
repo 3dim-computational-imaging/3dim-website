@@ -1,6 +1,5 @@
 ---
 title: Media Coverage
-subtitle: 'Computational 3D Imaging and Measurement Lab in the News'
 
 # Listing view
 view: showcase
@@ -10,3 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
+Computational 3D Imaging and Measurement Lab in the News
