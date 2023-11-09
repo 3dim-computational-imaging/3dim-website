@@ -35,12 +35,16 @@ header:
   navbar:
     enable: true
     align: r
-    logo: "Home.png"
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
+
+# Navigation
+
+navigation:
+  logo: "Home.png"
 
 # Site footer
 
