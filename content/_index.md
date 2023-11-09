@@ -51,7 +51,7 @@ sections:
     id: selected-publications
     content:
       title: Selected Publications
-      subtitle: 'cool subtitle'
+      subtitle: 'See [all publications by year>>](/publication)</a>'
       text: cool text B)
       count: 0
       filters:
