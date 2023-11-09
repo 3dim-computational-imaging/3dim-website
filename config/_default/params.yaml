@@ -41,11 +41,6 @@ header:
     show_search: true
     highlight_active_link: false
 
-# Navigation
-
-navigation:
-  logo: "Home.png"
-
 # Site footer
 
 footer:
