@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is where the biography goes! Everyone will have to write this.
 
 interests:
   - Computational Imaging
@@ -29,22 +29,22 @@ education:
   courses:
     - course: Associate Professor of Optical Sciences
       institution: The University of Arizona, Wyant College of Optical Sciences,
-      year: 2022-Present
+      year: 2022
     - course: Research Assistant Professo
       institution: Department of Electrical and Computer Engineering (ECE), Northwestern University
-      year: 2019-2022
+      year: 2019
     - course: Postdoctoral Fellow
       institution: Department of Electrical Engineering and Computer Science (EECS), Northwestern University
-      year: 2017-2019
+      year: 2017
     - course: Research Associate
       institution: Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg
-      year: 2011-2017
+      year: 2011
     - course: Part-time Teacher: High School Physics, Grades 9-12
       institution: Rudolf Steiner-School, Nuremberg, Germany
-      year: 2010-2014
+      year: 2010
     - course: MS
       institution: Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg
-      year: 2005 - 2010
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
