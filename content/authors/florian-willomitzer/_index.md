@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: This is where the biography goes! Everyone will have to write this.
 
-interests:
-  - Computational Imaging
-  - Germany
-  - ????? Florian fill this out yourself this is just a demo
+#interests:
+#  - Computational Imaging
+#  - Germany
+#  - ????? Florian fill this out yourself this is just a demo
 
-education:
-  courses:
-    - course: Associate Professor of Optical Sciences
-      institution: I1
-      year: 2022
-    - course: Research Assistant Professo
-      institution: I2
-      year: 2019
-    - course: Postdoctoral Fellow
-      institution: I3
-      year: 2017
+#education:
+#  courses:
+#    - course: Associate Professor of Optical Sciences
+#      institution: I1
+#      year: 2022
+#    - course: Research Assistant Professo
+#      institution: I2
+#      year: 2019
+#    - course: Postdoctoral Fellow
+#      institution: I3
+#      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
