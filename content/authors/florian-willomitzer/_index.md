@@ -77,3 +77,49 @@ Florian Willomitzer is an Associate Professor at the Wyant College of Optical Sc
 
 Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2022/florian-willomitzer-receives-nsf-crii-grant.html), winner of the [Optica 20th Anniversary Challenge](https://www.optica.org/en-us/foundation/opportunities/competitions_prizes/20th_anniversary_challenge/#CURRENT),  and his Ph.D. thesis was awarded with the [Springer Theses Award for Outstanding Ph.D. Research](https://link.springer.com/book/10.1007/978-3-030-10904-2).  
 
+
+### Education and work experience
+<table style="width:100%">
+  </tr>  
+  <td style="border: 0"><left> <a>
+  Aug'22 - present
+ </a> </left> </td>
+     <td style="border: 0">  **Associate Professor**, Wyant College of Optical Sciences, University of Arizona, Tucson, USA
+  </tr>
+  
+  
+  <td style="border: 0"><left> <a>
+  Nov'19 - Aug'22
+ </a> </left> </td>
+     <td style="border: 0">  **Research Assistant Professor**, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA
+  </tr>
+  
+  
+  <td style="border: 0"><left> <a>
+  Aug'17 - Nov'19
+ </a> </left> </td>
+     <td style="border: 0">  **Postdoctoral Fellow**, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA
+  </tr>
+  
+  
+  <td style="border: 0"><left> <a>
+  Jan'11 - Aug'17
+ </a> </left> </td>
+     <td style="border: 0">  **PhD (Dr. rer. nat.)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
+  Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.
+  </tr>
+  
+  <td style="border: 0"><left> <a>
+  Dec'10 - July'14
+ </a> </left> </td>
+     <td style="border: 0">  **Part-time teacher**, Physics for high school classes (‘Gymnasium’ grade 9 12), Rudolf Steiner-School, Nuremberg, Germany
+  </tr>
+  
+  <td style="border: 0"><left> <a>
+  Oct'05 - Sept'10
+ </a> </left> </td>
+     <td style="border: 0">  **MS (Diplom)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany
+  </tr>
+ 
+</table>
+</br>
