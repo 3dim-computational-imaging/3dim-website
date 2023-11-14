@@ -70,9 +70,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-
-design:
-  columns: '1'
 ---
 
 Florian Willomitzer is an Associate Professor at the Wyant College of Optical Sciences - University of Arizona. He graduated from the University of Erlangen-Nuremberg, Germany, where he received his Ph.D. degree in Physics with honors (‘summa cum laude’) in 2017. During his doctoral studies (PhD advisor: [Prof. Gerd Häusler](https://www.optik.nat.fau.de/forschung/osmin-former-group/)) Florian investigated [physical and information theoretical limits of optical 3D-sensing](https://link.springer.com/book/10.1007/978-3-030-10904-2) and implemented [sensors that operate close to these limits](https://www.florianwillomitzer.com/project/ss3dmovcam/). Concurrent with his Ph.D. activity, he was a freelancer in the research group’s spin-off company [‘3D Shape GmbH’](http://www.3d-shape.com/home/home_e.php) (now part of [ISRA Vision](https://www.isravision.com/en/)) and he worked as a high school part time teacher for physics. Florian joined Northwestern University as Postdoc (Postdoc advisor: [Prof. Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)) in Fall 2017, where he further shaped his current research profile. He became Research Assistant Professor in 2019. In Fall 2022, Florian joined the Wyant College of Optical Sciences at the University of Arizona as Associate Professor.
