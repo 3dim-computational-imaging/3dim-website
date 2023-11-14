@@ -6,13 +6,10 @@ image:
     preview_only: true
     
 sections:
-  - block: hero
-    id: summary
+  - block: markdown
+    id: header
     content:
       title: |
         Synthetic Wavelength Holography
-      image:
-        filename: Fig1.jpg
-      text: 
+      text: <img src="Fig1.jpg">
 ---
-<img src="Fig1.jpg">
