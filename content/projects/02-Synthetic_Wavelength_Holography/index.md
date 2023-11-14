@@ -16,8 +16,6 @@ sections:
   - block: markdown
     id: topDescription
     content:
-      title:
-      subtitle: Imaging through scattering media or around corners at high resolution
       text: |
         ### *Imaging through scattering media or around corners at high resolution*
         Synthetic Wavelength Holography introduces a novel solution to image through scattering media, or around the corner at the physical space bandwidth limit. 
