@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: This is where the biography goes! Everyone will have to write this.
 
-research interests:
+interests:
   - Computational Imaging
   - Germany
   - ????? 
