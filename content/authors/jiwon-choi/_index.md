@@ -1,10 +1,10 @@
 ---
 # Display name
-title: John Bass
+title: Jiwon Choi
 
 # Full Name (for SEO)
-first_name: John
-last_name: Bass
+first_name: Jiwon
+last_name: Choi
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,12 +27,15 @@ interests:
   
 education:
   courses:
-    - course:  Ph.D. in Optical Sciences
-      institution: University of Arizona
-      year: present
-    - course: B.S. in Electrical and Optical Engineering
-      institution: Rose-Hulman Institute of Technology
-      year: 2022
+  - course:  Ph.D. in Optical Sciences
+    institution: University of Arizona
+    year: present
+  - course: M.S. in Computer Science
+    institution: Northwestern University
+    year: 2021
+  - course: B.S. Computer Science
+    institution: University at Buffalo, The state University of New York
+    
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -69,6 +72,7 @@ user_groups:
   - Ph.D. Student
 ---
 
-John Bass is a second-year Ph.D. student in Optical Sciences at the University of Arizona. He recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He has worked repeatedly with Ball Aerospace, doing Radiometric Analysis and Electrical Systems Engineering for the NEO Surveyor Spacecraft. His current research interests are centered around computational imaging.
+Jiwon Choi is an incoming PhD student in Optical Sciences at the University of Arizona. Her research interest includes computational photography with machine learning applied. She is also interested in 3D object rendering and visualization with commodity devices. Her current research is neural rendering and its application to holography images.
+Jiwon earned her master’s in Computer Science from Northwestern University in December 2021. Her master’s thesis “Quantitative Analysis of Holography Interpolation With NeRF” was advised by Dr. Oliver Cossairt, Dr. Jack Tumblin, Dr. Florian Willomitzer, and Dr. Marc Walton. She earned her bachelor’s in Computer Science from the University at Buffalo, The State University of New York. During her undergraduate years, she worked on autonomous robotics projects under Dr. Nils Napp.
 
 
