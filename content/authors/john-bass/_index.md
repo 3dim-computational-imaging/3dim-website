@@ -7,7 +7,7 @@ first_name: John
 last_name: Bass
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Ph.D. student in Optical Sciences
