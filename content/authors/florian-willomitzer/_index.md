@@ -76,9 +76,9 @@ Florian Willomitzer is an Associate Professor at the Wyant College of Optical Sc
 
 
 Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2022/florian-willomitzer-receives-nsf-crii-grant.html), winner of the [Optica 20th Anniversary Challenge](https://www.optica.org/en-us/foundation/opportunities/competitions_prizes/20th_anniversary_challenge/#CURRENT),  and his Ph.D. thesis was awarded with the [Springer Theses Award for Outstanding Ph.D. Research](https://link.springer.com/book/10.1007/978-3-030-10904-2).  
+<hr />
 
-
-### Education and work experience
+<p align = 'left'>### Education and work experience
 <table style="width:100%">
   </tr>  
   <td style="border: 0"><left> <a>
@@ -122,6 +122,7 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
   </tr>
  
 </table>
+</p>
 </br>
 
 ### Publications
