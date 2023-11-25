@@ -1,10 +1,10 @@
 ---
 # Display name
-title: John Bass
+title: James Taylor
 
 # Full Name (for SEO)
-first_name: John
-last_name: Bass
+first_name: James
+last_name: Taylor
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,9 +30,9 @@ education:
     - course:  Ph.D. in Optical Sciences
       institution: University of Arizona
       year: present
-    - course: B.S. in Electrical and Optical Engineering
-      institution: Rose-Hulman Institute of Technology
-      year: 2022
+    - course: B.S. in Physics and Economics
+      institution: Vanderbilt University
+      year: 2021
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -48,9 +48,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
@@ -69,6 +66,6 @@ user_groups:
   - Ph.D. Student
 ---
 
-John Bass is a second-year Ph.D. student in Optical Sciences at the University of Arizona. He recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He has worked repeatedly with Ball Aerospace, doing Radiometric Analysis and Electrical Systems Engineering for the NEO Surveyor Spacecraft. His current research interests are centered around computational imaging.
+James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.
 
 
