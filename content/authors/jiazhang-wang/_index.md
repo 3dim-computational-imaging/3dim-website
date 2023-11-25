@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Manuel Ballester
+title: Jiazhang Wang
 
 # Full Name (for SEO)
-first_name: Manuel
-last_name: Ballester
+first_name: Jiazhang
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. cadidate in 
+role: Ph.D. cadidate in Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,19 @@ bio: This is where the biography goes! Everyone will have to write this.
 
 interests:
   - Computational Imaging
-  - Germany
-  - ????? 
+  - 
+  - 
   
 education:
   courses:
-    - course:  Ph.D. in 
+    - course:  Ph.D. in Electrical and Computer Engineering
       institution: Northwestern University
       year: present
-    - course: M.S. in Optical Physics
-      institution: University of Erlangen-Nuremberg
+    - course: M.S. in Electrical Engineering
+      institution: Columbia University
       year: 2021
-    - course: B.S. in Mathematics
-      institution: University of Cadiz
+    - course: B.S. in Electrical Engineering
+      institution: Huazhong University of Science and Technology
       year: 2018
 
 # Social/Academic Networking
@@ -48,9 +48,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
@@ -69,7 +66,6 @@ user_groups:
   - Ph.D. Student
 ---
 
-Manuel Ballester is a doctoral candidate at Northwestern University and a member of the 3DIM lab led by Prof. Willomitzer. His research applies novel optimization techniques, advanced computational methods, and machine learning approaches to optics and imaging problems. He works on synthetic wavelength imaging and the improvement of holographic displays. He is also interested in the material characterization of semiconductors (such as CZT and Silicon) to improve sensor performance.
-Manuel completed his BSc in Mathematics in 2018 at the University of Cadiz. He received an MSc in Optical Physics in 2021 at the University of Erlangen-Nuremberg.
+Jiazhang Wang is a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at Northwestern University. Before joining Northwestern, he earned his master’s degree in Electrical Engineering from Columbia University and bachelor’s degree in Electrical Engineering from Huazhong University of Science and Technology (HUST). His research interests include computational photography, 3D optical metrology and computer vision. He is currently working on developing a novel eye-tracking prototype using optical metrology.
 
 
