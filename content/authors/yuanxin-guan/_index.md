@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Student
+  - Ph.D. Students
 ---
 
 Yuanxin Guan is a Ph.D. candidate who was working with Dr. James Schwiegerling in the field of visual optics. She is now working with both Dr. Florian Willomitzer and Dr. Travis Sawyer on developing an optical system in aid of myopia progression research.

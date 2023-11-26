@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Student
+  - M.S. Students
 ---
 
 Stefan Forschner is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He received his bachelor’s degree in physics at California State Polytechnic University – Pomona in 2021. Previously he has worked on NASA SBIR programs for developing laser doppler vibrometer systems for vibrational mode analysis. He now works with Prof. Florian Willomitzer on synthetic wavelength imaging.

@@ -105,7 +105,7 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
   <td style="border: 0"><left> <a>
   Jan'11 - Aug'17
  </a> </left> </td>
-     <td style="border: 0">  <b>PhD (Dr. rer. nat.)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
+     <td style="border: 0">  <b>Ph.D. (Dr. rer. nat.)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
   Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.
   </tr>
   
@@ -118,7 +118,7 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
   <td style="border: 0"><left> <a>
   Oct'05 - Sept'10
  </a> </left> </td>
-     <td style="border: 0">  <b>*MS (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany
+     <td style="border: 0">  <b>MS (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany
   </tr>
  
 </table>

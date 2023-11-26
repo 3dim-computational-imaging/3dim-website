@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Student
+  - Ph.D. Students
 ---
 
 James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.

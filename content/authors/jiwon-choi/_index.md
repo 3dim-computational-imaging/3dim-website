@@ -22,7 +22,7 @@ bio: This is where the biography goes! Everyone will have to write this.
 
 interests:
   - Computational Imaging
-  - Germany
+  - 
   - ????? 
   
 education:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Student
+  - Ph.D. Students
 ---
 
 Jiwon Choi is an incoming PhD student in Optical Sciences at the University of Arizona. Her research interest includes computational photography with machine learning applied. She is also interested in 3D object rendering and visualization with commodity devices. Her current research is neural rendering and its application to holography images.

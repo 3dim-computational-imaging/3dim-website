@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Student
+  - Ph.D. Students
 ---
 
 John Bass is a second-year Ph.D. student in Optical Sciences at the University of Arizona. He recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He has worked repeatedly with Ball Aerospace, doing Radiometric Analysis and Electrical Systems Engineering for the NEO Surveyor Spacecraft. His current research interests are centered around computational imaging.
