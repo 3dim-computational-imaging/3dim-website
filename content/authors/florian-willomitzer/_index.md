@@ -14,7 +14,7 @@ role: Associate Professor of Optical Sciences
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Arizona
+  - name: Wyant College of Optical Sciences - the University of Arizona
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

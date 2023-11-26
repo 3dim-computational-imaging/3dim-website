@@ -15,10 +15,10 @@ sections:
           - Postdoctoral Researcher
           - Ph.D. Student
           - Researcher Specialists
-          - Master Students
-          - Administration
+          - M.S. Student
           - Visitors
           - Alumni
+          - Administration
       sort_by: Params.last_name
       sort_ascending: true
     design:
