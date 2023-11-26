@@ -132,7 +132,7 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
   </tr>
   <tr>
     <td>Oct'05 - Sep'10</td>
-    <td><b>MS (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany</td>
+    <td><b>M.S. (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany</td>
 
   </tr>
 </table>
