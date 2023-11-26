@@ -81,21 +81,21 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 <html>
 <head>
 <style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 120%;
-}
+   table {
+     font-family: arial, sans-serif;
+     border-collapse: collapse;
+     width: 120%;
+     }
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 12px;
-}
+   td, th {
+     border: 1px solid #dddddd;
+     text-align: left;
+     padding: 12px;
+     }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+   tr:nth-child(even) {
+     background-color: #dddddd;
+     }
 </style>
 </head>
 <body>
