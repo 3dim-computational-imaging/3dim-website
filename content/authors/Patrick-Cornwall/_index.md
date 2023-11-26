@@ -10,7 +10,7 @@ last_name: Cornwall
 superuser: false
 
 # Role/position
-role: Ph.D. student in Optical Sciences
+role: Ph.D. Student in Optical Sciences
 
 # Organizations/Affiliations
 organizations:

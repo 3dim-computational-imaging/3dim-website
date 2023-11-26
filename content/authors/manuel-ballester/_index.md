@@ -10,7 +10,7 @@ last_name: Ballester
 superuser: false
 
 # Role/position
-role: Ph.D. cadidate in 
+role: Ph.D. Cadidate in 
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Dashpute
 superuser: false
 
 # Role/position
-role: Ph.D. student in Electrical Engineering
+role: Ph.D. Student in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
