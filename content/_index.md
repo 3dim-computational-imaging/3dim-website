@@ -14,7 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        Welcome to the Work-In-Progress 3DIM Website! This page is currently under construction. Click [**here**](https://3dim.northwestern.edu/) to go to our current website.
+        Welcome to the Work-In-Progress 3DIM Website! This page is currently under construction. Click <a href="https://3dim.northwestern.edu/">here</a> to go to our current website.
   
   - block: portfolio
     id: research
