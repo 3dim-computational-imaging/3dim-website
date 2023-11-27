@@ -9,13 +9,12 @@ sections:
     id: summary
     content:
       title: |
-        Summary
+        WIP Website
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        A **Summary** of the 3DIM group will eventually go here, similar to what is on the main homepage.
+        Welcome to the Work-In-Progress 3DIM Website! This page is currently under construction. Click [**here**](https://3dim.northwestern.edu/) to go to our current website.
   
   - block: portfolio
     id: research
