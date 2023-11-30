@@ -13,7 +13,7 @@ sections:
         Synthetic Wavelength Holography
       text: |
         <img src="Fig1.jpg">
-        <h1><i>Imaging through scattering media or around corners at high resolution</i></h1>
+        <h3><i>Imaging through scattering media or around corners at high resolution</i></h3>
         Synthetic Wavelength Holography introduces a novel solution to image through scattering media, or around the corner at the physical space bandwidth limit. 
         Current state-of-the-art approaches are either technically limited by the low spatial and temporal resolution of time-of-flight detectors, or by a very narrow viewing angle in which the 
         hidden scene can be reconstructed. In our approach, we beat together light at two closely spaced optical frequencies to produce a low frequency 'synthetic wave’ (beat wave), largely immune 
