@@ -17,7 +17,7 @@ doi: "10.1038/s41467-021-26776-w"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Communications"
+publication: "*Nature Communications*"
 publication_short: ""
 
 abstract: The presence of a scattering medium in the imaging path between an object and an observer is known to severely limit the visual acuity of the imaging system. We present an approach to circumvent the deleterious effects of scattering, by exploiting spectral correlations in scattered wavefronts. Our Synthetic Wavelength Holography (SWH) method is able to recover a holographic representation of hidden targets with sub-mm resolution over a nearly hemispheric angular field of view. The complete object field is recorded within 46{\thinspace}ms, by monitoring the scattered light return in a probe area smaller than 6{\thinspace}cm{\thinspace}{\texttimes}{\thinspace}6{\thinspace}cm. This unique combination of attributes opens up a plethora of new Non-Line-of-Sight imaging applications ranging from medical imaging and forensics, to early-warning navigation systems and reconnaissance. Adapting the findings of this work to other wave phenomena will help unlock a wider gamut of applications beyond those envisioned in this paper.
