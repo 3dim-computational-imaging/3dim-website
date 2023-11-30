@@ -45,7 +45,7 @@ sections:
       view: citation
       columns: '1'
 
- - block: markdown
+  - block: markdown
     id: header
     content:
       title: |
