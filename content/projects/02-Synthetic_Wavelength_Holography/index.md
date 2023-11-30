@@ -24,5 +24,24 @@ sections:
         
         The general concept of ‘synthetic waves’ has potential applications at many different scales and wavebands, including radar, ultrasound, or X-ray. In the optical waveband the ability to 
         look around corners or through scattering media has many potential applications in medicine, naval sciences, earth, and planetary sciences as well as automotive sensing and material sciences. 
-        Looking deeper through tissue, novel endoscopic imaging methods, or imaging through dense fog or atmospheric turbulences are just a few potential applications.  
+        Looking deeper through tissue, novel endoscopic imaging methods, or imaging through dense fog or atmospheric turbulences are just a few potential applications.
+
+  - block: collection
+    id: project-publications
+    content:
+      title: Publications
+      text: 
+      count: 0
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'Synthetic Wavelength Holography'
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: citation
+      columns: '1'
 ---

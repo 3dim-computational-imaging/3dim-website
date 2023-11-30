@@ -20,7 +20,7 @@ publication_short: ""
 
 abstract: We present a method for the computational synthesis of a shaped, synthetic light pulse from interferometric measurements under CW illumination. The pulse can be manipulated to travel through a captured scene, demonstrating synthetic light-in-flight videos.
 
-tags: ["SWH T2"]
+tags: ["Synthetic Wavelength Holography","SWH T2"]
 featured: false
 
 # links:

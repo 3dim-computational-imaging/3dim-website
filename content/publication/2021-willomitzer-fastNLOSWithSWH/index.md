@@ -25,7 +25,7 @@ abstract: The presence of a scattering medium in the imaging path between an obj
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["SWH T1"]
+tags: ["Synthetic Wavelength Holography","SWH T1"]
 featured: true
 
 # links:

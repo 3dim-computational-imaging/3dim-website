@@ -21,7 +21,7 @@ publication_short: ""
 
 abstract: We present a novel single-shot interferometric ToF camera targeted for precise 3D measurements of dynamic objects. The camera concept is based on Synthetic Wavelength Interferometry, a technique that allows retrieval of depth maps of objects with optically rough surfaces at submillimeter depth precision. In contrast to conventional ToF cameras, our device uses only off-the-shelf CCD/CMOS detectors and works at their native chip resolution (as of today, theoretically up to 20 Mp and beyond). Moreover, we can obtain a full 3D model of the object in single-shot, meaning that no temporal sequence of exposures or temporal illumination modulation (such as amplitude or frequency modulation) is necessary, which makes our camera robust against object motion. In this paper, we introduce the novel camera concept and show first measurements that demonstrate the capabilities of our system. We present 3D measurements of small (cm-sized) objects with > 2 Mp point cloud resolution (the resolution of our used detector) and up to sub-mm depth precision. We also report a "single-shot 3D video" acquisition and a first single-shot "Non-Line-of-Sight" measurement. Our technique has great potential for high-precision applications with dynamic object movement, e.g., in AR/VR, industrial inspection, medical imaging, and imaging through scattering media like fog or human tissue.
 
-tags: ["SWH T2"]
+tags: ["Synthetic Wavelength Holography","SWH T2"]
 featured: false
 
 # links:
