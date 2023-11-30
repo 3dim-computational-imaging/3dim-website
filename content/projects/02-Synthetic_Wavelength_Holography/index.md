@@ -51,7 +51,7 @@ sections:
       title: |
         Synthetic Wavelength Holography in the News
       text: |
-        Synthetic Wavelength Holography was [Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.](https://www.northwestern.edu/newsletters/experts/2021/11-30.html)
+        Synthetic Wavelength Holography was [Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within the week.](https://www.northwestern.edu/newsletters/experts/2021/11-30.html)
 
         ----------
         Official Northwestern research news release:   
@@ -68,36 +68,19 @@ sections:
         Research news featured on external websites (selection):  
 
         [**Newsweek**: "This Holographic Camera Can See Around Corners, Under Human Skin" (Nov. 19, 2021)](https://www.newsweek.com/camera-see-around-corners-under-human-skin-northwestern-university-light-scattering-1651173)   
-
         [**NSF.gov**: "High-resolution camera can see around corners and through scattering media" (Dec. 7, 2021)](https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304047&org=NSF&from=news)   
-
         [**SCIENTIFIC AMERICAN**: "Holographic Camera Instantly Peeks around Obstacles" (Jan. 19, 2022)](https://www.scientificamerican.com/article/holographic-camera-instantly-peeks-around-obstacles/)  
-
-
         [**Optics.org**: "Northwestern University camera sees around corners" (Nov. 18, 2021)](https://optics.org/news/12/11/28)   
-
-
         [**Phys.org**: "New holographic camera sees the unseen with high precision" (Nov. 17, 2021)](https://phys.org/news/2021-11-holographic-camera-unseen-high-precision.html)  
-
         [**Daily Mail**: "Powerful holographic camera is developed that can see through ..." (Nov. 19, 2021)](https://www.dailymail.co.uk/sciencetech/article-10222373/Powerful-holographic-camera-developed-ANYTHING.html)  
-
         [**Photonics.com**: "Holographic Camera Peers Through Fog, Around Corners" (Dec., 2021)](https://www.photonics.com/Articles/Holographic_Camera_Peers_Through_Fog_Around/p22/vo209/i1371/a67621)  
-
         [**AI in Healthcare**: "Novel camera images objects around corners, behind barriers" (Nov. 19, 2021)](https://aiin.healthcare/topics/emerging-technologies/novel-camera-images-objects-around-corners-behind-barriers)   
-
         [**Science X**: "Best of Last Week – Camera sees around corners, ...." (Nov. 22, 2021)](https://sciencex.com/news/2021-11-week-camera-corners-cold-moon.html)   
-
         [**New Atlas**: "Holographic camera reconstructs objects around corners in milliseconds" (Nov. 17, 2021)](https://newatlas.com/technology/holographic-camera-non-line-sight-imaging/)  
-
         [**IFL Science**: "New Holographic Camera Can See Around Corners – Or Inside Your Skull" (Nov. 19, 2021)](https://www.iflscience.com/technology/new-holographic-camera-can-see-around-corners-or-inside-your-skull/)   
-
         [**Mashable**: "Researchers Develop Camera That Can See Through Skin And Around Corners" (Nov. 18, 2021)](https://in.mashable.com/tech/25889/researchers-develop-camera-that-can-see-through-skin-and-around-corners)   
-
         [**Universal-Sci**: "Scientists developed a remarkable camera that can see around corners" (Nov. 17, 2021)](https://www.universal-sci.com/article/scientists-developed-a-camera-that-can-see-around-corners)   
-
-
         [**ZME Science**: "Holographic camera can see around corners or even through the skin" (Nov. 18, 2021)](https://www.zmescience.com/science/news-science/holographic-camera-sees-hidden-objects/)  
-
          
         More...  
         [\[ScienceDaily\]](https://www.sciencedaily.com/releases/2021/11/211117100106.htm) |
@@ -149,27 +132,14 @@ sections:
         International news coverage (selection): 
 
         [**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](https://www.nn.de/fuerth/further-wissenschaftler-entwickelt-kamera-die-um-die-ecke-blicken-kann-1.12080421)   
-
         [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
-
         [**c't (German)**: "Holo-Kamera sieht um die Ecke " (Dez. 12, 2021)](https://www.heise.de/select/ct/2021/26/2132108234112845409) 
-
         ***VIDEO:*** [**Yahoo News (German)**: "Neue Technologie: Holografische Kamera kann um Ecken sehen" (Nov. 18, 2021)](https://de.nachrichten.yahoo.com/neue-technologie-holographische-kamera-um-130119079.html)  
-
-
         [**FutureZone (German)**: "Neue holografische Kamera macht das Unsichtbare sichtbar" (Nov. 17, 2021)](https://futurezone.at/science/neue-holografische-kamera-macht-das-unsichtbare-sichtbar/401809609)   
-
-         
         [**Germanic (German)**: "Neue holografische Kamera sieht das Unsichtbare mit hoher Präzision" (Nov. 17, 2021)](https://germanic.news/neue-holografische-kamera-sieht-das-unsichtbare-mit-hoher-prazision/)  
-
-
         [**EuropaPress (Spanish)**: "Nueva cámara holográfica ve lo invisible con alta precisión" (Nov. 17, 2021)](https://www.europapress.es/ciencia/laboratorio/noticia-nueva-camara-holografica-ve-invisible-alta-precision-20211117122400.html)  
-
-
         [**Trust My Science (French)**: "Une caméra qui permet de voir à travers les objets" (Nov. 17, 2021)](https://trustmyscience.com/camera-permet-voir-a-travers-objets/)  
-
         [**Engineers Online (Dutch)**: "Nieuwe holografische camera kijkt om hoekjes en ziet het ongeziene met grote precisie" (Nov. 23, 2021)](https://www.engineersonline.nl/nieuws/id34899-nieuwe-holografische-camera-kijkt-om-hoekjes-en-ziet-het-ongeziene-met-grote-precisie.html)   
-
 
         More...   
         [\[**VIDEO:** MSN News (German)\]](https://www.msn.com/de-de/lifestyle/reisen/neue-technologie-holographische-kamera-kann-um-ecken-sehen/vp-AAQRh2m) |
