@@ -49,6 +49,14 @@ sections:
     id: header
     content:
       title: |
+        Related Talk Recordings
+      text: |
+        TODO: Put talks here, once we figure out how to do them!
+
+  - block: markdown
+    id: header
+    content:
+      title: |
         Synthetic Wavelength Holography in the News
       text: |
         Synthetic Wavelength Holography was [Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within the week.](https://www.northwestern.edu/newsletters/experts/2021/11-30.html)
