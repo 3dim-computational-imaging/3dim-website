@@ -11,13 +11,9 @@ sections:
     content:
       title: |
         Synthetic Wavelength Holography
-      text: <img src="Fig1.jpg">
-
-  - block: markdown
-    id: topDescription
-    content:
       text: |
-        ### *Imaging through scattering media or around corners at high resolution*
+      <img src="Fig1.jpg">
+      ### *Imaging through scattering media or around corners at high resolution*
         Synthetic Wavelength Holography introduces a novel solution to image through scattering media, or around the corner at the physical space bandwidth limit. 
         Current state-of-the-art approaches are either technically limited by the low spatial and temporal resolution of time-of-flight detectors, or by a very narrow viewing angle in which the 
         hidden scene can be reconstructed. In our approach, we beat together light at two closely spaced optical frequencies to produce a low frequency 'synthetic wave’ (beat wave), largely immune 
@@ -29,5 +25,11 @@ sections:
         The general concept of ‘synthetic waves’ has potential applications at many different scales and wavebands, including radar, ultrasound, or X-ray. In the optical waveband the ability to 
         look around corners or through scattering media has many potential applications in medicine, naval sciences, earth, and planetary sciences as well as automotive sensing and material sciences. 
         Looking deeper through tissue, novel endoscopic imaging methods, or imaging through dense fog or atmospheric turbulences are just a few potential applications.  
+
+  - block: markdown
+    id: topDescription
+    content:
+      text: |
+        Test
 
 ---
