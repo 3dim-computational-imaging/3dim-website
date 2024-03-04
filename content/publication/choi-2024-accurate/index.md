@@ -6,16 +6,16 @@ title: Accurate Eye-Tracking from Deflectometric Information using Deep Learning
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Jiwon Choi
-- Jiazhang Wang
-- Tianfu Wang
-- Florian Willomitzer
+- jiwon-choi
+- jiazhang-wang
+- tianfu-wang
+- florian-willomitzer
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2023-08-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.923797Z'
@@ -23,15 +23,15 @@ publishDate: '2024-02-23T19:59:54.923797Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: '*Optica Open*'
 publication_short: ''
 
-doi: ''
+doi: '10.1364/COSI.2023.CTh2B.5'
 
-abstract: ''
+abstract: 'We present two methods for fast and precise eye-tracking in VR headsets. Both methods exploit deflectometric information, i.e., the specular reflection of an extended screen over the eye surface.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://opg.optica.org/abstract.cfm?URI=COSI-2023-CTh2B.5'
 url_code: ''
 url_dataset: ''
 url_poster: ''

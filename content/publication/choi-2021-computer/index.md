@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2022'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.893327Z'
@@ -20,7 +20,7 @@ publishDate: '2024-02-23T19:59:54.893327Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- thesis
 
 # Publication name and optional abbreviated publication name.
 publication: '*Northwestern University*'
@@ -28,7 +28,11 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'The presented work provides a way of preserving holography images through rendering the
+holography images with NeRF and NeRF--, a neural radiance field representation method. This
+paper explores the feasibility of interpolating photographs of holograms by using the neural
+radiance field to synthesize novel views. Through quantitative analysis, it demonstrates that the
+NeRF model is able to interpolate photographs of holograms.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -39,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://www.mccormick.northwestern.edu/computer-science/documents/2022-01-quantitative-analysis-on-holography-interpolation-with-nerf.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -7,14 +7,14 @@ title: Planning for robotic dry stacking with irregular stones
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Yifang Liu
-- Jiwon Choi
+- jiwon-choi
 - Nils Napp
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2021-01-13'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.915770Z'
@@ -28,9 +28,9 @@ publication_types:
 publication: '*Field and Service Robotics: Results of the 12th International Conference*'
 publication_short: ''
 
-doi: ''
+doi: '10.1007/978-981-15-9460-1_23'
 
-abstract: ''
+abstract: 'The ability to build structures with autonomous robots using only found, minimally processed stones would be immensely useful, especially in remote areas. Assembly planning for dry-stacked structures, however, is difficult since both the state and action spaces are continuous, and stability is strongly affected by complex friction and contact constraints. We propose a planning algorithm for such assemblies that uses a physics simulator to find a small set of feasible poses and then evaluates them using a hierarchical filter. We carefully designed the heuristics for the filters to match our goal of building stable, free-standing walls. These plans are then executed open-loop with a robotic arm equipped with a wrist RGB-D camera. Experimental results show that the proposed planning algorithm can significantly improve the state of the art in robotic dry stacking.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/978-981-15-9460-1_23.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

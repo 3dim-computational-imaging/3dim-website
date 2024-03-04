@@ -6,19 +6,19 @@ title: How to archive the visual contents of aging analog film holograms?
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Jiwon Choi
-- Aniket Dashpute
+- jiwon-choi
+- aniket-dashpute
 - Bingjie Xu
 - Oliver Cossairt
 - Marc Walton
 - Jack Tumblin
-- Florian Willomitzer
+- florian-willomitzer
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2023-09-25'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.900934Z'
@@ -26,7 +26,7 @@ publishDate: '2024-02-23T19:59:54.900934Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: '*Deutschen Gesellschaft fur angewandte Optik*'
@@ -34,7 +34,11 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'We introduce a novel method for the digital preservation of analog film holograms.
+Our approach uses a machine learning-based approach dubbed Neural Radiance
+Fields (NeRF). We evaluate the performance of our method with both qualitative
+and quantitative experiments, showing that analog holograms can be digitally pre-
+served with high quality.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -45,7 +49,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'choi-2023-archive.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

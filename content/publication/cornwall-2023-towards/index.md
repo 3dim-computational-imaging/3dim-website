@@ -6,16 +6,16 @@ title: Towards Synthetic Light-in-Flight
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Patrick Cornwall
-- Manuel Ballester
-- Heming Wang
-- Florian Willomitzer
+- patrick-cornwall
+- manuel-ballester
+- heming-wang
+- florian-willomitzer
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: "2023-08-16"
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.864727Z'
@@ -29,20 +29,20 @@ publication_types:
 publication: '*Computational Optical Sensing and Imaging*'
 publication_short: ''
 
-doi: ''
+doi: "10.1364/COSI.2023.CTh2B.3"
 
-abstract: ''
+abstract: 'We present a method for the computational synthesis of a shaped, synthetic light pulse from interferometric measurements under CW illumination. The pulse can be manipulated to travel through a captured scene, demonstrating synthetic light-in-flight videos.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: ["Synthetic Wavelength Holography"]
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://opg.optica.org/abstract.cfm?URI=COSI-2023-CTh2B.3'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["02-Synthetic_Wavelength_Holography"]
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
