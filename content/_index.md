@@ -70,8 +70,8 @@ sections:
     id: talks
     content:
       title: Talks
-      subtitle: 'Subtitle!'
-      text: Extra text for talks goes here
+      subtitle:
+      text:
       count: 4
       filters:
         author: ''
@@ -90,7 +90,7 @@ sections:
     id: mediacoverage
     content:
       title: Media Coverage
-      subtitle: 'Suuubtitle'
+      subtitle:
       text: This could possibly be a set of blocks, like the above sections!
     design:
       columns: '2'
@@ -99,8 +99,8 @@ sections:
     id: joinus
     content:
       title: Join Us
-      subtitle: 'Subnautica'
-      text: bla bla bla bla bla advertisement is necessary
+      subtitle:
+      text: TODO
     design:
       columns: '2'
 
@@ -133,8 +133,8 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: 'subscribe'
-      text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      subtitle:
+      text:
     design:
       columns: '2'
       spacing:

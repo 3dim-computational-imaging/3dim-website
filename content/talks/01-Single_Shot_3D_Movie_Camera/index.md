@@ -5,6 +5,7 @@ date: 2023-11-08
 summary: 3D videos of fast scenes with high data quality (5 associated publications)
 image:
   preview-only: true
+external_link: https://www.youtube.com/watch?v=yf6NgZcit28
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
