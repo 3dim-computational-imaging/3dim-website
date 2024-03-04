@@ -83,7 +83,7 @@ sections:
       order: desc
       page_type: talks
     design:
-      view: compact
+      view: community/talk
       columns: '2'
 
   - block: markdown
