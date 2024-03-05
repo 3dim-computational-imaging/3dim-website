@@ -38,6 +38,9 @@ summary: ''
 
 tags: ["Synthetic Wavelength Holography"]
 
+# Weights for project pages + the landing page
+landing_weight: 10
+
 # Display this page in a list of Featured pages?
 featured: false
 
