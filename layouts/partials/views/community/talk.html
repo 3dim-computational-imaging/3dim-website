@@ -47,7 +47,7 @@
   <div class="media-body talk-body">
 
     <!-- Display author before the talk title -->
-    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+    <a href="{{$link}}" {{ $target | safeHTMLAttr }} class="talk-author">
         <div class="article-style">
             {{ $item.Params.author }}
         </div>
