@@ -34,7 +34,7 @@
     background-color: red;
 }
 
-.media.stream-item .talk-thumbnail-image img {
+.media.stream-item, img.talk-thumbnail-image {
     max-width: 450px;
     max-height: 253px;
 }
