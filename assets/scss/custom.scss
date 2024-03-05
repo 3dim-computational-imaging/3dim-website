@@ -34,7 +34,11 @@
     background-color: red;
 }
 
-.talk-thumbnail-image {
+.talk-thumbnail-image img {
     max-width: 450px;
     max-height: 253px;
+}
+
+.talk-body {
+    margin-left: 10px;
 }
