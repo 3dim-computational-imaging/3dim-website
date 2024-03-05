@@ -21,9 +21,9 @@
       
       <p class="citation_paragraph"> <!-- Line 3: Publication and Year -->
       {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}},  {{- $item.Date.Format "2006" -}}.
+        {{- $item.Params.publication_short | markdownify -}},&nbsp; {{- $item.Date.Format "2006" -}}.
       {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}},  {{- $item.Date.Format "2006" -}}.
+        {{- $item.Params.publication | markdownify -}},&nbsp; {{- $item.Date.Format "2006" -}}.
       {{ end }}
       </p>
     </div>

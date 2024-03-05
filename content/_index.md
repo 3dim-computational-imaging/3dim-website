@@ -62,6 +62,7 @@ sections:
       offset: 0
       order: desc
       page_type: publication
+      sort_by: landing_weight
     design:
       view: citation
       columns: '2'
