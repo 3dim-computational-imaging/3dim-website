@@ -3,8 +3,8 @@ weight: 10
 title: A holographic camera that can see the unseen 
 author: Florian Willomitzer
 location: TEDx Nuremberg, Germany
+talkDate: 2022-07-01
 
-date: 2022-07-01
 summary: ''
 image:
   preview-only: true
