@@ -47,9 +47,11 @@
   <div class="media-body talk-body">
 
     <!-- Display author before the talk title -->
-    <div class="article-style">
-        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.author }}</a>
-    </div>
+    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <div class="article-style">
+            {{ $item.Params.author }}
+        </div>
+    </a>
 
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
@@ -64,7 +66,7 @@
     {{ end }}
 
     <div class="stream-meta article-metadata">
-        {{ $item.Params.location }}, {{ $item.Date }}
+        {{ $item.Params.location }}, {{ $item.Date | time.Format "July 2023" }}
     </div>
 
 
