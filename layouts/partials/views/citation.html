@@ -26,9 +26,6 @@
         {{- $item.Params.publication | markdownify -}}, {{- $item.Date.Format "2006" -}}.
       {{ end }}
       </p>
-      
-      <!-- Line 4: Other Links -->
-      <p class="citation_paragraph">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
     </div>
     
     <!-- Buttons -->
