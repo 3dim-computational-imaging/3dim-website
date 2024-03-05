@@ -28,3 +28,13 @@
   top: 0;
   left: 0;
 } 
+
+.talk-thumbnail-container {
+    aspect-ratio: 16 / 9;
+    background-color: red;
+}
+
+.talk-thumbnail-image {
+    max-width: 450px;
+    max-height: 253px;
+}
