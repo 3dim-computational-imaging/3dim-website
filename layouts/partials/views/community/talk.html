@@ -46,6 +46,11 @@
   <!-- Now do text First, then text -->  
   <div class="media-body talk-body">
 
+    <!-- Display author before the talk title -->
+    <div class="article-style">
+        {{ $item.author }}
+    </div>
+
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
@@ -58,6 +63,13 @@
     </a>
     {{ end }}
 
+    <div class="stream-meta article-metadata">
+        {{ $item.location }}, {{ $item.date }}
+    </div>
+
+
+    <!-- I am removing links and metadata to make space for the talk date / location
+    <!--
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "event" }}
@@ -86,6 +98,7 @@
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
+    -->
 
   </div>
 </div>
