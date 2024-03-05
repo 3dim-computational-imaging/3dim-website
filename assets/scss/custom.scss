@@ -54,4 +54,9 @@ p.citation_paragraph {
 .citation-button-box {
     display: flex;
     flex-wrap: wrap;
+    width: 105px;
+}
+
+.citation-flex-left {
+    flex: 1;
 }
