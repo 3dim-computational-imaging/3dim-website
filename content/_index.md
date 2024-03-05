@@ -81,6 +81,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
+      sort_by: landing_weight
       page_type: talks
     design:
       view: community/talk

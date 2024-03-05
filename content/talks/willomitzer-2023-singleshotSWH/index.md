@@ -1,5 +1,5 @@
 ---
-weight: 10
+landing_weight: 8
 title: 'Single-shot synthetic wavelength holography: a flexible approach for high-resolution imaging through scattering media'
 author: 'Florian Willomitzer'
 location: 'OPTICA Frontiers in Optics (FiO) Health Symposium, Tacoma'

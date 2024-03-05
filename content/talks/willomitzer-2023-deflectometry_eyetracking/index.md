@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 7
 title: 'Utilizing deflectometric information for single-shot eye-tracking with high accuracy'
 author: 'Florian Willomitzer'
 location: 'OPTICA Imaging Congress, 3D Image Acquisition and Display: Technology, Perception and Applications, Boston'

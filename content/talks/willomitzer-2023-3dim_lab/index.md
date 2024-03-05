@@ -1,5 +1,5 @@
 ---
-weight: 10
+landing_weight: 9
 title: 'The Computational 3D Imaging and Measurement Lab - From Fast and Precise 3D Sensors to Looking Around Corners'
 author: 'Florian Willomitzer'
 location: 'Industrial Affiliates Fall Meeting, University of Arizona'

@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 6
 title: 'Utilizing Nature’s Limits for Better Computational 3D Imaging'
 author: 'Florian Willomitzer'
 location: 'Center For Robotics and Biosystems Seminar, Northwestern University, USA'

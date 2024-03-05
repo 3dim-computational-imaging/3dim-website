@@ -1,5 +1,5 @@
 ---
-weight: 10
+landing_weight: 10
 title: 'A holographic camera that can see the unseen'
 author: 'Florian Willomitzer'
 location: 'TEDx Nuremberg, Germany'
