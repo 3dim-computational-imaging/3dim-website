@@ -60,3 +60,23 @@ p.citation_paragraph {
 .citation-flex-left {
     flex: 1;
 }
+
+div.profile-container {
+    display: block;
+    max-width: 100%;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.profile-floater {
+    float:  left;
+    margin-right: 10px;
+}
+
+.profile-wraptext div::before {
+  content: "";
+  width: 632px;
+  display: block;
+  overflow: hidden;
+  border: 1px solid green;
+}
