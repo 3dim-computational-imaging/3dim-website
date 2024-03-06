@@ -24,7 +24,7 @@
 
 <!-- About widget -->
 <div class="row">
-  <div class="col-12 col-lg-4 floating-profile">
+  <div class="col-12 col-lg-4">
     <div id="profile">
 
       {{ if site.Params.features.avatar.gravatar }}
@@ -85,7 +85,7 @@
 
     </div>
   </div>
-  <div> <!-- class="col-12 col-lg-8"> -->
+  <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $block.Params.widget $block.Title }}<h1>{{ $block.Title | markdownify | emojify }}</h1>{{ end }}
