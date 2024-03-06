@@ -83,7 +83,7 @@ div.profile-container {
     }
 }
 
-.profile-wraptext div::before {
+.profile-wraptext .article-style p::before {
   content: "";
   width: 632px;
   display: block;
