@@ -87,6 +87,10 @@ div.profile-container {
   content: "";
   width: 632px;
   display: block;
-  overflow: hidden;
+  overflow: visible;
   border: 1px solid green;
+}
+
+.profile-wraptext .article-style {
+  overflow: visible;
 }
