@@ -68,10 +68,19 @@ div.profile-container {
     margin-left: -15px;
 }
 
-.profile-floater {
-    float: left;
-    margin-right: 10px;
-    max-width: 33.333333333333%;
+@media (max-width: 992px) {
+    .profile-floater {
+        float: center;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 993px) {
+    .profile-floater {
+        float: left;
+        margin-right: 10px;
+        max-width: 33.333333333333%;
+    }
 }
 
 .profile-wraptext div::before {
