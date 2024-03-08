@@ -58,7 +58,7 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: 'Synthetic Wavelength Holography'
-      order: swh_weight
+      sort_by: swh_weight
       page_type: talks
     design:
       view: community/talk
