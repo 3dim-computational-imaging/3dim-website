@@ -50,7 +50,7 @@ sections:
     id: selected-publications
     content:
       title: Selected Publications
-      subtitle: 'See [all publications by year>>](/publication)</a>'
+      subtitle: 'See [all publications by year>>](/publication)'
       text:
       count: 0
       filters:
@@ -71,7 +71,7 @@ sections:
     id: talks
     content:
       title: Talks
-      subtitle:
+      subtitle: 'See our [talk archive>>](/talks) for more recordings'
       text:
       count: 4
       filters:
@@ -92,7 +92,7 @@ sections:
     id: news
     content:
       title: News
-      subtitle:
+      subtitle: 'See our [news archive>>](/news)'
       text:
       count: 8
       filters:
