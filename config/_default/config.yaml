@@ -31,7 +31,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10 # NO LONGER USED FOR LISTS OF POSTS - overridden in layouts/_default/list.html to allow for pagination overrides - JMB
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
