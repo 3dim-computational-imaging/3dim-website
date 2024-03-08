@@ -1,7 +1,9 @@
 ---
 landing_weight: 10
 title: 'A holographic camera that can see the unseen'
-author: 'Florian Willomitzer'
+authors:
+- florian-willomitzer
+
 location: 'TEDx Nuremberg, Germany'
 date: 2022-07-01T00:00:00.00Z
 
