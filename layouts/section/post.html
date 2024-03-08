@@ -2,13 +2,11 @@
 
 {{ partial "page_header.html" . }}
 
-<div class="universal-wrapper">
+<div class="universal-wrapper class-2">
 
   {{ with .Content }}
-  <div class="article-style">{{ . }} HELP ME</div>
+  <div class="article-style">{{ . }}</div>
   {{ end }}
-  
-  Let's put some stuff here too!
 
   {{ if $.Params.ignore-pagination }}
       {{ range $index, $item := .Data.Pages }}
