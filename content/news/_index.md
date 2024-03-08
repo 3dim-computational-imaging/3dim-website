@@ -5,7 +5,7 @@ title: News Archive
 view: community/news
 
 # Number of items on one page
-count: 100;
+paginationcount: 100;
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
