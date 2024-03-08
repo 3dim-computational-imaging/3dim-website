@@ -2,7 +2,7 @@
 title: News Archive
 
 # Listing view
-view: news
+view: community/news
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
