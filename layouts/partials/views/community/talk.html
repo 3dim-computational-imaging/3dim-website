@@ -55,7 +55,26 @@
     </a>
     -->
     <div class="article-style">
-        {{ partial "page_metadata_authors" $item }}
+        <!-- The following code is based on the HUGOBLOX page_metadata_authors code, but is simplified -->
+        {{ if .Param "authors" }}
+            {{ range $index, $value := (.GetTerms "authors") }}
+                {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
+                {{- if .RelPermalink -}}
+                    <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+                {{- else -}}
+                    {{ .LinkTitle }}
+                {{- end -}}
+            {{- end -}}
+        {{ else if .Param "author" }}
+            {{ range $index, $value := (.GetTerms "author") }}
+                {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
+                {{- if .RelPermalink -}}
+                    <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+                {{- else -}}
+                    {{ .LinkTitle }}
+                {{- end -}}
+            {{- end -}}
+        {{ end }}
     </div>
 
     <div class="section-subheading article-title mb-0 mt-0">
