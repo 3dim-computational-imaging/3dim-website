@@ -4,8 +4,8 @@ title: News Archive
 # Listing view
 view: community/news
 
-# Pagination
-ignore-pagination: true
+# Number of items on one page
+pagination-count: 100;
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

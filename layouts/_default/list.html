@@ -2,7 +2,7 @@
 
 {{ partial "page_header.html" . }}
 
-<div class="universal-wrapper class-2">
+<div class="universal-wrapper">
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
   {{ end }}
@@ -12,7 +12,7 @@
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
   {{ end }}
 
-  {{ $paginator := .Paginate .Pages }}
+  {{ $paginator := .Paginate .Pages ($.Params.pagination-count | default 10)}}
   {{ range $index, $post := $paginator.Pages }}
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
   {{end}}
