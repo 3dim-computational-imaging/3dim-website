@@ -94,7 +94,7 @@ sections:
       title: News
       subtitle:
       text:
-      count: 4
+      count: 8
       filters:
         author: ''
         category: ''
