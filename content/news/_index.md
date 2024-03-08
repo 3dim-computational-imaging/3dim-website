@@ -4,8 +4,8 @@ title: News Archive
 # Listing view
 view: community/news
 
-# Number of items on one page
-paginationcount: 100;
+# Do we override pagination to show all entries on one page?
+paginationoverride: true
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

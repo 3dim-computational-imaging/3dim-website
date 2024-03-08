@@ -12,10 +12,16 @@
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
   {{ end }}
 
-  {{ $paginator := .Paginate .Pages ($.Params.count | default 10)}}
-  {{ range $index, $post := $paginator.Pages }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-  {{end}}
+  {{ if $.Params.paginationoverride }}
+    {{ range $index, $post := .Pages }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+    {{end}}
+  {{ else }}
+    {{ $paginator := .Paginate .Pages }}
+    {{ range $index, $post := $paginator.Pages }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+    {{end}}
+  {{ end }}
 
   {{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "compact")) }}
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
