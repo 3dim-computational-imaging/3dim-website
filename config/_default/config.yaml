@@ -31,7 +31,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10 # THIS IS NO LONGER USED - I overwrote post.html so it uses the pagination-count param in individual _index.md files. - JMB
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

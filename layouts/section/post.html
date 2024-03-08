@@ -8,12 +8,19 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages }}
-  {{ range $index, $item := ($paginator 100).Pages }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-  {{end}}
+  {{ if $.Params.ignore-pagination }}
+      {{ range $index, $item := .Data.Pages }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+      {{end}}
+  {{ else }}
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $index, $item := $paginator.Pages }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+      {{end}}
 
-  {{ partial "pagination" . }}
+      {{ partial "pagination" . }}
+  
+  {{ end }}
 
 </div>
 
