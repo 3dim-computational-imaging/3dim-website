@@ -56,17 +56,8 @@
     -->
     <div class="article-style">
         <!-- The following code is based on the HUGOBLOX page_metadata_authors code, but is simplified -->
-        {{ if .Param "authors" }}
-            {{ range $index, $value := (.GetTerms "authors") }}
-                {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
-                {{- if .RelPermalink -}}
-                    <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-                {{- else -}}
-                    {{ .LinkTitle }}
-                {{- end -}}
-            {{- end -}}
-        {{ else if .Param "author" }}
-            {{ range $index, $value := (.GetTerms "author") }}
+        {{ if $item.Params "authors" }}
+            {{ range $index, $value := ($item.GetTerms "authors") }}
                 {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
                 {{- if .RelPermalink -}}
                     <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
