@@ -61,7 +61,7 @@ sections:
       order: swh_weight
       page_type: talks
     design:
-      view: talk
+      view: community/talk
       columns: '1'
 
   - block: markdown
