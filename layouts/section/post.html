@@ -8,7 +8,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages ($.Params.pagination-count | default 10) }}
+  {{ $paginator := .Paginate .Data.Pages ($.Params.pagination-count | default 20) }}
   {{ range $index, $item := $paginator.Pages }}
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
   {{end}}
