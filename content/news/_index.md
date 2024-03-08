@@ -5,7 +5,7 @@ title: News Archive
 view: community/news
 
 # Do we override pagination to show all entries on one page?
-paginationoverride: false
+paginationoverride: true
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

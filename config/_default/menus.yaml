@@ -7,8 +7,8 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: <s>News</s>
-    url: post
+  - name: News
+    url: '#news'
     weight: 10
   - name: Team
     url: people
