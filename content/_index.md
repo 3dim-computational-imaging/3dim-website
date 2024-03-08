@@ -87,6 +87,26 @@ sections:
     design:
       view: community/talk
       columns: '2'
+      
+  - block: collection
+    id: news
+    content:
+      title: News
+      subtitle:
+      text:
+      count: 4
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: news
+    design:
+      view: community/news
+      columns: '2'
 
   - block: markdown
     id: mediacoverage
