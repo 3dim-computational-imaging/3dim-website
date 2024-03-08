@@ -1,10 +1,11 @@
 ---
 title: News Archive
 
-count: 99999
-
 # Listing view
 view: community/news
+
+# Pagination Count
+pagination-count: 100
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
