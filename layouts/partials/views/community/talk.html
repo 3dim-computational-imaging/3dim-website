@@ -54,19 +54,17 @@
         </div>
     </a>
     -->
-    <div class="article-style">
-        <!-- The following code is based on the HUGOBLOX page_metadata_authors code, but is simplified -->
-        {{ if $item.Params.authors }}
-            {{ range $index, $value := ($item.GetTerms "authors") }}
-                {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
-                {{- if .RelPermalink -}}
-                    <a href="{{.RelPermalink}}" class="talk-author">{{.LinkTitle}}</a>
-                {{- else -}}
-                    {{ .LinkTitle }}
-                {{- end -}}
+    <!-- The following code is based on the HUGOBLOX page_metadata_authors code, but is simplified -->
+    {{ if $item.Params.authors }}
+        {{ range $index, $value := ($item.GetTerms "authors") }}
+            {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
+            {{- if .RelPermalink -}}
+                <a href="{{.RelPermalink}}" class="talk-author">{{.LinkTitle}}</a>
+            {{- else -}}
+                {{ .LinkTitle }}
             {{- end -}}
-        {{ end }}
-    </div>
+        {{- end -}}
+    {{ end }}
 
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
