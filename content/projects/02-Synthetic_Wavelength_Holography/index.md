@@ -45,13 +45,24 @@ sections:
       view: citation
       columns: '1'
 
-  - block: markdown
-    id: header
+  - block: collection
+    id: talks
     content:
       title: |
         Related Talk Recordings
-      text: |
-        TODO: Put talks here, once we figure out how to do them!
+      text:
+      count: 0
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'Synthetic Wavelength Holography'
+      order: swh_weight
+      page_type: talks
+    design:
+      view: talk
+      columns: '1'
 
   - block: markdown
     id: header

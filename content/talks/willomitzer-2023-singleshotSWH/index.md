@@ -4,6 +4,10 @@ title: 'Single-shot synthetic wavelength holography: a flexible approach for hig
 
 # Talk Weights (used for order on different pages)
 landing_weight: 8
+swh_weight: 5
+
+# Talk Tags (used for categorization into projects)
+tags: ["Synthetic Wavelength Holography"]
 
 # Authors
 # Format: A YAML List of Author Names
