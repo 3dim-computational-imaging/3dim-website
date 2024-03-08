@@ -29,9 +29,8 @@
 {{ end }}
 
 <div class="media stream-item view-compact">
-  <div class="article-style">
+  <div class="article-style news-container">
     <!-- Date first, then summary -->
-    ({{ $item.Date.Month.String }} {{ $item.Date.Year }}) &nbsp;
-    {{ $item.Content }}
+    <span class="news-date">{{ $item.Date.Month.String }} {{ $item.Date.Year }}</span> {{ $item.Content }}
   </div>
 </div>

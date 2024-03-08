@@ -85,5 +85,14 @@ div.profile-container {
 }
 
 .profile-wraptext .article-style {
-  overflow: visible;
+    overflow: visible;
+}
+
+.news-date {
+    color: DarkViolet;
+    background-color: #f7e6ff;
+    border: 2px solid DarkViolet;
+    font-weight: bold;
+    border-radius: .3rem;
+    padding: 0px .2rem;
 }
