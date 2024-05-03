@@ -31,7 +31,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*Computational Optical Sensing and Imaging*'
 
-doi:"10.1364/COSI.2021.CF2E.3"
+doi: "10.1364/COSI.2021.CF2E.3"
 
 # Summary. An optional shortened abstract.
 summary: ''

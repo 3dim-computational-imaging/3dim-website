@@ -28,7 +28,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*arXiv preprint*'
 
-doi:"10.48550/arXiv.2308.07298"
+doi: "10.48550/arXiv.2308.07298"
 
 # Summary. An optional shortened abstract.
 summary: ''

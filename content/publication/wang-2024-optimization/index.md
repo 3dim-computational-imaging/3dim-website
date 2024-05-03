@@ -27,7 +27,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*IEEE Transactions on Computational Imaging*'
 
-doi:"10.1109/TCI.2024.3382494"
+doi: "10.1109/TCI.2024.3382494"
 
 # Summary. An optional shortened abstract.
 summary: ''
