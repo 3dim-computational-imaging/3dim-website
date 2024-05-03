@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Medical Applications of 3D Surface Measurement
 date: 2020-12-01
 ---
 

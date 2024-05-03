@@ -1,6 +1,10 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+weight: 10
+title: High-Precision 3D Industrial Inspection
+date: 2023-11-08
+summary: Summary goes here (XXX associated publications)
+image:
+  preview-only: true
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Deflectometric Eye Tracking
 date: 2020-12-01
 ---
 

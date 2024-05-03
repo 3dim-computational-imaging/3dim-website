@@ -1,5 +1,5 @@
 ---
-title: Synthetic Wavelength Holography
+title: Imaging through Scattering with Synthetic Wavelength Holography
 date: 2020-12-01
 type: landing
 image:

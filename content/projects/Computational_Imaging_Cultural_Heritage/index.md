@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Preservation and Analysis of Cultural Heritage with Computational Imaging
 date: 2020-12-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Semiconductor Thin Film Characterization
 date: 2020-12-01
 ---
 
