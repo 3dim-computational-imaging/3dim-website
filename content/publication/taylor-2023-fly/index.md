@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*Frontiers in Optics*'
 
-doi:"10.1364/FIO.2023.FTu6D.3"
+doi: "10.1364/FIO.2023.FTu6D.3"
 
 # Summary. An optional shortened abstract.
 summary: ''
