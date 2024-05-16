@@ -28,7 +28,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*3D Image Acquisition and Display: Technology, Perception and Applications*'
 
-doi:"10.1364/COSI.2018.CM2E.4"
+doi: "10.1364/COSI.2018.CM2E.4"
 
 # Summary. An optional shortened abstract.
 summary: ''
