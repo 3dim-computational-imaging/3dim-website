@@ -33,7 +33,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*Coatings*'
 
-doi:"10.3390/coatings12101549"
+doi: "10.3390/coatings12101549"
 
 # Summary. An optional shortened abstract.
 summary: ''
