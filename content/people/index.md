@@ -9,19 +9,11 @@ sections:
     content:
       slides:
         - title:
-          content:
+          content: <img href='grp1.jpeg'>
           align: center
-          background:
-            image:
-              filename: grp1.jpeg
-            fit: cover
         - title:
-          content:
+          content: <img href='grp2.jpeg'>
           align: center
-          background:
-            image:
-              filename: grp2.jpeg
-            fit: cover
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
