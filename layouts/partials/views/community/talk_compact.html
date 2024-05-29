@@ -62,7 +62,7 @@
         {{ range $index, $value := ($item.GetTerms "authors") }}
             {{- if gt $index 0 }}, {{ end -}} {{/* Add comma if we are not at index 0 */}}
             {{- if .RelPermalink -}}
-                <a href="{{.RelPermalink}}" class="talk-author">{{.LinkTitle}}</a>
+                <a href="{{.RelPermalink}}" class="talk-author-compact">{{.LinkTitle}}</a>
             {{- else -}}
                 {{ .LinkTitle }}
             {{- end -}}
