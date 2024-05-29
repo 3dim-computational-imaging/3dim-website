@@ -10,8 +10,7 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-      {{< gallery album="groupphotos">}}
+      text: {{< gallery album="groupphotos">}}
     design:
       columns: '1'
 
