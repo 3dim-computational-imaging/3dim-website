@@ -5,24 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
-    content:
-      slides:
-        - title:
-          content: <img href='grp1.jpeg'>
-          align: center
-        - title:
-          content: <img href='grp2.jpeg'>
-          align: center
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 5000
-
   - block: people
     content:
       title: Our Team
