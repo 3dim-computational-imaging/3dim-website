@@ -51,6 +51,17 @@ a.talk-author-compact {
     color: black;
 }
 
+a.media-coverage-title-link {
+    color: #1565c0;
+}
+
+div.media-coverage-contents {
+  overflow:hidden;
+  overflow-wrap:break-word;
+  word-wrap:break-word;
+  word-break:break-word;
+}
+
 p.citation_paragraph {
     margin: 0;
     font-size: 0.85rem;

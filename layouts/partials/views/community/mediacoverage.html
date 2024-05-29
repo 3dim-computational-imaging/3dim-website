@@ -32,16 +32,12 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      {{ $item.Params.prefix }}: <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ $item.Params.prefix }}: <a class="media-coverage-title-link" href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
-
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        {{.}}
-      </div>
-    </a>
-    {{ end }}
+    
+    <div class="media-coverage-contents">
+      {{ $item.Content }}
+    </div>
 
     <div class="stream-meta article-metadata">
 
