@@ -13,14 +13,14 @@ sections:
           align: center
           background:
             image:
-              filename: albums\groupphotos\grp1.jpeg
+              filename: albums/groupphotos/grp1.jpeg
             fit: cover
         - title:
           content:
           align: center
           background:
             image:
-              filename: albums\groupphotos\grp2.jpeg
+              filename: albums/groupphotos/grp2.jpeg
             fit: cover
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
