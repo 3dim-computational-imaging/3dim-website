@@ -47,35 +47,39 @@
           {{ $item.Content }}
         </div>
 
-            {{ if $item.Params.publications }}
-                {{/* Query */}}
-                {{ $query := site.RegularPages }}
-                {{ $query = where $query "Type" "publication" }}
-                {{ if $item.Params.publications.tag }}
-                    {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
-                    {{ $query = $query | intersect $tagged_pages.Pages }}
-                {{ end }}
-                
-                {{ $count := len $query }}
-                
-                {{/* Sort */}}
-                {{ $sort_by := $item.Params.publications.sort_by | default "Date" }}
-                {{ $sort_ascending := $item.Params.publications.sort_ascending | default (eq $item.Params.publications.order "asc") | default false }}
-                {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-                {{ $query = sort $query $sort_by $sort_order }}
-                
-                {{/* Actually create publication list */}}
-                {{ if $count }}
-                    <div class="project-section-publication-title">
-                      Selected Publications                </div>
-                
-                    <div class="project-section-publication-list">
-                        {{ range $index, $item := $query }}
-                            {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
-                        {{end}}
-                    </div>
-                {{ end }}
+        {{ if $item.Params.media }}
+            {{/* Get Publications and print them */}}
+        
+            {{/* Query */}}
+            {{ $query := site.RegularPages }}
+            {{ $query = where $query "Type" "publication" }}
+            {{ if $item.Params.media.tag }}
+                {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize $item.Params.media.tag)) }}
+                {{ $query = $query | intersect $tagged_pages.Pages }}
             {{ end }}
+            
+            {{ $count := len $query }}
+            
+            {{/* Sort */}}
+            {{ $sort_by := $item.Params.media.sort_by | default "Date" }}
+            {{ $sort_ascending := $item.Params.media.sort_ascending | default (eq $item.Params.media.order "asc") | default false }}
+            {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+            {{ $query = sort $query $sort_by $sort_order }}
+            
+            {{/* Actually create publication list */}}
+            {{ if $count }}
+                <div class="project-section-publication-title">
+                  Selected Publications                </div>
+            
+                <div class="project-section-publication-list">
+                    {{ range $index, $item := $query }}
+                        {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
+                    {{end}}
+                </div>
+            {{ end }}
+            
+            
+        {{ end }}
       </div>
     </div>
 </div>

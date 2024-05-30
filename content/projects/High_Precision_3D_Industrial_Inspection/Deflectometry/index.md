@@ -1,7 +1,7 @@
 ---
 title: Deflectometry
 
-publications:
+media:
     tag: "Precision-3D-Deflectometry"
     
 ---

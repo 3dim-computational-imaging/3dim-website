@@ -6,7 +6,7 @@
 <div class="universal-wrapper">
 {{ end }}
   {{ if $.Params.wrapperOverrideWidth }}
-        <div class="list-content-width-override-container">
+        <div class="list-content-width-override-container mb-3">
             {{ with .Content }}
               <div class="article-style" style="width: {{ $.Params.wrapperOverrideWidth }}%">{{ . }}</div>
             {{ end }}
