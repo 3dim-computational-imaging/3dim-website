@@ -31,8 +31,8 @@
 
 <div class="project-section-container">
 
-    {{ if $page.wrapperOverrideWidth }}
-    <div class="media stream-item view-compact" style = "width={{ $page.wrapperOverrideWidth }}%">
+    {{ if $page.Params.wrapperOverrideWidth }}
+    <div class="media stream-item view-compact" style = "width={{ $page.Params.wrapperOverrideWidth }}%">
     {{ else }}
     <p>test</p>
     <div class="media stream-item view-compact">
