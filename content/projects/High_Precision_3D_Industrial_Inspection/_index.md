@@ -5,7 +5,7 @@ date: 2023-11-08
 summary: Summary goes here (XXX associated publications)
 
 view: community/projectsection
-pagewidth: 80
+pagewidth: 100
 image:
   preview-only: true
 ---
