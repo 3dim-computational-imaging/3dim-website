@@ -1,0 +1,11 @@
+---
+weight: 10
+title: Fundamental Limits in Computational 3D Imaging
+prefix: "Project"
+external_link: /project/limits
+
+date: 2023-11-08
+image:
+  preview-only: true
+---
+Paper on [Limits of Holographic and Non-Holographic Acquisition of Surface Topography](https://www.light-am.com/article/doi/10.37188/lam.2022.025) was featured on the [cover page](https://3dim.northwestern.edu/images/LAM_22-2_CoverPage.jpg) of [Light: Advanced Manufacturing](https://www.light-am.com)
