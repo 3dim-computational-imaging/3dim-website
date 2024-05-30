@@ -3,7 +3,7 @@
 {{ partial "page_header.html" . }}
 
 {{ if $.Params.pagewidth }}
-<div class="universal-wrapper" style="width: {{ $item.Params.pagewidth }}%;">
+<div class="universal-wrapper" style="width: {{ $.Params.pagewidth }}%;">
 {{ else }}
 <div class="universal-wrapper">
 {{ end }}
