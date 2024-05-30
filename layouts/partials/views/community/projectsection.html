@@ -62,7 +62,7 @@
             {{ $query = sort $query $sort_by $sort_order }}
             
             {{ range $index, $item := $query }}
-                {{ partial "functions/render_view" (dict "page" $block "item" . "view" "citation" "index" $index) }}
+                {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
             {{end}}
         {{ end }}
     </div>
