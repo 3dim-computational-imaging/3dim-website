@@ -49,8 +49,8 @@
             {{ $query := site.RegularPages }}
             {{ $query = where $query "Type" "publication" }}
             {{ if $item.Params.publications.tag }}
-                {{ $archive_page = site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
-                {{ $query = $query | intersect $archive_page.Pages }}
+                {{ $tagged-pages := site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
+                {{ $query = $query | intersect $tagged-pages.Pages }}
             {{ end }}
             
             {{ $count := len $query }}
