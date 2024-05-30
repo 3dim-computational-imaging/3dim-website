@@ -155,3 +155,7 @@ div.project-section-contents {
   word-wrap:break-word;
   word-break:break-word;
 }
+
+div.project-section-container:nth-of-type(2n) {
+  background: #f7f7f7;
+}
