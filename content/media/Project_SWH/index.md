@@ -4,7 +4,7 @@ title: Synthetic Wavelength Holography
 prefix: "Project"
 external_link: /project/swh
 
-date: 2023-11-08
+date: 2021-11-24
 image:
   preview-only: true
 ---
