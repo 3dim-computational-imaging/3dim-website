@@ -28,48 +28,50 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact project-section-container">
-  <div class="media-body">
+<div class="project-section-container">
+    <div class="media stream-item view-compact">
+      <div class="media-body">
 
-    <div class="project-section-title mb-0 mt-0">
-      {{ $item.Title }}
-    </div>
-    
-    <div class="project-section-contents">
-      {{ $item.Content }}
-    </div>
+        <div class="project-section-title mb-0 mt-0">
+          {{ $item.Title }}
+        </div>
+        
+        <div class="project-section-contents">
+          {{ $item.Content }}
+        </div>
 
-    
-    
-    
-        {{ if $item.Params.publications }}
-            {{/* Query */}}
-            {{ $query := site.RegularPages }}
-            {{ $query = where $query "Type" "publication" }}
-            {{ if $item.Params.publications.tag }}
-                {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
-                {{ $query = $query | intersect $tagged_pages.Pages }}
+        
+        
+        
+            {{ if $item.Params.publications }}
+                {{/* Query */}}
+                {{ $query := site.RegularPages }}
+                {{ $query = where $query "Type" "publication" }}
+                {{ if $item.Params.publications.tag }}
+                    {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
+                    {{ $query = $query | intersect $tagged_pages.Pages }}
+                {{ end }}
+                
+                {{ $count := len $query }}
+                
+                {{/* Sort */}}
+                {{ $sort_by := $item.Params.publications.sort_by | default "Date" }}
+                {{ $sort_ascending := $item.Params.publications.sort_ascending | default (eq $item.Params.publications.order "asc") | default false }}
+                {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+                {{ $query = sort $query $sort_by $sort_order }}
+                
+                {{/* Actually create publication list */}}
+                {{ if $count }}
+                    <div class="project-section-publication-title">
+                      Selected Publications                </div>
+                
+                    <div class="project-section-publication-list">
+                        {{ range $index, $item := $query }}
+                            {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
+                        {{end}}
+                    </div>
+                {{ end }}
             {{ end }}
-            
-            {{ $count := len $query }}
-            
-            {{/* Sort */}}
-            {{ $sort_by := $item.Params.publications.sort_by | default "Date" }}
-            {{ $sort_ascending := $item.Params.publications.sort_ascending | default (eq $item.Params.publications.order "asc") | default false }}
-            {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-            {{ $query = sort $query $sort_by $sort_order }}
-            
-            {{/* Actually create publication list */}}
-            {{ if $count }}
-                <div class="project-section-publication-title">
-                  Selected Publications                </div>
-            
-                <div class="project-section-publication-list">
-                    {{ range $index, $item := $query }}
-                        {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
-                    {{end}}
-                </div>
-            {{ end }}
-        {{ end }}
-  </div>
+      </div>
+    </div>
 </div>
