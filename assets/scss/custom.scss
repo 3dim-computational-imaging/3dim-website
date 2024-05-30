@@ -66,6 +66,23 @@ div.media-coverage-contents {
   word-break:break-word;
 }
 
+div.media-item-container:nth-of-type(2n+1) {
+  background: #f7f7f7;
+}
+
+dif.media-item-container:only-of-type {
+  background: #ffffff;
+}
+
+div.media-item-container {
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+}
+
 p.citation_paragraph {
     margin: 0;
     font-size: 0.85rem;
@@ -159,6 +176,10 @@ div.project-section-contents {
 
 div.project-section-container:nth-of-type(2n+1) {
   background: #f7f7f7;
+}
+
+dif.project-section-container:only-of-type {
+  background: #ffffff;
 }
 
 div.project-section-container {

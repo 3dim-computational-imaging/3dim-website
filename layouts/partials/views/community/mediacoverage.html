@@ -28,37 +28,44 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
 
-    <div class="section-subheading article-title mb-0 mt-0">
-      {{ $item.Params.prefix }}: <a class="media-coverage-title-link" href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-    </div>
-    
-    <div class="media-coverage-contents">
-      {{ $item.Content }}
-    </div>
-
-    <div class="stream-meta article-metadata">
-        <span class="media-coverage-date"> {{ $item.Date.Month.String }} {{ $item.Date.Year }} </span>
-    </div>
-
-    {{ if $has_attachments }}
-    <div class="btn-links">
-      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-    </div>
+<div class="media-item-container mb-3">
+    {{ if $page.Params.wrapperOverrideWidth }}
+    <div class="media stream-item view-compact" style = "width: {{ $page.Params.wrapperOverrideWidth }}%;">
+    {{ else }}
+    <div class="media stream-item view-compact">
     {{ end }}
+      <div class="media-body">
 
-  </div>
-  <div class="ml-3">
-    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-    {{ with $resource }}
-      {{ $image := .Resize "150x" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy">
-      </a>
-    {{end}}
-  </div>
+        <div class="section-subheading article-title mb-0 mt-0">
+          {{ $item.Params.prefix }}: <a class="media-coverage-title-link" href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+        </div>
+        
+        <div class="media-coverage-contents">
+          {{ $item.Content }}
+        </div>
+
+        <div class="stream-meta article-metadata">
+            <span class="media-coverage-date"> {{ $item.Date.Month.String }} {{ $item.Date.Year }} </span>
+        </div>
+
+        {{ if $has_attachments }}
+        <div class="btn-links">
+          {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+        </div>
+        {{ end }}
+
+      </div>
+      <div class="ml-3">
+        {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+        {{ with $resource }}
+          {{ $image := .Resize "150x" }}
+          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+          <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+            <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+                alt="{{ $item.Title }}" loading="lazy">
+          </a>
+        {{end}}
+      </div>
+    </div>
 </div>
