@@ -28,7 +28,12 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{ if .overrideWidth }}
+<div class="project-section-container" style = "width={{ .overrideWidth }}%">
+{{ else }}
 <div class="project-section-container">
+{{ end }}
+
     <div class="media stream-item view-compact">
       <div class="media-body">
 

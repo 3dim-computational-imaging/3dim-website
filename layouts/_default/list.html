@@ -2,33 +2,30 @@
 
 {{ partial "page_header.html" . }}
 
-{{ if $.Params.pagewidth }}
-<div class="universal-wrapper" style="width: {{ $.Params.pagewidth }}%;">
-{{ else }}
+{{ if not $.Params.wrapperOverrideWidth }}
 <div class="universal-wrapper">
 {{ end }}
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
   {{ end }}
 
-
   {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "compact")) }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0 "overrideWidth" $.Params.wrapperOverrideWidth) }}
   {{ end }}
 
   {{ if $.Params.paginationoverride }}
     {{ range $index, $post := .Pages }}
-        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index  "overrideWidth" $.Params.wrapperOverrideWidth) }}
     {{end}}
   {{ else }}
     {{ $paginator := .Paginate .Pages }}
     {{ range $index, $post := $paginator.Pages }}
-        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index  "overrideWidth" $.Params.wrapperOverrideWidth) }}
     {{end}}
   {{ end }}
 
   {{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "compact")) }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0 "overrideWidth" $.Params.wrapperOverrideWidth) }}
   {{ end }}
   
   {{ if not $.Params.paginationoverride }}
