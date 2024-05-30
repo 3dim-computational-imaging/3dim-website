@@ -7,7 +7,7 @@ landing_weight: 10
 swh_weight: 10
 
 # Talk Tags (used for categorization into projects)
-tags: ["Synthetic Wavelength Holography"]
+tags: ["Precision-3D-SWH"]
 
 # Authors
 # Format: A YAML List of Author Names
