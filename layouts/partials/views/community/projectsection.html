@@ -39,9 +39,19 @@
       {{ $item.Content }}
     </div>
 
+    {{ if $item.Params.sectionWeightParam }}
     <div class="project-section-publication-title">
       Selected Publications:
+      {{ $query := where in (where (where .Site.RegularPages "Type" "publication") ".IsNode" false).Params $item.Params.sectionWeightParam }}
+      {{ $count := len $query }}
+      {{ if $count }}
+        {{ range $query }}
+        <li>
+          thing {{ .Title }}
+        </li>
+        {{ end }}
+      {{ end }}
     </div>
-    
+    {{ end }}
   </div>
 </div>

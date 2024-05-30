@@ -1,5 +1,7 @@
 ---
 title: Triangulation
+sectionWeightParam: landing_weight
+
 ---
 -ideal lambertian surface, diffuse reflection, scattering
 -epipolar geometry, calibration of projector and camera, phase shifting algorithm 
