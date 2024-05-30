@@ -40,26 +40,7 @@
     </div>
 
     <div class="stream-meta article-metadata">
-
-      {{ if eq $item.Type "event" }}
-      <div>
-        <span>
-          {{ partial "functions/get_event_dates" $item }}
-        </span>
-        {{ with $item.Params.location }}
-        <span class="middot-divider"></span>
-        <span>{{ . }}</span>
-        {{ end }}
-      </div>
-      {{ end }}
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
+        <span class="media-coverage-date"> {{ $item.Date.Month.String }} {{ $item.Date.Year }} </span>
     </div>
 
     {{ if $has_attachments }}
