@@ -7,6 +7,6 @@ summary: Summary goes here (XXX associated publications)
 view: community/projectsection
 wrapperOverrideWidth: 80
 image:
-  preview-only: true
+  preview-only: false
 ---
 Here's some description text. Let's see where it goes.
