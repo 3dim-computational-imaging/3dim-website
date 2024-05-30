@@ -30,7 +30,7 @@ sections:
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
-        exclude_tags: []
+        exclude_tags: ["hide-project"]
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
           - section
