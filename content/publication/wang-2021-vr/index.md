@@ -36,7 +36,7 @@ doi: "10.1364/COSI.2021.CF2E.3"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ["Precision-3D-Deflectometry"]
 
 # Weights for project pages + the landing page
 landing_weight: 10
