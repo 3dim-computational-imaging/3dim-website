@@ -103,7 +103,7 @@
                   Selected Talks
                 </div>
             
-                <div class="project-section-talks-list">
+                <div class="project-section-talk-list">
                     {{ range $index, $item := $query }}
                         {{ partial "functions/render_view" (dict "item" . "view" "community/talk" "index" $index) }}
                     {{end}}

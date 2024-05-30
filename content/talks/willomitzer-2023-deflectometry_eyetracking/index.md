@@ -5,6 +5,9 @@ title: 'Utilizing deflectometric information for single-shot eye-tracking with h
 # Talk Weights (used for order on different pages)
 landing_weight: 7
 
+# Talk Tags (used for categorization into projects)
+tags: ["Precision-3D-Deflectometry"]
+
 # Authors
 # Format: A YAML List of Author Names
 authors:
