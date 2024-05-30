@@ -5,8 +5,16 @@
 {{ if not $.Params.wrapperOverrideWidth }}
 <div class="universal-wrapper">
 {{ end }}
-  {{ with .Content }}
-    <div class="article-style">{{ . }}</div>
+  {{ if $.Params.wrapperOverrideWidth }}
+        <div class="list-content-width-override-container">
+            {{ with .Content }}
+              <div class="article-style" style="width: {{ $.Params.wrapperOverrideWidth }}%">{{ . }}</div>
+            {{ end }}
+        </div>
+  {{ else }}
+      {{ with .Content }}
+        <div class="article-style">{{ . }}</div>
+      {{ end }}
   {{ end }}
 
   {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "compact")) }}

@@ -168,3 +168,17 @@ div.project-section-container {
   align-items: center;
   justify-content: center;
 }
+
+div.list-content-width-override-container {
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+div.list-content-width-override-container div.article-style {
+  display: flex;
+  align-items: flex-start;
+}
