@@ -39,11 +39,9 @@
       {{ $item.Content }}
     </div>
 
-    <div class="project-section-publication-title">
-      Selected Publications:
-    </div>
     
-    <div class="project-section-publication-list">
+    
+    
         {{ if $item.Params.publications }}
             {{/* Query */}}
             {{ $query := site.RegularPages }}
@@ -61,10 +59,18 @@
             {{ $sort_order := cond $sort_ascending "asc" "desc" }}
             {{ $query = sort $query $sort_by $sort_order }}
             
-            {{ range $index, $item := $query }}
-                {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
-            {{end}}
+            {{/* Actually create publication list */}}
+            {{ if $count }}
+                <div class="project-section-publication-title">
+                  Selected Publications:
+                </div>
+            
+                <div class="project-section-publication-list">
+                    {{ range $index, $item := $query }}
+                        {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
+                    {{end}}
+                </div>
+            {{ end }}
         {{ end }}
-    </div>
   </div>
 </div>
