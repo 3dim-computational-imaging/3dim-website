@@ -39,19 +39,32 @@
       {{ $item.Content }}
     </div>
 
-    {{ if $item.Params.sectionWeightParam }}
     <div class="project-section-publication-title">
       Selected Publications:
-      {{ $query := where in (where (where .Site.RegularPages "Type" "publication") ".IsNode" false).Params $item.Params.sectionWeightParam }}
-      {{ $count := len $query }}
-      {{ if $count }}
-        {{ range $query }}
-        <li>
-          thing {{ .Title }}
-        </li>
-        {{ end }}
-      {{ end }}
     </div>
-    {{ end }}
+    
+    <div class="project-section-publication-list">
+        {{ if $item.Params.publications }}
+            {{/* Query */}}
+            {{ $query := site.RegularPages }}
+            {{ $query = where $query "Type" "publication" }}
+            {{ if $item.Params.publications.tag }}
+                {{ $archive_page = site.GetPage (printf "tags/%s" (urlize $item.Params.publications.tag)) }}
+                {{ $query = $query | intersect $archive_page.Pages }}
+            {{ end }}
+            
+            {{ $count := len $query }}
+            
+            {{/* Sort */}}
+            {{ $sort_by := $item.Params.publications.sort_by | default "Date" }}
+            {{ $sort_ascending := $item.Params.publications.sort_ascending | default (eq $item.Params.publications.order "asc") | default false }}
+            {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+            {{ $query = sort $query $sort_by $sort_order }}
+            
+            {{ range $index, $item := $query }}
+                <li>Future Publication</li>
+            {{end}}
+        {{ end }}
+    </div>
   </div>
 </div>
