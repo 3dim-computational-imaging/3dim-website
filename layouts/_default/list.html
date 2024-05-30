@@ -2,7 +2,11 @@
 
 {{ partial "page_header.html" . }}
 
+{{ if $item.Params.pagewidth }}
+<div class="universal-wrapper" style="width: {{ $item.Params.pagewidth }}%;">
+{{ else }}
 <div class="universal-wrapper">
+{{ end }}
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
   {{ end }}
@@ -31,6 +35,5 @@
     {{ partial "pagination" . }}
   {{ end }}
 </div>
-<p>Test</p>
 
 {{- end -}}
