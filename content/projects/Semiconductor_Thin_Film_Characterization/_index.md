@@ -3,10 +3,10 @@
 weight: 10
 
 # Title
-title: High-Precision 3D Industrial Inspection
+title: Semiconductor Thin Film Characterization
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
-summary: Summary goes here (XXX associated publications)
+summary: Precise Measurement of Semiconductor Optical Properties (XXX associated publications)
 
 # Please do not update the following header stuff
 view: community/projectsection

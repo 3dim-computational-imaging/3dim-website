@@ -1,6 +1,5 @@
 ---
 title: Triangulation
-sectionWeightParam: landing_weight
 
 ---
 -ideal lambertian surface, diffuse reflection, scattering
