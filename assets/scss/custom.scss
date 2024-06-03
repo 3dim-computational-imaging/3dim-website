@@ -212,3 +212,8 @@ div.project-section-talk-list {
 .media.stream-item figure.project-section-wide-image img {
     max-width: 100%;
 }
+
+figure.project-section-wide-image div.w-100 {
+    display: flex;
+    justify-content: center;
+}
