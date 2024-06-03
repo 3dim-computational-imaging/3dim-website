@@ -34,7 +34,7 @@ doi: "10.48550/arXiv.2311.09652"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ["HPrecision3D-Event-Deflectometry"]
 
 # Weights for project pages + the landing page
 landing_weight: 10
