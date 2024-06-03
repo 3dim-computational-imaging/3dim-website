@@ -221,3 +221,15 @@ figure.project-section-wide-image div.w-100 {
 div.wrapper-override-list-container {
     width: 100%;
 }
+
+@media (min-width: 992px) {
+  img.article-banner {
+    height: auto;
+  }
+}
+
+img.article-banner {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
