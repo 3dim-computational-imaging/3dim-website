@@ -3,7 +3,8 @@
 weight: 10
 
 # Title
-title: Ocular Distortion Measurement
+title: Imaging through Scattering with Synthetic Wavelength Holography
+subtitle: 'Imaging through scattering media or around corners at high resolution'
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: ''
