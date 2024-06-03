@@ -1,7 +1,4 @@
 ---
 title: SkinScan
 
-media:
-    tag: ""
-    
 ---
