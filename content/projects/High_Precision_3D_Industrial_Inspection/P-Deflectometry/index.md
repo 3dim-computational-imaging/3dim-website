@@ -1,5 +1,5 @@
 ---
-title: "Polarimetric Deflectometry\: A Novel Approach for 3D Imaging of Specular Surfaces"
+title: "Polarimetric Deflectometry: A Novel Approach for 3D Imaging of Specular Surfaces"
 
 media:
     tag: "HPrecision3D-Polarization-Deflectometry"
