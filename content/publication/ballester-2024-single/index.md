@@ -40,6 +40,10 @@ landing_weight: 10
 # Display this page in a list of Featured pages?
 featured: false
 
+# Preprint info
+url_preprint: 'https://arxiv.org/abs/2212.00928'
+preprint_date: '2022-12-02'
+
 # Links
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0143816624001441'
 url_code: ''
