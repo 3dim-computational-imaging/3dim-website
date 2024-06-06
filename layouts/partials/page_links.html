@@ -1,7 +1,7 @@
 {{ $is_list := .is_list }}
 {{ $page := .page }}
 {{ $link := "" }}
-{{ $preprint_date := .preprint_date }}
+{{ $preprint_date := $page.Params.preprint_date }}
 
 {{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
 {{ with $page.Params.url_preprint }}
