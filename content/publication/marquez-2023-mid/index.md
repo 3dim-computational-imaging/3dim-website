@@ -1,29 +1,28 @@
 ---
-title: 'Complex dielectric function of H-free a-Si films: Photovoltaic light absorber'
+title: Mid-Infrared Complex Refractive Index Spectra of Polycrystalline Copper-Nitride
+  Films by IR-VASE Ellipsometry and Their FIB-SEM Porosity
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- E Marquez
+- Emilio Márquez
+- Eduardo Blanco
+- Jose Manuel Manuel
 - manuel-ballester
-- M Garcia
-- M Cintado
-- AP Marquez
-- JJ Ruiz
-- SM Fernández
-- E Blanco
+- Marcos Garcia-Gurrea
+- Maria Isabel Rodriguez-Tapiador
+- Susana Maria Fernandez
 - florian-willomitzer
-- AK Katsaggelos
+- Aggelos K Katsaggelos
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
-date: '2023-02-01'
+date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-05-08T23:10:28.954254Z'
+publishDate: '2024-05-08T23:10:29.010964Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,9 +30,9 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Materials Letters*'
+publication: '*Preprints*'
 
-doi: "10.1016/j.matlet.2023.134485"
+doi: "10.20944/preprints202311.0544.v1"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -46,12 +45,8 @@ landing_weight: 10
 # Display this page in a list of Featured pages?
 featured: false
 
-# Preprint info
-url_preprint: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4372999'
-preprint_date: '2023'
-
 # Links
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167577X23006705'
+url_pdf: 'https://www.preprints.org/manuscript/202311.0544/v1'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,29 +1,25 @@
 ---
-title: 'Complex dielectric function of H-free a-Si films: Photovoltaic light absorber'
+title: Intensity interferometry-based 3D imaging
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- E Marquez
-- manuel-ballester
-- M Garcia
-- M Cintado
-- AP Marquez
-- JJ Ruiz
-- SM Fernández
-- E Blanco
+- Fabian Wagner
+- Florian Schiffers
 - florian-willomitzer
-- AK Katsaggelos
+- Oliver Cossairt
+- Andreas Velten
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
-date: '2023-02-01'
+
+date: '2021-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-05-08T23:10:28.954254Z'
+publishDate: '2024-05-08T23:10:28.776833Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,9 +27,9 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Materials Letters*'
+publication: '*Optics Express*'
 
-doi: "10.1016/j.matlet.2023.134485"
+doi: "10.1364/OE.412688"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -47,11 +43,11 @@ landing_weight: 10
 featured: false
 
 # Preprint info
-url_preprint: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4372999'
-preprint_date: '2023'
+url_preprint: 'https://arxiv.org/abs/2010.03797'
+preprint_date: '2020'
 
 # Links
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167577X23006705'
+url_pdf: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-4-4733&id=447065'
 url_code: ''
 url_dataset: ''
 url_poster: ''

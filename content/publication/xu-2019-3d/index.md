@@ -1,39 +1,38 @@
 ---
-title: 'Complex dielectric function of H-free a-Si films: Photovoltaic light absorber'
+title: 3d surface measurement and analysis of works of art
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- E Marquez
-- manuel-ballester
-- M Garcia
-- M Cintado
-- AP Marquez
-- JJ Ruiz
-- SM Fernández
-- E Blanco
+- Bingjie Xu
 - florian-willomitzer
-- AK Katsaggelos
+- Chia-Kai Yeh
+- Fengqiang Li
+- Vikas Gupta
+- Jack Tumblin
+- Marc Walton
+- Oliver Cossairt
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
-date: '2023-02-01'
+
+date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-05-08T23:10:28.954254Z'
+publishDate: '2024-05-08T23:10:28.685719Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Materials Letters*'
+publication: '*2019 53rd Asilomar Conference on Signals, Systems, and Computers*'
 
-doi: "10.1016/j.matlet.2023.134485"
+doi: "10.1109/IEEECONF44664.2019.9048720"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -46,12 +45,8 @@ landing_weight: 10
 # Display this page in a list of Featured pages?
 featured: false
 
-# Preprint info
-url_preprint: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4372999'
-preprint_date: '2023'
-
 # Links
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167577X23006705'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9048720'
 url_code: ''
 url_dataset: ''
 url_poster: ''
