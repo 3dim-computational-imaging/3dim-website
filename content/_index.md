@@ -56,7 +56,8 @@ sections:
       filters:
         author: ''
         category: ''
-        exclude_featured: true
+        featured_only: true
+        exclude_featured: false
         publication_type: ''
         tag: ''
       offset: 0
