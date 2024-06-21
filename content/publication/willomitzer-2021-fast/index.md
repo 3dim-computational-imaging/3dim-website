@@ -38,10 +38,10 @@ summary: ''
 tags: ''
 
 # Weights for project pages + the landing page
-landing_weight: 10
+landing_weight: 95
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://www.nature.com/articles/s41467-021-26776-w'

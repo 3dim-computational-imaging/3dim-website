@@ -16,6 +16,7 @@ authors:
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
+
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
@@ -37,10 +38,10 @@ summary: ''
 tags: ["HPrecision3D-Event-Deflectometry"]
 
 # Weights for project pages + the landing page
-landing_weight: 10
+landing_weight: 85
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://arxiv.org/abs/2311.09652'

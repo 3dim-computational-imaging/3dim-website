@@ -1,5 +1,5 @@
 ---
-title: Optimization-based eye tracking using deflectometric information
+title: Differentiable Deflectometric Eye Tracking
 
 # Authors
 # A YAML list of author names
@@ -35,10 +35,10 @@ summary: ''
 tags: ''
 
 # Weights for project pages + the landing page
-landing_weight: 10
+landing_weight: 75
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://ieeexplore.ieee.org/document/10491405'

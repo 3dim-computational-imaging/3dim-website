@@ -40,10 +40,10 @@ summary: ''
 tags: ''
 
 # Weights for project pages + the landing page
-landing_weight: 10
+landing_weight: 55
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104'
