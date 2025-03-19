@@ -25,11 +25,11 @@ bio: ''
 #  - 
 #  - ????? 
   
-education:
-  courses:
-    - course:  M.S. Degree
-      institution: Northwestern University
-      year: 
+#education:
+#  courses:
+#    - course:  M.S. Degree
+#      institution: Northwestern University
+#      year: 
 #    - course: B.S. in Computer Science and Mathematics
 #      institution: Northwestern University
 #      year: 2021

@@ -41,21 +41,21 @@ bio: ''
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,7 +68,4 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
-
-John Bass is a second-year Ph.D. student in Optical Sciences at the University of Arizona. He recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He has worked repeatedly with Ball Aerospace, doing Radiometric Analysis and Electrical Systems Engineering for the NEO Surveyor Spacecraft. His current research interests are centered around computational imaging.
-
-
+John Bass is a PhD student in the Wyant College of Optical Sciences at the University of Arizona. His research is focused on coherent wavefront projection, correction, and phase conjugation at the limits of information theory. Prior to his Ph.D., he recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He previously has worked as a systems engineer for Ball Aerospace.

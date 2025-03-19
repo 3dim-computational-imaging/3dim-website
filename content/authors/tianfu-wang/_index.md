@@ -18,21 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
-interests:
-  - Computational Imaging
-  - 
-  - ????? 
-  
-education:
-  courses:
-    - course:  M.S. in Computer Science
-      institution: ETH Zürich
-      year: present
-    - course: B.S. in Computer Science and Mathematics
-      institution: Northwestern University
-      year: 2021
+#interests:
+#  - Computational Imaging
+#  - 
+#  - ????? 
+#  
+#education:
+#  courses:
+#    - course:  M.S. in Computer Science
+#      institution: ETH Zürich
+#      year: present
+#    - course: B.S. in Computer Science and Mathematics
+#      institution: Northwestern University
+#      year: 2021
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -41,18 +41,18 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
