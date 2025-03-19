@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Muralidhar Madabhushi Balaji
+title: Muralidhar Balaji
 
 # Full Name (for SEO)
 first_name: Muralidhar
@@ -14,7 +14,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Northwestern University
+  - name: University of Arizona
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,6 +65,5 @@ highlight_name: false
 user_groups:
   - Postdoctoral Researchers
 ---
-
 Muralidhar Madabhushi Balaji is a postdoctoral researcher at the Computational 3D Imaging and Measurement Lab at the Wyant College of Optical Sciences at the University of Arizona. Prior to that, he was a graduate student at the Photonics Architecture Lab at Southern Methodist University, where his research focused on leveraging the unique properties of coherent light to address complex imaging challenges, including non-line-of-sight imaging and imaging through scattering media. His dissertation integrates the latest advancements in tunable diode lasers, neuromorphic focal plane arrays, and computational processing techniques to image through heavily scattering media.
 
