@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-#role: M.S. Student in Computer Science
+role: M.S. Student in Computer Science
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
 # interests:
 #  - Computational Imaging
@@ -65,7 +65,6 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-
 Jiren Li was a master’s student in the Computational 3D Imaging and Measurment Lab and worked on Single-Shot Synthetic Wavelength Imaging. Jiren is now a PhD student at the University of Pittsburgh.
 
 

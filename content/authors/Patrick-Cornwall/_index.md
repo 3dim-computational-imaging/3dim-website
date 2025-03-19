@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patrick Cornwall
+title: XXXPatrick Cornwall
 
 # Full Name (for SEO)
 first_name: Patrick
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
 interests:
   - Computational Imaging

@@ -18,21 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
-interests:
-  - Computational Imaging
-  - Germany
-  - ????? 
-  
-education:
-  courses:
-    - course:  M.S. in Optical Sciences
-      institution: University of Arizona
-      year: present
-    - course: B.S. in Physics
-      institution: California State Polytechnic University - Pomona
-      year: 2021
+#interests:
+#  - Computational Imaging
+#  - Germany
+#  - ????? 
+#  
+#education:
+#  courses:
+#    - course:  M.S. in Optical Sciences
+#      institution: University of Arizona
+#      year: present
+#    - course: B.S. in Physics
+#      institution: California State Polytechnic University - Pomona
+#      year: 2021
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -64,9 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
-
-Stefan Forschner is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He received his bachelor’s degree in physics at California State Polytechnic University – Pomona in 2021. Previously he has worked on NASA SBIR programs for developing laser doppler vibrometer systems for vibrational mode analysis. He now works with Prof. Florian Willomitzer on synthetic wavelength imaging.
-
-
+Stefan Forschner was a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He received his bachelor’s degree in physics at California State Polytechnic University – Pomona in 2021. Previously he has worked on NASA SBIR programs for developing laser doppler vibrometer systems for vibrational mode analysis. He worked with Prof. Florian Willomitzer on synthetic wavelength imaging.

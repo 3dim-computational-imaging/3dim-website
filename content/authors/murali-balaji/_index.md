@@ -1,20 +1,20 @@
 ---
 # Display name
-title: XXXJames Taylor
+title: Muralidhar Madabhushi Balaji
 
 # Full Name (for SEO)
-first_name: James
-last_name: Taylor
+first_name: Muralidhar
+last_name: Balaji
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Arizona
+  - name: Northwestern University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,20 +22,20 @@ bio: ''
 
 #interests:
 #  - Computational Imaging
-#  - Germany
-#  - ????? 
-#  
+#  - 
+#  - 
+  
 #education:
 #  courses:
-#    - course:  Ph.D. in Optical Sciences
-#      institution: University of Arizona
+#    - course:  Ph.D. in Electrical and Computer Engineering
+#      institution: Northwestern University
 #      year: present
-#    - course: B.S. in Physics and Economics
-#      institution: Vanderbilt University
+#    - course: M.S. in Electrical Engineering
+#      institution: Columbia University
 #      year: 2021
-#    - course: Postdoctoral Fellow
-#      institution: I3
-#      year: 2017
+#    - course: B.S. in Electrical Engineering
+#      institution: Huazhong University of Science and Technology
+#      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Postdocs
 ---
-James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.
 
+Muralidhar Madabhushi Balaji is a postdoctoral researcher at the Computational 3D Imaging and Measurement Lab at the Wyant College of Optical Sciences at the University of Arizona. Prior to that, he was a graduate student at the Photonics Architecture Lab at Southern Methodist University, where his research focused on leveraging the unique properties of coherent light to address complex imaging challenges, including non-line-of-sight imaging and imaging through scattering media. His dissertation integrates the latest advancements in tunable diode lasers, neuromorphic focal plane arrays, and computational processing techniques to image through heavily scattering media.
 

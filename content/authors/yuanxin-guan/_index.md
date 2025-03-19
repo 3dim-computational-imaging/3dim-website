@@ -18,22 +18,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
-interests:
-  - Visual and Ophthalmic Optics
-  - Computational Imaging
-  - Biomedical optics
-  - Lens design 
-  
-education:
-  courses:
-    - course:  Ph.D. in Optical Sciences
-      institution: University of Arizona
-      year: present
-    - course: M.S. in Optical Sciences
-      institution: University of Arizona
-      year: 2023
+#interests:
+#  - Visual and Ophthalmic Optics
+#  - Computational Imaging
+#  - Biomedical optics
+#  - Lens design 
+#  
+#education:
+#  courses:
+#    - course:  Ph.D. in Optical Sciences
+#      institution: University of Arizona
+#      year: present
+#    - course: M.S. in Optical Sciences
+#      institution: University of Arizona
+#      year: 2023
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -68,5 +68,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Yuanxin Guan is a Ph.D. candidate who was working with Dr. James Schwiegerling in the field of visual optics. She is now working with both Dr. Florian Willomitzer and Dr. Travis Sawyer on developing an optical system in aid of myopia progression research.
-
+Yuanxin Guan was a Ph.D. candidate who was working with Dr. James Schwiegerling in the field of visual optics. She then worked with both Dr. Florian Willomitzer and Dr. Travis Sawyer on developing an optical system in aid of myopia progression research. Yuanxin now works at NIH.

@@ -10,7 +10,7 @@ last_name: Bergay
 superuser: false
 
 # Role/position
-#role: M.S. Student in Computer Science
+role: M.S. Student in Computer Science
 
 # Organizations/Affiliations
 # organizations:
@@ -18,18 +18,18 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
 # interests:
 #  - Computational Imaging
 #  - 
 #  - ????? 
   
-education:
-  courses:
-    - course:  M.S. in Optical Sciences
-      institution: University of Arizona
-      year: 2023
+#education:
+#  courses:
+#    - course:  M.S. in Optical Sciences
+#      institution: University of Arizona
+#      year: 2023
 #    - course: B.S. in Computer Science and Mathematics
 #      institution: Northwestern University
 #      year: 2021
@@ -65,7 +65,6 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-
 Madeline Bergay was a master’s student in Prof. Willomitzer’s 3DIM Lab. She worked on 3D imaging with mobile devices using a Multi-line Triangulation. Madeline is now working at Northrop Grumman.
 
 

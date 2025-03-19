@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in Electrical and Computer Engineering
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
 interests:
   - Computational Imaging
@@ -63,7 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Postdocs
+  - Alumni
 ---
 
 Jiazhang Wang is a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at Northwestern University. Before joining Northwestern, he earned his master’s degree in Electrical Engineering from Columbia University and bachelor’s degree in Electrical Engineering from Huazhong University of Science and Technology (HUST). His research interests include computational photography, 3D optical metrology and computer vision. He is currently working on developing a novel eye-tracking prototype using optical metrology.

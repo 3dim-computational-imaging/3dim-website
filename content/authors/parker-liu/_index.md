@@ -1,10 +1,10 @@
 ---
 # Display name
-title: XXXJames Taylor
+title: Parker Liu
 
 # Full Name (for SEO)
-first_name: James
-last_name: Taylor
+first_name: Parker
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,9 +30,7 @@ bio: ''
 #    - course:  Ph.D. in Optical Sciences
 #      institution: University of Arizona
 #      year: present
-#    - course: B.S. in Physics and Economics
-#      institution: Vanderbilt University
-#      year: 2021
+#
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -48,6 +46,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
@@ -65,6 +64,4 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
-James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.
-
-
+Parker Liu is a doctoral candidate in Optical Sciences at the University of Arizona. His current research is in Synthetic Wave Imaging related application such as endoscopy using imaging through fiber. Previously he worked on various projects including holography, near-to-eye display, multi-perspective 3D Display, Digital Micromirror Devices, and optical and lens designs. He received his MS in Optical Science in 2022 and his BS in Optical Engineering in 2020, both from the University of Arizona.

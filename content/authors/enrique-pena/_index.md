@@ -1,16 +1,16 @@
 ---
 # Display name
-title: XXXJames Taylor
+title: XXXEnrique Pena
 
 # Full Name (for SEO)
-first_name: James
-last_name: Taylor
+first_name: Enrique
+last_name: Pena
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ bio: ''
 
 #interests:
 #  - Computational Imaging
-#  - Germany
+#  - 
 #  - ????? 
 #  
 #education:
 #  courses:
-#    - course:  Ph.D. in Optical Sciences
-#      institution: University of Arizona
+#    - course:  M.S. in Computer Science
+#      institution: ETH Zürich
 #      year: present
-#    - course: B.S. in Physics and Economics
-#      institution: Vanderbilt University
+#    - course: B.S. in Computer Science and Mathematics
+#      institution: Northwestern University
 #      year: 2021
 #    - course: Postdoctoral Fellow
 #      institution: I3
@@ -63,8 +63,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - M.S. Students
 ---
-James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.
-
-

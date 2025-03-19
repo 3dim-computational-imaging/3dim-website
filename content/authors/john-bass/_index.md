@@ -18,21 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
-interests:
-  - Computational Imaging
-  - Germany
-  - ????? 
-  
-education:
-  courses:
-    - course:  Ph.D. in Optical Sciences
-      institution: University of Arizona
-      year: present
-    - course: B.S. in Electrical and Optical Engineering
-      institution: Rose-Hulman Institute of Technology
-      year: 2022
+#interests:
+#  - Computational Imaging
+#  - Germany
+#  - ????? 
+#  
+#education:
+#  courses:
+#    - course:  Ph.D. in Optical Sciences
+#      institution: University of Arizona
+#      year: present
+#    - course: B.S. in Electrical and Optical Engineering
+#      institution: Rose-Hulman Institute of Technology
+#      year: 2022
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017

@@ -10,7 +10,7 @@ last_name: Ballester
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in 
+role: Ph.D. Candidate in Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
-interests:
-  - Computational Imaging
-  - Germany
-  - ????? 
+#interests:
+#  - Computational Imaging
+#  - Germany
+#  - ????? 
   
-education:
-  courses:
-    - course:  Ph.D. in 
-      institution: Northwestern University
-      year: present
-    - course: M.S. in Optical Physics
-      institution: University of Erlangen-Nuremberg
-      year: 2021
-    - course: B.S. in Mathematics
-      institution: University of Cadiz
-      year: 2018
+#education:
+#  courses:
+#    - course:  Ph.D. in 
+#      institution: Northwestern University
+#      year: present
+#    - course: M.S. in Optical Physics
+#      institution: University of Erlangen-Nuremberg
+#      year: 2021
+#    - course: B.S. in Mathematics
+#      institution: University of Cadiz
+#      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +68,6 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
-
 Manuel Ballester is a doctoral candidate at Northwestern University and a member of the 3DIM lab led by Prof. Willomitzer. His research applies novel optimization techniques, advanced computational methods, and machine learning approaches to optics and imaging problems. He works on synthetic wavelength imaging and the improvement of holographic displays. He is also interested in the material characterization of semiconductors (such as CZT and Silicon) to improve sensor performance.
 Manuel completed his BSc in Mathematics in 2018 at the University of Cadiz. He received an MSc in Optical Physics in 2021 at the University of Erlangen-Nuremberg.
 

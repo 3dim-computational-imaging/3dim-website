@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-#role: M.S. Student in Computer Science
+role: M.S. Student in Computer Science
 
 # Organizations/Affiliations
 # organizations:
@@ -18,18 +18,18 @@ superuser: false
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: This is where the biography goes! Everyone will have to write this.
+bio: ''
 
 # interests:
 #  - Computational Imaging
 #  - 
 #  - ????? 
   
-education:
-  courses:
-    - course:  M.S. in Electrical and Computer Engineering
-      institution: Northwestern University
-      year: 
+#education:
+#  courses:
+#    - course:  M.S. in Electrical and Computer Engineering
+#      institution: Northwestern University
+#      year: 
 #    - course: B.S. in Computer Science and Mathematics
 #      institution: Northwestern University
 #      year: 2021
