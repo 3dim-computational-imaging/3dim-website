@@ -45,8 +45,8 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:test@example.org'
-  - icon: ':globe_with_meridians:'
-    icon-pack: emoji
+  - icon: webpage
+    icon-pack: custom
     link: https://jiazhangwang.github.io/
   - icon: google-scholar
     icon_pack: ai
