@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Affiliated Students
 ---
 
 Tianfu Wang is a master’s student in the Computer Science Department of ETH Zürich and closely collaborates with the Computational 3D Imaging and Measurment Lab . Tianfu earned his bachelor degree in Computer Science and Mathematics from Northwestern University in June 2021. He works with Prof. Florian Willomitzer and Prof. Oliver Cossairt on eye tracking using deflectometry. He also worked with Prof. Jack Tumblin on fluid simulation visualization. Tianfu’s current research interests include computational imaging, computer vision, as well as neural and differentiable rendering.

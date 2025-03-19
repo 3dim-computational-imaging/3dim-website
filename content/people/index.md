@@ -14,8 +14,8 @@ sections:
           - Principal Investigator
           - Postdoctoral Researchers
           - Ph.D. Students
-          - Researcher Specialists
           - M.S. Students
+          - Affiliated Students
           - Visitors
           - Alumni
           - Administration
