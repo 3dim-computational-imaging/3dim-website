@@ -47,7 +47,6 @@
       {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
         {{ $link = .RelPermalink }}
       {{ end }}
-      {{ $link }}
       <div class="col-12 col-sm-auto people-person">
         {{ $src := "" }}
         {{ if site.Params.features.avatar.gravatar }}
