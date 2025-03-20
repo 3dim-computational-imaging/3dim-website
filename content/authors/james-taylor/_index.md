@@ -41,10 +41,13 @@ bio: ''
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/in/james-taylor-776a6b166
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:jrt4@arizona.edu'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,6 +68,6 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
-James Taylor is a first-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. He received bachelor’s degrees in Physics and Economics from Vanderbilt University in 2021. He worked for 4D technology, a subsidiary of Onto Innovation, as part of a team building a dual-wavelength interferometer system to measure rougher surfaces with a higher effective wavelength. His current research interests include optical metrology and computational imaging.
+James Taylor is a third-year PhD student in the Wyant College of Optical Sciences at the University of Arizona. Before joining the 3DIM lab, he worked at 4D Technology, where he primarily contributed to the development of a dual-wavelength interferometry system for surface roughness testing. Prior to that, he earned bachelor's degrees in Physics and Economics from Vanderbilt University in 2021. His current research interests include optical metrology and computational imaging.
 
-
+His current research focuses on exploring the fundamental limits of 3D measurement techniques and the trade-offs between them, with the goal of designing and developing 3D optical metrology systems that surpass the state of the art, particularly for applications in industrial inspection and automation.
