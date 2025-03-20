@@ -79,8 +79,9 @@
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             {{ if in "custom" $pack }}
             {{ $filename := printf "%s" ".svg" | printf "%s%s" .icon | printf "%s%s" "/media/icons/" }}
+            {{ $icon := .icon }}
             {{ with resources.Get $filename }}
-            <img class="icon-{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon" src="{{ .RelPermalink }}">
+            <img class="icon-{{ $pack }} {{ $pack_prefix }}-{{ $icon }} big-icon" src="{{ .RelPermalink }}">
             {{ end }}
             {{ else }}
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
