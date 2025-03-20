@@ -60,6 +60,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1mmdpqX77vC2YSr8dFLAMqZkTy05_BuvV/view?usp=sharing
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:jiwonchoi@arizona.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv

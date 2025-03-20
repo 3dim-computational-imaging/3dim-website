@@ -54,6 +54,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jiazhang-wang-103146147
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:jiazhangwang@arizona.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
