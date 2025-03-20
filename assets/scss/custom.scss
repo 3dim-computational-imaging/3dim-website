@@ -244,6 +244,10 @@ div.project-section-container div.media.stream-item {
 }
 
 img.icon-custom {
-  height: 38px;
+  height: 18px;
   filter: invert(25%) sepia(65%) saturate(2397%) hue-rotate(199deg) brightness(98%) contrast(86%);
+}
+
+img.icon-custom.big-icon {
+  height: 38px;
 }

@@ -15,7 +15,15 @@
     {{ end }}
     <li>
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+        {{ if in "custom" $pack }}
+        {{ $filename := printf "%s" ".svg" | printf "%s%s" .icon | printf "%s%s" "/media/icons/" }}
+        {{ $icon := .icon }}
+        {{ with resources.Get $filename }}
+        <img class="icon-{{ $pack }} {{ $pack_prefix }}-{{ $icon }}" src="{{ .RelPermalink }}">
+        {{ end }}
+        {{ else }}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        {{ end }}
       </a>
     </li>
   {{end}}
