@@ -39,6 +39,24 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: webpage
+    icon_pack: custom
+    link: https://aniketdashpute.github.io/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=6jHlWz0AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aniketdashpute/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/aniketdashpute/
+  - icon: cv
+    icon_pack: ai
+    link: https://aniketdashpute.github.io/assets/files/Aniket_Dashpute_CV.pdf
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/dashputeaniket
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aniket.d@rice.edu'

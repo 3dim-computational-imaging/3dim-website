@@ -10,11 +10,11 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: M.S. Student in Computer Science
+role: Ph.D Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: ETH Zürich
+  - name: University of Maryland, College Park
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,9 +42,24 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: webpage
+    icon_pack: custom
+    link: https://tianfwang.github.io/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ZqWxrkwAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tianfu-wang-083a85156/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kongdai123
+  - icon: cv
+    icon_pack: ai
+    link: https://tianfwang.github.io/data/Tianfu_Wang_Resume_2025.pdf
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tianfuwang2021@u.northwestern.edu'
+    link: 'mailto:tianfuw@umd.edu'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
