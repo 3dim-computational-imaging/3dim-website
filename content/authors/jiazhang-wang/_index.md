@@ -14,7 +14,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Northwestern University
+  - name: University of Arizona
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
