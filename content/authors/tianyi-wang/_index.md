@@ -1,6 +1,6 @@
 ---
 # Display name
-title: XXXTianyi Wang
+title: Tianyi Wang
 
 # Full Name (for SEO)
 first_name: Tianyi
@@ -65,3 +65,4 @@ highlight_name: false
 user_groups:
   - M.S. Students
 ---
+Tianyi Wang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He obtained his bachelor's degree in physics from Nankai University. He has participated in projects related to Triangulation and Deflectometry. His current research interests focus on 3D imaging.
