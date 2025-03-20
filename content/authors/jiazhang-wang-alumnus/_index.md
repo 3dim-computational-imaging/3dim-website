@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiazhang Wang-Alumnus
+title: Jiazhang Wang
 
 # Full Name (for SEO)
 first_name: Jiazhang
-last_name: Wang-Alumnus
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
