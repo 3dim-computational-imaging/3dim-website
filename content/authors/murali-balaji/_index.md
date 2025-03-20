@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Muralidhar Balaji
+title: Muralidhar Madabhushi Balaji
+
+# Link name
+slug: muralidhar-balaji
 
 # Full Name (for SEO)
 first_name: Muralidhar
