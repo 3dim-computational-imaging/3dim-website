@@ -80,7 +80,4 @@ highlight_name: false
 user_groups:
   - Affiliated Students
 ---
-
-Tianfu Wang is a master’s student in the Computer Science Department of ETH Zürich and closely collaborates with the Computational 3D Imaging and Measurment Lab . Tianfu earned his bachelor degree in Computer Science and Mathematics from Northwestern University in June 2021. He works with Prof. Florian Willomitzer and Prof. Oliver Cossairt on eye tracking using deflectometry. He also worked with Prof. Jack Tumblin on fluid simulation visualization. Tianfu’s current research interests include computational imaging, computer vision, as well as neural and differentiable rendering.
-
-
+Tianfu Wang is a PhD student in the Intelligent Sensing Lab at the University of Maryland, College Park. He collaborates closely with the Computational 3D Imaging and Measurement Lab on projects relating to deflectometry. Tianfu earned his Master's degree in Computer Science at ETH Zürich and his Bachelor's degree at Northwestern University. Tianfu is interested in computational imaging and generative AI for computer vision.

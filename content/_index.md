@@ -9,12 +9,16 @@ sections:
     id: summary
     content:
       title: |
-        WIP Website
+        Computational 3D Imaging and Measurement Lab 
       image:
         filename: welcome.jpg
       text: |
+        <h3>Welcome to the Computational 3D Imaging and Measurement (3DIM) Lab!</h3>
         <br>
-        Welcome to the Work-In-Progress 3DIM Website! This page is currently under construction. Click <a href="https://3dim.northwestern.edu/">here</a> to go to our current website.
+        We are working on a broad variety of problems in quantitative vision and computational imaging. Our research combines teachings from physical optics, image and signal processing,  computer vision, and information theory. Our goal is to invent, develop, and build the next generation of 2D/3D computational imaging and display devices that overcome traditional limitations (e.g., in resolution, dynamic range, speed) to “make the unseen visible”.  These instruments and the underlying principles will represent key technologies to foster transformational technical changes in the next decades.
+        <br>
+        Current applications of our developed techniques and systems can be found in medicine, VR/AR/MR, robotics, industrial inspection, remote sensing, automotive sensing, metrology, forensics, or cultural heritage preservation. Our present research includes novel methods to [high-resolution holographic displays,](https://example.com) [unconventional methods for precise VR eye tracking](https://example.com), and the implementation of high-precision metrology methods in [low-cost mobile handheld devices](https://example.com). Moreover, we develop novel [time-of-flight](https://example.com) and [structured light](https://example.com) imaging techniques working at depth resolutions in the 100μm-range.
+        
   
   - block: portfolio
     id: research
