@@ -16,7 +16,7 @@ sections:
       css_class: dark
       background:
         image:
-          filename: welcome.jpg
+          filename: welcomeGroupPhoto1.jpg
           size: cover
           position: center
           parallax: false
