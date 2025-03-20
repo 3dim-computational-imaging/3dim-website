@@ -242,3 +242,8 @@ img.article-banner {
 div.project-section-container div.media.stream-item {
   max-width: 1536px;
 }
+
+img.icon-custom {
+  height: 38px;
+  filter: invert(25%) sepia(65%) saturate(2397%) hue-rotate(199deg) brightness(98%) contrast(86%);
+}
