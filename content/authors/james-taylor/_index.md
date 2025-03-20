@@ -1,6 +1,6 @@
 ---
 # Display name
-title: XXXJames Taylor
+title: James Taylor
 
 # Full Name (for SEO)
 first_name: James
@@ -58,7 +58,7 @@ social:
 #    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'jrt4@arizona.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
