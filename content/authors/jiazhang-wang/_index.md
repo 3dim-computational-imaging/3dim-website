@@ -51,8 +51,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=kVHK8m8AAAAJ&hl=en
-  - icon: twitter
-    icon-pack: fab
+  - icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com/in/jiazhang-wang-103146147
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
