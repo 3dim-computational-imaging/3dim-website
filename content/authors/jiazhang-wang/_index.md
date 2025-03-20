@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:

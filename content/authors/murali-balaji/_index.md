@@ -13,7 +13,7 @@ last_name: Balaji
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:

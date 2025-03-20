@@ -81,6 +81,4 @@ user_groups:
   - Affiliated Students
 ---
 
-Aniket Dashpute is a PhD student in the Electrical Engineering Department at Northwestern University. His current research includes using Event Cameras for 3D shape measurement and applying Computational Imaging techniques to Thermal Imaging & Rendering. He is also interested in Neural Rendering and its applications to computational photography. Aniket completed his undergrad in EE at the Indian Institute of Technology Delhi (IIT D), India in 2018 where he was advised by Prof. Kedar Khare. He then worked in Samsung Research Institute Bangalore, India till 2020 in the Computer Graphics team responsible for rendering and visualising medical ultrasound data.
-
-
+Aniket Dashpute is a PhD student at Rice University in the Computational Imaging Lab. He is also an affiliated member of the 3DIM Lab at the University of Arizona and works closely with Prof. Florian Willomitzer. His research focuses on computational imaging techniques using exotic sensors like event sensors, thermal cameras, and metaoptics. He has worked in 3DIM on event-based fast 3D imaging of scenes containing both diffuse and specular surfaces and on material classification using thermal spread functions. His current research includes metaoptics and generative models for event-based representations. He completed his MS in Electrical Engineering from Northwestern University in 2022 and his B.Tech in Electrical Engineering from IIT Delhi in 2018. He worked at Samsung Healthcare from 2018 to 2020 in the Computer Graphics team.
