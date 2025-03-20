@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiazhang Wang
+title: Jiazhang Wang-Alumnus
 
 # Full Name (for SEO)
 first_name: Jiazhang
