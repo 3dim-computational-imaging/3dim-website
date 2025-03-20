@@ -51,7 +51,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=kVHK8m8AAAAJ&hl=en
-  - icon: linkedin
+  - icon: twitter
     icon-pack: fab
     link: https://www.linkedin.com/in/jiazhang-wang-103146147
 # Link to a PDF of your resume/CV from the About widget.
