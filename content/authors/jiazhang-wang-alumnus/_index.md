@@ -2,6 +2,9 @@
 # Display name
 title: Jiazhang Wang
 
+# Link name
+slug: jiazhang-wang-alumnus
+
 # Full Name (for SEO)
 first_name: Jiazhang
 last_name: Wang
