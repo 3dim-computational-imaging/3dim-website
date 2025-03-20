@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Muralidhar Balaji
+title: Jiazhang Wang
 
 # Full Name (for SEO)
-first_name: Muralidhar
-last_name: Balaji
+first_name: Jiazhang
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,7 +24,7 @@ bio: ''
 #  - Computational Imaging
 #  - 
 #  - 
-  
+#  
 #education:
 #  courses:
 #    - course:  Ph.D. in Electrical and Computer Engineering
@@ -42,12 +42,18 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
+  - icon: webpage
+    icon_pack: custom
+    link: https://jiazhangwang.github.io/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=bYxrL2QAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=kVHK8m8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/muralidhar-madabhushi-8894a8a3
+    link: https://www.linkedin.com/in/jiazhang-wang-103146147
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -64,7 +70,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Postdoctoral Researchers
+  - Alumni
 ---
-Muralidhar Madabhushi Balaji is a postdoctoral researcher at the Computational 3D Imaging and Measurement Lab at the Wyant College of Optical Sciences at the University of Arizona. Prior to that, he was a graduate student at the Photonics Architecture Lab at Southern Methodist University, where his research focused on leveraging the unique properties of coherent light to address complex imaging challenges, including non-line-of-sight imaging and imaging through scattering media. His dissertation integrates the latest advancements in tunable diode lasers, neuromorphic focal plane arrays, and computational processing techniques to image through heavily scattering media.
+Jiazhang Wang was a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at Northwestern University. Before joining Northwestern, he earned his master’s degree in Electrical Engineering from Columbia University and bachelor’s degree in Electrical Engineering from Huazhong University of Science and Technology (HUST). His research interests include computational photography, 3D optical metrology and computer vision. He is currently working on developing a novel eye-tracking prototype using optical metrology. After graduating from the 3DIM lab in April 2024, he continues and expands his research in the lab as Postdoctoral Researcher.\
 
-He earned his Bachelor’s in Electronics and Instrumentation from Jawaharlal Nehru Technological University in 2014. He completed his Master’s and Ph.D. in Electrical and Computer Engineering from Southern Methodist University in 2018 and 2024, respectively. 
+[For up-to-date information, please click here to view his current profile](/author/jiazhang-wang)
