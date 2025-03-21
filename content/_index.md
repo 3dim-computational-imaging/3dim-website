@@ -16,7 +16,7 @@ sections:
       css_class: dark
       background:
         image:
-          filename: welcomeGroupPhoto1.jpg
+          filename: welcomeGroupPhoto3.jpg
           filters:
             brightness: 0.7
           size: cover
