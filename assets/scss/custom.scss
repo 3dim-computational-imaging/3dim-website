@@ -255,9 +255,13 @@ img.icon-custom.big-icon {
 }
 
 #landing-summary h1.mb-0 {
-  font-size: 2rem;
+  font-size: 2.1rem;
 }
 
 #landing-header {
   height: 400px;
+}
+
+#landing-header h1.mb-0 {
+  font-weight: bolder;
 }

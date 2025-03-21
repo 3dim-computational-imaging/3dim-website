@@ -17,8 +17,9 @@ sections:
       background:
         image:
           filename: welcomeGroupPhoto1.jpg
+          filters:
+            brightness: 1.0
           size: cover
-          position: center
           parallax: false
   - block: markdown
     id: landing-summary
