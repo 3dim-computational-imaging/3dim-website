@@ -273,3 +273,8 @@ img.icon-custom.big-icon {
 #landing-summary div.text-center {
   text-align: left !important
 }
+
+#mediacoverage .media.stream-item img {
+  object-fit: cover;
+  height: 100px;
+}
