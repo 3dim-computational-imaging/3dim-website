@@ -18,9 +18,9 @@ sections:
         image:
           filename: welcomeGroupPhoto1.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
-          parallax: false
+          parallax: true
   - block: markdown
     id: landing-summary
     content:
