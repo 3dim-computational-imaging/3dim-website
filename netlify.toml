@@ -23,4 +23,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy: frame-ancestors 'self' https://screenfly.org;
+    Content-Security-Policy = frame-ancestors 'self' https://screenfly.org;
