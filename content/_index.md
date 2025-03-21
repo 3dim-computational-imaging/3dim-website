@@ -28,8 +28,8 @@ sections:
         Welcome to the Computational 3D Imaging and Measurement (3DIM) Lab!
       text: |
         We are working on a broad variety of problems in quantitative vision and computational imaging. Our research combines teachings from physical optics, image and signal processing,  computer vision, and information theory. Our goal is to invent, develop, and build the next generation of 2D/3D computational imaging and display devices that overcome traditional limitations (e.g., in resolution, dynamic range, speed) to “make the unseen visible”.  These instruments and the underlying principles will represent key technologies to foster transformational technical changes in the next decades.
-        <br>
-        Current applications of our developed techniques and systems can be found in medicine, VR/AR/MR, robotics, industrial inspection, remote sensing, automotive sensing, metrology, forensics, or cultural heritage preservation. Our present research includes novel methods to [high-resolution holographic displays,](https://example.com) [unconventional methods for precise VR eye tracking](https://example.com), and the implementation of high-precision metrology methods in [low-cost mobile handheld devices](https://example.com). Moreover, we develop novel [time-of-flight](https://example.com) and [structured light](https://example.com) imaging techniques working at depth resolutions in the 100μm-range.
+        
+        Current applications of our developed techniques and systems can be found in medicine, VR/AR/MR, robotics, industrial inspection, remote sensing, automotive sensing, metrology, forensics, or cultural heritage preservation. Our present research includes novel methods to [XXX UPDATE LINK XXX high-resolution holographic displays,](https://example.com) [XXX UPDATE LINK XXX unconventional methods for precise VR eye tracking](https://example.com), and the implementation of high-precision metrology methods in [XXX UPDATE LINK XXX low-cost mobile handheld devices](https://example.com). Moreover, we develop novel [XXX UPDATE LINK XXX time-of-flight](https://example.com) and [XXX UPDATE LINK XXX structured light](https://example.com) imaging techniques working at depth resolutions in the 100μm-range.
         
   
   - block: portfolio
@@ -125,12 +125,16 @@ sections:
       view: community/news
       columns: '2'
 
-  - block: markdown
+  - block: collection
     id: mediacoverage
     content:
       title: Media Coverage
       subtitle:
-      text: This could possibly be a set of blocks, like the above sections!
+      text: 
+      count: 3
+      offset: 0
+      order: desc
+      page_type: media
     design:
       columns: '2'
 
@@ -139,7 +143,10 @@ sections:
     content:
       title: Join Us
       subtitle:
-      text: TODO
+      text: |
+        We are always looking for motivated people interested in pursuing a research project or thesis in our lab. Prospective Students or Postdocs should have a background in Optics, Computer Science, Image and Signal Processing, or similar disciplines.
+        
+        Please contact [Prof. Willomitzer](mailto:fwillomitzer@arizona.edu) if you are interested.
     design:
       columns: '2'
 
@@ -173,7 +180,16 @@ sections:
     content:
       title: Contact
       subtitle:
-      text:
+      text: |
+        Florian Willomitzer
+
+        fwillomitzer \[at\] arizona \[dot\] edu
+
+        Wyant College of Optical Sciences - University of Arizona
+        Computational 3D Imaging and Measurement (3DIM) Lab
+        Meinel Building, Room 629
+        1630 E University Blvd, Tucson, AZ 85721
+
     design:
       columns: '2'
       spacing:
