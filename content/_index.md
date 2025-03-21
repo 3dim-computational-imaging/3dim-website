@@ -136,6 +136,7 @@ sections:
       order: desc
       page_type: media
     design:
+      view: compact
       columns: '2'
 
   - block: markdown
