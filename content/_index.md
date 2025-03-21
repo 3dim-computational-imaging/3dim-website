@@ -136,7 +136,7 @@ sections:
       order: desc
       page_type: media
     design:
-      view: compact
+      view: compact_dateless
       columns: '2'
 
   - block: markdown
