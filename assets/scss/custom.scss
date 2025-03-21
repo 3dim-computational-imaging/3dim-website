@@ -283,9 +283,24 @@ img.icon-custom.big-icon {
   margin-top: 1rem;
 }
 
-figure.project-section-wrap-image {
-  float: left;
-  margin: 1rem 1rem 1rem 1rem;
+
+
+@media (max-width: 992px) {
+    figure.project-section-wrap-image {
+      float: center;
+      margin: 1rem 1rem 1rem 1rem;
+    }
+    .medium-zoom-image {
+        
+    }
+}
+
+@media (min-width: 993px) {
+    
+    figure.project-section-wrap-image {
+      float: left;
+      margin: 1rem 1rem 1rem 1rem;
+    }
 }
 
 figure.project-section-wrap-image img.medium-zoom-image {
@@ -293,5 +308,5 @@ figure.project-section-wrap-image img.medium-zoom-image {
 }
 
 body#top.page-wrapper {
-  font-size: 2vh;
+  font-size: 1rem;
 }
