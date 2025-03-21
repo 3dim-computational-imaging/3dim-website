@@ -32,10 +32,11 @@ doi: "10.1016/j.optlaseng.2024.108165"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['Precision-3D-SWH']
 
 # Weights for project pages + the landing page
 landing_weight: 90
+tag_precision3DSWH_weight: 90
 
 # Display this page in a list of Featured pages?
 featured: true
