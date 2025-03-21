@@ -129,7 +129,7 @@ sections:
     id: mediacoverage
     content:
       title: Media Coverage
-      subtitle: '[Click here](/media) to view more stories from the 3DIM Lab in the News'
+      subtitle: '[Click here](/media) to view more news stories'
       text: 
       count: 3
       offset: 0
