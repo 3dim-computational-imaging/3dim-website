@@ -290,9 +290,6 @@ img.icon-custom.big-icon {
       float: center;
       margin: 1rem 1rem 1rem 1rem;
     }
-    .medium-zoom-image {
-        max-width:100%;
-    }
 }
 
 @media (min-width: 993px) {
@@ -301,13 +298,10 @@ img.icon-custom.big-icon {
       float: left;
       margin: 1rem 1rem 1rem 1rem;
     }
-    .medium-zoom-image {
-        max-width:inherit;
-    }
 }
 
 figure.project-section-wrap-image img.medium-zoom-image {
-  max-width: inherit;
+  max-width: 100%;
 }
 
 body#top.page-wrapper {
