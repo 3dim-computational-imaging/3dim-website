@@ -2,7 +2,7 @@
 title: High-quality 3D imaging with Commodity Devices 
 
 ---
-{{< figure src="header_img.png" class="project-section-wide-image" width="60%" >}}
+{{< figure src="header_img.png" class="project-section-wide-image" max_height="300px" width="auto" >}}
 This research track introduces a series of systems that only require commodity devices such as screens, (web-) cameras, low-end tablets or mobile phones to capture high-quality 3D data: The developed “Mobile Multiview Deflectometry” system exploits screen and front camera of mobile devices for deflectometry-based measurements. It works without the need for a calibration and is optimized for specular surfaces such as stained glass artworks or artworks with metallic mirror-like surfaces. To compensate for the small screen, a multi-view registration technique is applied so that large surfaces can be densely reconstructed in their entirety. The “SkinScan” sensor principle uses the same hardware components but exploits photometric stereo-inspired algorithms for the measurement of matte object surfaces such as paintings or human skin. The project is a first step towards a universal self-calibrating measurement procedure usable by a broad audience with little to no technical imaging experience.  
 
 News and Press:
