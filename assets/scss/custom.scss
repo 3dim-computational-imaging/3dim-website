@@ -291,7 +291,7 @@ img.icon-custom.big-icon {
       margin: 1rem 1rem 1rem 1rem;
     }
     .medium-zoom-image {
-        
+        max-width:100%;
     }
 }
 
@@ -301,6 +301,9 @@ img.icon-custom.big-icon {
       float: left;
       margin: 1rem 1rem 1rem 1rem;
     }
+    .medium-zoom-image {
+        max-width:inherit;
+    }
 }
 
 figure.project-section-wrap-image img.medium-zoom-image {
@@ -309,4 +312,8 @@ figure.project-section-wrap-image img.medium-zoom-image {
 
 body#top.page-wrapper {
   font-size: 1rem;
+}
+
+div.media-body {
+  max-width:100%;
 }
