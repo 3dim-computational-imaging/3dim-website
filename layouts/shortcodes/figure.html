@@ -30,8 +30,11 @@
     class : optional
         Optional additional class for <figure>.
     max_width : optional
-        `max-width` style attribute for the <div class="w-100"> tage inside <figure>.
+        `max-width` style attribute for the <figure>.
         For example, "fit-content" makes the <div> of the same width of the contained image.
+    max_height : optional
+        `max-height` style attribute for the <figure>.
+        For example, "fit-content" makes the <div> of the same height of the contained image.
     width : optional
         `width` attribute of <img>. It defaults to image width.
     height : optional
@@ -61,7 +64,7 @@
   {{- end -}}
 {{- end -}}
 
-<figure {{ with .Get "class" }}class="{{.}}"{{end}} {{ with $id }}id="figure-{{ . }}"{{ end }} {{ with .Get "max_width" }}style="max-width: {{.}}"{{end}}>
+<figure {{ with .Get "class" }}class="{{.}}"{{end}} {{ with $id }}id="figure-{{ . }}"{{ end }} style='{{ with .Get "max_width" }}max-width: {{.}}{{end}};{{ with .Get "max_height" }}max-height: {{.}}{{end}};'>
   <div class="d-flex justify-content-center">
     <div class="w-100">
       {{- if $link -}}
