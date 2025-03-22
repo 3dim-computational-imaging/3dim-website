@@ -320,3 +320,20 @@ div.media-body {
     max-width: 113px;
     max-height: 253px;
 }
+
+.project-section-talk-list .media.stream-item .article-title {
+    font-size: 1rem;
+}
+
+.project-section-talk-list .media.stream-item .article-metadata {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.project-section-talk-list .media.stream-item .talk-body {
+    line-height: 1.1rem;
+}
+
+.project-section-talk-list .media.stream-item.view-compact {
+    margin-bottom: 0.7rem;
+}
