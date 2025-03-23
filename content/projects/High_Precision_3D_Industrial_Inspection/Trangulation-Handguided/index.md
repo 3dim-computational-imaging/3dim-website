@@ -66,4 +66,4 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 
 German with english subtitles
 {{< /center >}}
-{{< /collapsible-section >}}lspIIdSlXIk
+{{< /collapsible-section >}}
