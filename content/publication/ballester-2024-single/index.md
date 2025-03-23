@@ -36,7 +36,7 @@ tags: ['Precision-3D-SWH']
 
 # Weights for project pages + the landing page
 landing_weight: 90
-tag_precision3DSWH_weight: 90
+weight_Precision_3D_SWH: 100
 
 # Display this page in a list of Featured pages?
 featured: true

@@ -39,10 +39,11 @@ doi: "10.1109/ICIP42928.2021.9506335"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['HPrecision3D_Handguided_Commodity']
 
 # Weights for project pages + the landing page
 landing_weight: 50
+weight_HPrecision3D_Handguided_Commodity: 100
 
 # Display this page in a list of Featured pages?
 featured: true

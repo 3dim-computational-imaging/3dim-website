@@ -1,5 +1,8 @@
 ---
-title: Hand-Guided Single-Shot Multi-LineTriangulation
+title: Hand-Guided Single-Shot Multi-Line Triangulation
+
+media:
+    tag: "HPrecision3D_Handguided_Triangulation"
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="250px" max_width="80%">}}

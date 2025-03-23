@@ -33,10 +33,11 @@ doi: "10.1364/AO.54.000408"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['HPrecision3D_Handguided_Triangulation']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_HPrecision3D_Handguided_Triangulation: 80
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -32,10 +32,11 @@ doi: '10.1117/12.3027356'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: 'HPrecision3D-Polarization-Deflectometry'
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_HPrecision3D_Polarization_Deflectometry: 50
 
 # Display this page in a list of Featured pages?
 featured: false
