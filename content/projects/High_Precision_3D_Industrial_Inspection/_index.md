@@ -12,10 +12,11 @@ summary: ''
 
 # Please do not update the following header stuff
 view: community/projectsection
-sort_by: section_weight
 wrapperOverrideWidth: 80
 image:
   preview_only: true
+media:
+  sort_by: section_weight
   
 # Markdown code goes below the triple dash:
 ---
