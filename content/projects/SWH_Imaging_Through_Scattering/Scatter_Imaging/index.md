@@ -19,9 +19,9 @@ Official Northwestern research news release:
 
 --------  
 Research news featured on Northwestern websites:  
-[\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]](/assets/page_archives/NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM)  
-[\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]](/assets/page_archives/ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM)  
-[\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]](/assets/page_archives/ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM)  
+[\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]](/media/page_archives/NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM)  
+[\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]](/media/page_archives/ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM)  
+[\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]](/media/page_archives/ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM)  
 
 --------  
 Research news featured on external websites (selection):  
