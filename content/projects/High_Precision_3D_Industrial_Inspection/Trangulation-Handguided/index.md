@@ -15,25 +15,25 @@ media:
 {{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
 Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 
-{{< youtube id="Y_d0GWk8Zqo" width="560" height="315">}}
+{{< youtube id="Y_d0GWk8Zqo">}}
 {{< center >}}Color 3D Movie of a talking face - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="hlMLigk1UfU" width="560" height="315">}}
+{{< youtube id="hlMLigk1UfU">}}
 {{< center >}}Color 3D Movie of another talking face - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="4xP-DbDRFo0" width="560" height="315">}}
+{{< youtube id="4xP-DbDRFo0">}}
 {{< center >}}Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="ddi7_DXxYBI" width="560" height="315">}}
+{{< youtube id="ddi7_DXxYBI">}}
 {{< center >}}Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved{{< /center >}}
 
-{{< youtube id="aJCA3REiN6E" width="560" height="315">}}
+{{< youtube id="aJCA3REiN6E">}}
 {{< center >}}How to watch a '3D movie'{{< /center >}}
 
-{{< youtube id="b-corSDc4Xc" start=16 width="560" height="315">}}
+{{< youtube id="b-corSDc4Xc">}}
 {{< center >}}3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing).{{< /center >}}
 
-{{< youtube id="as-Bt-xMEcw" width="560" height="315">}}
+{{< youtube id="as-Bt-xMEcw">}}
 {{< center >}}3D movie of a talking face with unidirectional lines - RAW data (no post processing).{{< /center >}}
 
 {{< /collapsible-section >}}
@@ -45,16 +45,16 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 {{< /collapsible-section >}}
 
 {{< collapsible-section title="Flying Triangulation: Selected Videos (Click to Expand)" >}}
-{{< youtube id="3Ht4QY5Xk8s" width="560" height="315">}}
+{{< youtube id="3Ht4QY5Xk8s">}}
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
-{{< youtube id="tAIpmpVvmxM" width="560" height="315">}}
+{{< youtube id="tAIpmpVvmxM">}}
 {{< center >}}Flying Triangulation Face Scanner{{< /center >}}
  
-{{< youtube id="dIboan3y64k" width="560" height="315">}}
+{{< youtube id="dIboan3y64k">}}
 {{< center >}}3D models measured with Flying Triangulation (no post processing).{{< /center >}}
 
-{{< youtube id="oE0hHAP7QAA" width="560" height="315">}}
+{{< youtube id="oE0hHAP7QAA">}}
 {{< center >}}360° scan of a plaster bust.{{< /center >}}
 
 {{< /collapsible-section >}}

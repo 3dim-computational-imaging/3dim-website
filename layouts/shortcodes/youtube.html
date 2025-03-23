@@ -12,8 +12,6 @@ Renders an embedded YouTube video.
 @param {bool} [mute=false] Whether to mute the video. Always true when autoplay is true.
 @param {int} [start] The time, measured in seconds from the start of the video, when the player should start playing the video.
 @param {string} [title] The title attribute of the iframe element. Defaults to "YouTube video".
-@param {string} [width] Width of youtube video embed
-@param {string} [height] Height of youtube video embed
 
 @returns {template.HTML}
 
@@ -31,7 +29,7 @@ Renders an embedded YouTube video.
     {{- /* Set defaults. */}}
     {{- $allowFullScreen := "allowfullscreen" }}
     {{- $autoplay := 0 }}
-    {{- $class := "" }}
+    {{- $class := "embed-video-small" }}
     {{- $controls := 1 }}
     {{- $end := 0 }}
     {{- $loading := "eager" }}
@@ -117,8 +115,6 @@ Renders an embedded YouTube video.
         {{- with $src }} src="{{ . }}" {{- end }}
         {{- with $iframeStyle}} style="{{ . | safeCSS }}" {{- end }}
         {{- with $title }} title="{{ . }}" {{- end -}}
-        {{- with $width }} width="{{ . }}" {{- end -}}
-        {{- with $height }} height="{{ . }}" {{- end -}}
       ></iframe>
     </div>
   {{- else }}
