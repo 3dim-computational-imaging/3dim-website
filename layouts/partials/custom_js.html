@@ -1,1 +1,4 @@
-<script src='{{ "/scripts/collapsible-section.js" | urlize | relURL }}' type="module"></script>
+{{ range readDir "static/scripts" }}
+{{ $path := printf "%s%s" /scripts/ .Name }}
+<script src='{{ $path | urlize | relURL }}' type="module"></script>
+{{ end }}
