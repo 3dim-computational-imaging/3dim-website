@@ -89,13 +89,13 @@ Renders an embedded YouTube video.
     {{- end }}
 
     {{- /* Set div attributes. */}}
-    {{- $divStyle := "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;" }}
+    {{- $divStyle := "embed-video-default" }}
     {{- if $class }}
-      {{- $divStyle = "" }}
+      {{- $divStyle = $class }}
     {{- end }}
 
     {{- /* Set iframe attributes. */}}
-    {{- $iframeStyle := "position: absolute; top: 0; left: 0; width: 560px; height: 315px; border:0;" }}
+    {{- $iframeStyle := "position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" }}
     {{- if $class }}
       {{- $iframeStyle = "" }}
     {{- end }}
@@ -104,8 +104,7 @@ Renders an embedded YouTube video.
 
     {{- /* Render. */ -}}
     <div
-      {{- with $class }} class="{{ . }}" {{- end }}
-      {{- with $divStyle }} style="{{ . | safeCSS }}" {{- end -}}
+      {{- with $divStyle }} class="{{ . }}" {{- end -}}
     >
       <iframe
         {{- with $allow }} allow="{{ . }}" {{- end }}

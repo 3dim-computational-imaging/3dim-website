@@ -387,7 +387,11 @@ div.media-body {
     display:block;
 }
 
-.embed-video-small {
+.embed-video-default {
+    position: absolute;
+    top: 0; 
+    left: 0; 
+    border:0;
     width:560px;
     height: 315px;
 }
