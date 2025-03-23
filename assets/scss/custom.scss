@@ -389,6 +389,12 @@ div.media-body {
 
 .embed-video-default {
     border:0;
-    width:560px;
+    width: 100%;
     display:inline-block;
+    text-align:center;
+}
+
+.embed-video-default iframe {
+    width:560px;
+    height: 315px;
 }

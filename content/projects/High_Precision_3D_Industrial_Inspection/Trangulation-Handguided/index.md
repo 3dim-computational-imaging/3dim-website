@@ -15,25 +15,25 @@ media:
 {{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
 Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 
-{{< center >}}{{< youtube id="Y_d0GWk8Zqo" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="Y_d0GWk8Zqo" class="embed-video-default" >}}
 {{< center >}}Color 3D Movie of a talking face - RAW data (no post processing){{< /center >}}
 
-{{< center >}}{{< youtube id="hlMLigk1UfU" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="hlMLigk1UfU" class="embed-video-default" >}}
 {{< center >}}Color 3D Movie of another talking face - RAW data (no post processing){{< /center >}}
 
-{{< center >}}{{< youtube id="4xP-DbDRFo0" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="4xP-DbDRFo0" class="embed-video-default" >}}
 {{< center >}}Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing){{< /center >}}
 
-{{< center >}}{{< youtube id="ddi7_DXxYBI" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="ddi7_DXxYBI" class="embed-video-default" >}}
 {{< center >}}Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved{{< /center >}}
 
-{{< center >}}{{< youtube id="aJCA3REiN6E" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="aJCA3REiN6E" class="embed-video-default" >}}
 {{< center >}}How to watch a '3D movie'{{< /center >}}
 
-{{< center >}}{{< youtube id="b-corSDc4Xc" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="b-corSDc4Xc" class="embed-video-default" >}}
 {{< center >}}3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing).{{< /center >}}
 
-{{< center >}}{{< youtube id="as-Bt-xMEcw" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="as-Bt-xMEcw" class="embed-video-default" >}}
 {{< center >}}3D movie of a talking face with unidirectional lines - RAW data (no post processing).{{< /center >}}
 
 {{< /collapsible-section >}}
@@ -45,21 +45,21 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 {{< /collapsible-section >}}
 
 {{< collapsible-section title="Flying Triangulation: Selected Videos (Click to Expand)" >}}
-{{< center >}}{{< youtube id="3Ht4QY5Xk8s" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="3Ht4QY5Xk8s" class="embed-video-default" >}}
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
-{{< center >}}{{< youtube id="tAIpmpVvmxM" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="tAIpmpVvmxM" class="embed-video-default" >}}
 {{< center >}}Flying Triangulation Face Scanner{{< /center >}}
  
-{{< center >}}{{< youtube id="dIboan3y64k" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="dIboan3y64k" class="embed-video-default" >}}
 {{< center >}}3D models measured with Flying Triangulation (no post processing).{{< /center >}}
 
-{{< center >}}{{< youtube id="oE0hHAP7QAA" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="oE0hHAP7QAA" class="embed-video-default" >}}
 {{< center >}}360° scan of a plaster bust.{{< /center >}}
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section title="Flying Triangulation: News and Press (Click to Expand)" >}}
-{{< center >}}{{< youtube id="lspIIdSlXIk" class="embed-video-default" >}}{{< /center >}}
+{{< youtube id="lspIIdSlXIk" class="embed-video-default" >}}
 {{< center >}}**Interview Flying Triangulation (March 2013)**<br>German with english subtitles{{< /center >}}
 {{< /collapsible-section >}}
