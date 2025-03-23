@@ -12,6 +12,7 @@ summary: ''
 
 # Please do not update the following header stuff
 view: community/projectsection
+sort_by: section_weight
 wrapperOverrideWidth: 80
 image:
   preview_only: true
