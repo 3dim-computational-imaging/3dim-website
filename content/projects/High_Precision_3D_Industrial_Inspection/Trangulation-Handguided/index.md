@@ -49,13 +49,13 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
 {{< youtube id="tAIpmpVvmxM" >}}
-{{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
+{{< center >}}Flying Triangulation Face Scanner{{< /center >}}
  
 {{< youtube id="dIboan3y64k" >}}
-{{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
+{{< center >}}3D models measured with Flying Triangulation (no post processing).{{< /center >}}
 
 {{< youtube id="oE0hHAP7QAA" >}}
-{{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
+{{< center >}}360° scan of a plaster bust.{{< /center >}}
 
 {{< /collapsible-section >}}
 
