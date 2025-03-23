@@ -15,25 +15,25 @@ media:
 {{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
 Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 
-{{< youtube id="Y_d0GWk8Zqo">}}
+{{< youtube id="Y_d0GWk8Zqo" >}}
 {{< center >}}Color 3D Movie of a talking face - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="hlMLigk1UfU">}}
+{{< youtube id="hlMLigk1UfU" >}}
 {{< center >}}Color 3D Movie of another talking face - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="4xP-DbDRFo0">}}
+{{< youtube id="4xP-DbDRFo0" >}}
 {{< center >}}Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing){{< /center >}}
 
-{{< youtube id="ddi7_DXxYBI">}}
+{{< youtube id="ddi7_DXxYBI" >}}
 {{< center >}}Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved{{< /center >}}
 
-{{< youtube id="aJCA3REiN6E">}}
+{{< youtube id="aJCA3REiN6E" >}}
 {{< center >}}How to watch a '3D movie'{{< /center >}}
 
-{{< youtube id="b-corSDc4Xc">}}
+{{< youtube id="b-corSDc4Xc" >}}
 {{< center >}}3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing).{{< /center >}}
 
-{{< youtube id="as-Bt-xMEcw">}}
+{{< youtube id="as-Bt-xMEcw" >}}
 {{< center >}}3D movie of a talking face with unidirectional lines - RAW data (no post processing).{{< /center >}}
 
 {{< /collapsible-section >}}
@@ -45,21 +45,21 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 {{< /collapsible-section >}}
 
 {{< collapsible-section title="Flying Triangulation: Selected Videos (Click to Expand)" >}}
-{{< youtube id="3Ht4QY5Xk8s">}}
+{{< youtube id="3Ht4QY5Xk8s" >}}
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
-{{< youtube id="tAIpmpVvmxM">}}
+{{< youtube id="tAIpmpVvmxM" >}}
 {{< center >}}Flying Triangulation Face Scanner{{< /center >}}
  
-{{< youtube id="dIboan3y64k">}}
+{{< youtube id="dIboan3y64k" >}}
 {{< center >}}3D models measured with Flying Triangulation (no post processing).{{< /center >}}
 
-{{< youtube id="oE0hHAP7QAA">}}
+{{< youtube id="oE0hHAP7QAA" >}}
 {{< center >}}360° scan of a plaster bust.{{< /center >}}
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section title="Flying Triangulation: News and Press (Click to Expand)" >}}
-{{< youtube id="lspIIdSlXIk" width="560" height="315">}}
+{{< youtube id="lspIIdSlXIk" >}}
 {{< center >}}**Interview Flying Triangulation (March 2013)**<br>German with english subtitles{{< /center >}}
 {{< /collapsible-section >}}
