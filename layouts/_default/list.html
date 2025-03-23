@@ -29,13 +29,14 @@
   {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
   {{ $sort_ascending := $.Params.sort_ascending | default (eq $.Params.order "asc") | default false }}
   {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+  {{ $sortedPages := sort .Pages $sort_by $sort_order }}
 
   {{ if $.Params.paginationoverride }}
-    {{ range $index, $post := sort (.Pages $sort_by $sort_order) }}
+    {{ range $index, $post := $sortedPages }}
         {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
     {{end}}
   {{ else }}
-    {{ $paginator := .Paginate sort (.Pages $sort_by $sort_order) }}
+    {{ $paginator := .Paginate $sortedPages }}
     {{ range $index, $post := $paginator.Pages }}
         {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
     {{end}}
