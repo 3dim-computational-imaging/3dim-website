@@ -15,32 +15,31 @@ media:
  {{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
 Visit the [Osmin3D] (https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 
-{{< youtube "Y_d0GWk8Zqo" >}}
-Color 3D Movie of a talking face - RAW data (no post processing)
+{{< youtube id="Y_d0GWk8Zqo" >}}
+<center> Color 3D Movie of a talking face - RAW data (no post processing) </center>
+
+{{< youtube id="hlMLigk1UfU" >}}
+<center> Color 3D Movie of another talking face - RAW data (no post processing) </center>
 {.center-text}
 
-{{< youtube "hlMLigk1UfU" >}}
-Color 3D Movie of another talking face - RAW data (no post processing)
+{{< youtube id="4xP-DbDRFo0" >}}
+<center> Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing) </center>
 {.center-text}
 
-{{< youtube "4xP-DbDRFo0" >}}
-Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing)
+{{< youtube id="ddi7_DXxYBI" >}}
+<center> Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved </center>
 {.center-text}
 
-{{< youtube "ddi7_DXxYBI" >}}
-Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved
+{{< youtube id="aJCA3REiN6E" >}}
+<center> How to watch a '3D movie' </center>
 {.center-text}
 
-{{< youtube "aJCA3REiN6E" >}}
-How to watch a '3D movie'
+{{< youtube id="b-corSDc4Xc" start=16 >}}
+<center> 3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing). </center>
 {.center-text}
 
-{{< youtube "b-corSDc4Xc?start=16" >}}
-3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing).
-{.center-text}
-
-{{< youtube "as-Bt-xMEcw" >}}
-3D movie of a talking face with unidirectional lines - RAW data (no post processing).
+{{< youtube id="as-Bt-xMEcw" >}}
+<center> 3D movie of a talking face with unidirectional lines - RAW data (no post processing). </center>
 {.center-text}
 
  {{< /collapsible-section >}}
