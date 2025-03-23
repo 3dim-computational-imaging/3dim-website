@@ -28,41 +28,41 @@ Renders an embedded YouTube video.
 
     {{- /* Set defaults. */}}
     {{- $allowFullScreen := "allowfullscreen" }}
-    {{- $autoplay := 0 }}
+    {{- $autoplay := "0" }}
     {{- $class := "" }}
-    {{- $controls := 1 }}
-    {{- $end := 0 }}
+    {{- $controls := "1" }}
+    {{- $end := "0" }}
     {{- $loading := "eager" }}
-    {{- $loop := 0 }}
-    {{- $mute := 0 }}
-    {{- $start := 0 }}
+    {{- $loop := "0" }}
+    {{- $mute := "0" }}
+    {{- $start := "0" }}
     {{- $title := "YouTube video" }}
 
     {{- /* Get arguments. */}}
-    {{- if in (slice "false" false 0) ($.Get "allowFullScreen") }}
+    {{- if in (slice "false" false "0") ($.Get "allowFullScreen") }}
       {{- $allowFullScreen = "" }}
-    {{- else if in (slice "true" true 1) ($.Get "allowFullScreen") }}
+    {{- else if in (slice "true" true "1") ($.Get "allowFullScreen") }}
       {{- $allowFullScreen = "allowfullscreen" }}
     {{- end }}
-    {{- if in (slice "false" false 0) ($.Get "autoplay") }}
-      {{- $autoplay = 0 }}
-    {{- else if in (slice "true" true 1) ($.Get "autoplay") }}
-      {{- $autoplay = 1 }}
+    {{- if in (slice "false" false "0") ($.Get "autoplay") }}
+      {{- $autoplay = "0" }}
+    {{- else if in (slice "true" true "1") ($.Get "autoplay") }}
+      {{- $autoplay = "1" }}
     {{- end }}
-    {{- if in (slice "false" false 0) ($.Get "controls") }}
-      {{- $controls = 0 }}
-    {{- else if in (slice "true" true 1) ($.Get "controls") }}
-      {{- $controls = 1 }}
+    {{- if in (slice "false" false "0") ($.Get "controls") }}
+      {{- $controls = "0" }}
+    {{- else if in (slice "true" true "1") ($.Get "controls") }}
+      {{- $controls = "1" }}
     {{- end }}
-    {{- if in (slice "false" false 0) ($.Get "loop") }}
-      {{- $loop = 0 }}
-    {{- else if in (slice "true" true 1) ($.Get "loop") }}
-      {{- $loop = 1 }}
+    {{- if in (slice "false" false "0") ($.Get "loop") }}
+      {{- $loop = "0" }}
+    {{- else if in (slice "true" true "1") ($.Get "loop") }}
+      {{- $loop = "1" }}
     {{- end }}
-    {{- if in (slice "false" false 0) ($.Get "mute") }}
-      {{- $mute = 0 }}
-    {{- else if or (in (slice "true" true 1) ($.Get "mute")) $autoplay }}
-      {{- $mute = 1 }}
+    {{- if in (slice "false" false "0") ($.Get "mute") }}
+      {{- $mute = "0" }}
+    {{- else if or (in (slice "true" true "1") ($.Get "mute")) $autoplay }}
+      {{- $mute = "1" }}
     {{- end }}
     {{- $class := or ($.Get "class") $class }}
     {{- $end := or ($.Get "end") $end }}
