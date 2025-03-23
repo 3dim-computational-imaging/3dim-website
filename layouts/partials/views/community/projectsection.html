@@ -62,7 +62,7 @@
             {{/* Sort */}}
             {{ $sort_by := $item.Params.media.sort_by | default "Date" }}
             {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
-            {{ $query = $query.ByParam $sort_by }}
+            {{ $query = ($query.ByParam $sort_by).Reverse }}
             
             {{/* Actually create publication list */}}
             {{ if $count }}
@@ -92,7 +92,7 @@
             {{/* Sort */}}
             {{ $sort_by := $item.Params.media.sort_by | default "Date" }}
             {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
-            {{ $query = $query.ByParam $sort_by }}
+            {{ $query = ($query.ByParam $sort_by).Reverse  }}
             
             {{/* Actually create publication list */}}
             {{ if $count }}
