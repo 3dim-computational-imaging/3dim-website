@@ -343,3 +343,43 @@ div.media-body {
     margin-top: 0.15rem;
 }
 
+.collapsible-section-shell {
+    width: 100%;
+}
+
+/* Collapsible section CSS code source: https://www.w3schools.com/howto/howto_js_collapsible.asp */
+.collapsible-section-header {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+}
+
+.active, .collapsible-section-header:hover {
+    background-color: #ccc;
+}
+
+.collapsible-section-content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.collapsible-section-header:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
