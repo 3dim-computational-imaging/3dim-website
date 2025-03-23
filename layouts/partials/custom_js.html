@@ -1,4 +1,4 @@
 {{ range readDir "static/scripts" }}
-{{ $path := printf "%s%s" /scripts/ .Name }}
+{{ $path := printf "%s%s" "/scripts/" .Name }}
 <script src='{{ $path | urlize | relURL }}' type="module"></script>
 {{ end }}

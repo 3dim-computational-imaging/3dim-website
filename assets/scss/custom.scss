@@ -363,6 +363,10 @@ div.media-body {
     background-color: #ccc;
 }
 
+.active .collapsible-section-content {
+    max-height: auto;
+}
+
 .collapsible-section-content {
     padding: 0 18px;
     display: none;
