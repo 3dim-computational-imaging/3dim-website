@@ -58,11 +58,12 @@ taxonomies:
 markup:
   _merge: deep
   goldmark:
-  renderHooks:
-    link:
-      enableDefault: true
-  renderer:
-    unsafe: true
+    renderer:
+        unsafe: true
+    renderHooks:
+        link:
+        enableDefault: true
+    
 related:
   threshold: 80
   includeNewer: true

@@ -16,25 +16,25 @@ media:
 Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 <span class="center-text">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_d0GWk8Zqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< video src="Y_d0GWk8Zqo" >}}
 Color 3D Movie of a talking face - RAW data (no post processing)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlMLigk1UfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="hlMLigk1UfU" >}}
 Color 3D Movie of another talking face - RAW data (no post processing)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4xP-DbDRFo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="4xP-DbDRFo0" >}}
 Real-time 3D movie of a boncing ping-pong ball - RAW data (no post processing)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ddi7_DXxYBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="ddi7_DXxYBI" >}}
 Real-time 3D movie of a folded paper - RAW data (no post processing). High object frequencies are preserved
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aJCA3REiN6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="aJCA3REiN6E" >}}
 How to watch a '3D movie' </center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b-corSDc4Xc?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="b-corSDc4Xc" start=16 >}}
 3D movie of a talking face with unidirectional lines plus closeup - RAW data (no post processing).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/as-Bt-xMEcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="as-Bt-xMEcw" >}}
 3D movie of a talking face with unidirectional lines - RAW data (no post processing).
 </span>
 
