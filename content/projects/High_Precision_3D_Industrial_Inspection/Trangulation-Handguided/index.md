@@ -12,11 +12,11 @@ media:
 
  In a related concept dubbed “Flying Triangulation”, we pair a “sparse” single-shot line triangulation sensor projecting ~10 straight narrow lines with sophisticated real-time registration algorithms. The captured sparse 3D line profiles are registered to each other ‘on-the-fly’ while the sensor is free-hand guided around the object, or the object is moved in front of the sensor (see videos). The result is a dense 3D model of the object with high depth precision.
  
- {{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
-Visit the [Osmin3D] (https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
+{{< collapsible-section title="Multi-line Triangulation: Selected Videos (Click to Expand)" >}}
+Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 <span class="center-text">
 
-{{< youtube id="Y_d0GWk8Zqo" >}}
+{{< video src="https://www.youtube.com/embed/Y_d0GWk8Zqo" >}}
 Color 3D Movie of a talking face - RAW data (no post processing)
 
 {{< youtube id="hlMLigk1UfU" >}}
