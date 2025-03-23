@@ -5,6 +5,7 @@ section_weight: 100
 
 media:
     tag: "HPrecision3D-Triangulation-Shiny"
+    sort_by: weight_hprecision3d_triangulation_shiny
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%" >}}
