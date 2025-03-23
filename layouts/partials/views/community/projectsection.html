@@ -62,9 +62,7 @@
             {{/* Sort */}}
             {{ $sort_by := $item.Params.media.sort_by | default "Date" }}
             {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
-            {{ $sort_ascending := $item.Params.media.sort_ascending | default (eq $item.Params.media.order "asc") | default false }}
-            {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-            {{ $query = sort $query (.Params . $sort_by) $sort_order }}
+            {{ $query = $query.ByParam $sort_by }}
             
             {{/* Actually create publication list */}}
             {{ if $count }}
