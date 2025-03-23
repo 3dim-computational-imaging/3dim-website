@@ -61,6 +61,8 @@ markup:
   renderHooks:
     link:
       enableDefault: true
+  renderer:
+    unsafe: true
 related:
   threshold: 80
   includeNewer: true
