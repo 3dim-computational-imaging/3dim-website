@@ -57,6 +57,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+  renderHooks:
+    link:
+      enableDefault: true
 related:
   threshold: 80
   includeNewer: true
