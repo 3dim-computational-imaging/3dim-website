@@ -16,7 +16,7 @@ media:
 Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel for more Videos.
 <span class="center-text">
 
-{{< video src="Y_d0GWk8Zqo" >}}
+{{< youtube id="Y_d0GWk8Zqo" >}}
 Color 3D Movie of a talking face - RAW data (no post processing)
 
 {{< youtube id="hlMLigk1UfU" >}}
