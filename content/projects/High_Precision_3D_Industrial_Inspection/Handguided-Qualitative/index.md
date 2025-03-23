@@ -4,6 +4,7 @@ section_weight: 50
 
 media:
     tag: "HPrecision3D_Handguided_Commodity"
+    sort_by: weight_HPrecision3D_Handguided_Commodity
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="150px" max_width="80%">}}

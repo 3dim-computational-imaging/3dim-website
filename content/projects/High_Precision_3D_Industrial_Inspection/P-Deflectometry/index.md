@@ -1,10 +1,10 @@
 ---
 title: "Polarimetric Deflectometry: A Novel Approach for 3D Imaging of Specular Surfaces"
 section_weight: 90
-#weight_HPrecision3D_Polarization_Deflectometry
 
 media:
     tag: "HPrecision3D-Polarization-Deflectometry"
+    sort_by: weight_HPrecision3D_Polarization_Deflectometry
     
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%" >}}

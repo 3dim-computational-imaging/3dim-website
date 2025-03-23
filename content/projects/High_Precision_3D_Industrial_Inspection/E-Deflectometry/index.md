@@ -4,6 +4,7 @@ section_weight: 70
 
 media:
     tag: "HPrecision3D-Event-Deflectometry"
+    sort_by: weight_HPrecision3D-Event-Deflectometry
     
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%" >}}

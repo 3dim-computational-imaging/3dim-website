@@ -1,7 +1,6 @@
 ---
 title: Single-Shot Fringe Projection Triangulation on Shiny Technical Surfaces 
 section_weight: 100
-#weight_hprecision3d_triangulation_shiny
 
 media:
     tag: "HPrecision3D-Triangulation-Shiny"
