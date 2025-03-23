@@ -58,3 +58,12 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
 {{< /collapsible-section >}}
+
+{{< collapsible-section title="Flying Triangulation: News and Press (Click to Expand)" >}}
+{{< youtube id="lspIIdSlXIk" >}}
+{{< center >}}
+**Interview Flying Triangulation (March 2013)**
+
+German with english subtitles
+{{< /center >}}
+{{< /collapsible-section >}}lspIIdSlXIk
