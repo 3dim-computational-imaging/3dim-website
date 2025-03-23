@@ -1,6 +1,7 @@
 ---
 # Weight on landing page
 weight: 10
+sort_by: section_weight
 
 # Title
 #title: High-Precision 3D Industrial Inspection
@@ -15,8 +16,6 @@ view: community/projectsection
 wrapperOverrideWidth: 80
 image:
   preview_only: true
-media:
-  sort_by: section_weight
   
 # Markdown code goes below the triple dash:
 ---
