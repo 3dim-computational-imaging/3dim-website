@@ -38,14 +38,6 @@
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
   </div>
 
-  {{ with $summary }}
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-    <div class="article-style">
-      <p>{{.}}</p>
-    </div>
-  </a>
-  {{ end }}
-
   {{ if $has_attachments }}
   <div class="btn-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
