@@ -11,8 +11,8 @@
       
       <p class="citation_paragraph"> <!-- Line 1 -->
       {{ if $item.Params.doi }}<a href="https://doi.org/{{ $item.Params.doi }}">{{ else if $item.Params.url_pdf }}<a href="{{ $item.Params.url_pdf | safeURL }}">{{ end }}
-      {{ $item.Title }}
-      {{ if $item.Params.doi }}</a>{{ end }}.
+      {{ $item.Title }}.
+      {{ if $item.Params.doi }}</a>{{ else if $item.Params.url_pdf }}</a>{{ end }}
       </p>
 
       <p class="citation_paragraph"> <!-- Line 2: Authors -->
