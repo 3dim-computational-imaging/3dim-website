@@ -186,7 +186,6 @@ div.project-section-container {
 }
 
 div.list-content-width-override-container {
-  max-width: 1536px;
   width: 100%;
   display: flex;
   margin-left: auto;
@@ -198,6 +197,7 @@ div.list-content-width-override-container {
 div.list-content-width-override-container div.article-style {
   display: block;
   text-align: justify;
+  max-width: 1536px;
 }
 
 div.project-section-talk-title {
