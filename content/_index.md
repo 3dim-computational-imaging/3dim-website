@@ -6,10 +6,10 @@ type: landing
 
 sections:
   - block: markdown
-    id: landing-summary
+    id: landing-header
     content:
       title: |
-        <strong>Computational 3D Imaging and Measurement Lab</strong>
+        Computational 3D Imaging and Measurement Lab
       subtitle: |
         <h3>At the <a href="https://www.optics.arizona.edu" class="optics-label-hero">Wyant College of Optical Sciences</a> - University of Arizona</h3>
       text: |
