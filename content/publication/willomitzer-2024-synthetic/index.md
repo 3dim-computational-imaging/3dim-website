@@ -32,7 +32,7 @@ preprint_date: '2022'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Precision_3D_SWH,'FundamentalLimits', 'SWH_ImagingThroughScattering']
+tags: ['Precision_3D_SWH', 'FundamentalLimits', 'SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
 landing_weight: 100
