@@ -32,7 +32,7 @@ doi: "10.1016/j.optlaseng.2024.108165"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Precision_3D_SWH,'SWH_ImagingThroughScattering','SWH_LightInFlight']
+tags: ['Precision_3D_SWH', 'SWH_ImagingThroughScattering', 'SWH_LightInFlight']
 
 # Weights for project pages + the landing page
 landing_weight: 90
