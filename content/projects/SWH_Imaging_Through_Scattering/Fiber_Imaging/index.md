@@ -1,5 +1,5 @@
 ---
-title: 'Imaging through fibers'
+title: 'SWI-based imaging through fibers'
 section_weight: 80
 
 media:
