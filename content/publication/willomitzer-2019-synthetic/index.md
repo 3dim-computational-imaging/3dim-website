@@ -9,7 +9,7 @@ authors:
 - florian-willomitzer
 - Prasanna V Rangarajan
 - Fengqiang Li
-- Muralidhar M Balaji
+- muralidhar-balaji
 - Marc P Christensen
 - Oliver Cossairt
 

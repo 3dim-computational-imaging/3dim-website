@@ -8,7 +8,7 @@ title: High resolution non-line-of-sight imaging with superheterodyne remote dig
 authors:
 - florian-willomitzer
 - Fengqiang Li
-- Muralidhar Madabhushi Balaji
+- muralidhar-balaji
 - Prasanna Rangarajan
 - Oliver Cossairt
 
