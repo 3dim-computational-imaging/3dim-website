@@ -400,22 +400,3 @@ h1 {
     font-size: 20px;
     font-weight: bold;
 }
-
-.deprecation-banner {
-    width: 100%;
-    background-color: red;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-    text-align:center;
-    position: fixed;
-    top: 70px;
-    margin-top: 0;
-    z-index: 20;
-}
-
-.deprecation-banner a{
-    color: white;
-    text-decoration: underline;
-    font-weight: bolder;
-}
