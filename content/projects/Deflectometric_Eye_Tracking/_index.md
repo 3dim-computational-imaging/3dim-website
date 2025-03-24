@@ -1,6 +1,6 @@
 ---
 # Weight on landing page
-weight: 10
+weight: 50
 sort_by: section_weight
 
 # Title

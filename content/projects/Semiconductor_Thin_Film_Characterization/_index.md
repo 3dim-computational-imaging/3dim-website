@@ -1,6 +1,6 @@
 ---
 # Weight on landing page
-weight: 10
+weight: 40
 
 # Title
 title: Semiconductor Thin Film Characterization

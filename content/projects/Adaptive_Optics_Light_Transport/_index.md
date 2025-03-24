@@ -1,6 +1,6 @@
 ---
 # Weight on landing page
-weight: 10
+weight: 30
 
 # Title
 title: Adaptive Optics for Long-Range Light Transport

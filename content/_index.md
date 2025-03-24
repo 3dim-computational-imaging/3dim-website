@@ -38,7 +38,7 @@ sections:
         kinds:
           - section
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
+      sort_by: weight
       sort_ascending: false
       #offset: 0
       #order: desc

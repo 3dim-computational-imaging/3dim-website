@@ -1,6 +1,6 @@
 ---
 # Weight on landing page
-weight: 10
+weight: 70
 
 # Title
 title: Fundamental Limits in Computational 3D Imaging
