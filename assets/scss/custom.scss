@@ -226,12 +226,13 @@ div.wrapper-override-list-container {
 
 @media (min-width: 992px) {
   img.article-banner {
+    width: 100%;
     height: auto;
   }
 }
 
 img.article-banner {
-  width: 100%;
+  width: 808px;
   height: auto;
   object-fit: contain;
 }

@@ -24,10 +24,9 @@
   {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
-    {{ if ne .MediaType.SubType "gif" }}{{ $image = .Process "webp" }}{{ end }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
       <div class="img-hover-zoom">
-        <img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}"
+        <img src="{{ .RelPermalink }}"
             class="article-banner" alt="{{ $item.Title }}" loading="lazy">
       </div>
     </a>
