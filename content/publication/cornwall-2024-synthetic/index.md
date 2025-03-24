@@ -38,7 +38,7 @@ summary: ''
 tags: ['Precision_3D_SWH','SWH_LightInFlight']
 
 # Weights for project pages + the landing page
-landing_weight: 85
+landing_weight: 75
 weight_Precision_3D_SWH: 80
 weight_SWH_LightInFlight: 100
 

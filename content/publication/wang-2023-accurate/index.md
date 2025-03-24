@@ -36,7 +36,7 @@ summary: ''
 tags: ['EyeTracking_StandardDeflectometry']
 
 # Weights for project pages + the landing page
-landing_weight: 80
+landing_weight: 95
 weight_EyeTracking_StandardDeflectometry: 100
 
 # Display this page in a list of Featured pages?

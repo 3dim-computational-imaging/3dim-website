@@ -35,7 +35,7 @@ summary: ''
 tags: 'HPrecision3D-Polarization-Deflectometry'
 
 # Weights for project pages + the landing page
-landing_weight: 85
+landing_weight: 80
 weight_HPrecision3D_Polarization_Deflectometry: 100
 
 # Display this page in a list of Featured pages?
