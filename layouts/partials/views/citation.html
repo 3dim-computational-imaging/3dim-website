@@ -10,7 +10,9 @@
       <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
       
       <p class="citation_paragraph"> <!-- Line 1 -->
-      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+      {{ with $item.Params.doi }}<a href="https://doi.org/{{ . }}">{{ end }}
+      {{ $item.Title }}
+      {{ if $item.Params.doi }}</a>{{ end }}.
       </p>
 
       <p class="citation_paragraph"> <!-- Line 2: Authors -->
