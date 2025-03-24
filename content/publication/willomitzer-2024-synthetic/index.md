@@ -25,6 +25,8 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*Computational Imaging for Scene Understanding: Transient, Spectral, and Polarimetric Analysis*'
 
+doi: "10.48550/arXiv.2209.04941"
+
 # Preprint info
 url_preprint: 'https://arxiv.org/abs/2209.04941'
 preprint_date: '2022'

@@ -10,7 +10,7 @@
       <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
       
       <p class="citation_paragraph"> <!-- Line 1 -->
-      {{ with $item.Params.doi }}<a href="https://doi.org/{{ . }}">{{ end }}
+      {{ if $item.Params.doi }}<a href="https://doi.org/{{ $item.Params.doi }}">{{ else if $item.Params.url_pdf }}<a href="{{ $item.Params.url_pdf | safeURL }}">{{ end }}
       {{ $item.Title }}
       {{ if $item.Params.doi }}</a>{{ end }}.
       </p>

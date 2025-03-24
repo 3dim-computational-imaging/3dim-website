@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://www.mccormick.northwestern.edu/computer-science/documents/2022-01-quantitative-analysis-on-holography-interpolation-with-nerf.pdf'
+url_pdf: 'https://www.mccormick.northwestern.edu/computer-science/documents/2022-05-quantitative-analysis-of-holography.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
