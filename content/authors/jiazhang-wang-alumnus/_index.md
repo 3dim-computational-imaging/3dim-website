@@ -77,6 +77,6 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-Jiazhang Wang was a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at Northwestern University. Before joining Northwestern, he earned his master’s degree in Electrical Engineering from Columbia University and bachelor’s degree in Electrical Engineering from Huazhong University of Science and Technology (HUST). His research interests include computational photography, 3D optical metrology and computer vision. He is currently working on developing a novel eye-tracking prototype using optical metrology. After graduating from the 3DIM lab in April 2024, he continues and expands his research in the lab as Postdoctoral Researcher.\
+Jiazhang was the first Ph.D. graduate from the 3DIM Lab, earning his degree from Northwestern University in 2024. His research focuses on bridging computer vision and optical metrology. He developed “computational deflectometry” to expand the capabilities of traditional deflectometry, enabling new applications such as eye tracking.
 
 [For up-to-date information, please click here to view his current profile](/author/jiazhang-wang)
