@@ -257,29 +257,18 @@ img.icon-custom.big-icon {
   height: 38px;
 }
 
-#landing-summary h1.mb-0 {
-  font-size: 2.1rem;
-}
-
-#landing-header {
-  height: 55vh;
-}
-
 #landing-header h1.mb-0 {
   font-weight: bolder;
-}
-
-#landing-header div.home-section-bg.bg-image {
-  background-position: top;
-}
-
-#landing-summary div.text-center {
-  text-align: left !important
 }
 
 #mediacoverage .media.stream-item img {
   object-fit: cover;
   height: 110px;
+}
+
+#landing-header h3 a {
+  color: black;
+  text-decoration: underline;
 }
 
 #landing-header div.section-heading.col-12.mb-3.text-center h3 {
