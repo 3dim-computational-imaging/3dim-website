@@ -36,10 +36,11 @@ abstract: 'We present a method for the computational synthesis of a shaped, synt
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ["Synthetic Wavelength Holography"]
+tags: ['SWH_LightInFlight']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_SWH_LightInFlight: 70
 
 # Display this page in a list of Featured pages?
 featured: false

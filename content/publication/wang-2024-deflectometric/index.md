@@ -34,10 +34,13 @@ doi: '10.1364/FIO.2024.FTu6B.3'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['EyeTracking_StandardDeflectometry','EyeTracking_OptimizationDeflectometry','EyeTracking_DeepLearningDeflectometry']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_EyeTracking_StandardDeflectometry: 80
+weight_EyeTracking_OptimizationDeflectometry: 80
+weight_EyeTracking_DeepLearningDeflectometry: 90
 
 # Display this page in a list of Featured pages?
 featured: false

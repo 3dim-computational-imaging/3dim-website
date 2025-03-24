@@ -3,7 +3,7 @@ title: High-Precision Time-of-Flight Sensing with Synthetic Waves
 section_weight: 80
 
 media:
-    tag: "Precision-3D-SWH"
+    tag: "Precision_3D_SWH"
     sort_by: weight_Precision_3D_SWH
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%">}}

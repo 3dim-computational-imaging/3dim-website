@@ -1,5 +1,10 @@
 ---
-title: "Optimization-based inverse rendering using deflectometric information "
+title: "Optimization-based inverse rendering using deflectometric information"
+section_weight: 90
+
+media:
+    tag: "EyeTracking_OptimizationDeflectometry"
+    sort_by: weight_EyeTracking_OptimizationDeflectometry
     
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%">}}

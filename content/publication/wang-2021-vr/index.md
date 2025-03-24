@@ -36,10 +36,11 @@ doi: "10.1364/COSI.2021.CF2E.3"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ["Precision-3D-Deflectometry"]
+tags: ["EyeTracking_StandardDeflectometry"]
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_EyeTracking_StandardDeflectometry: 70
 
 # Display this page in a list of Featured pages?
 featured: false

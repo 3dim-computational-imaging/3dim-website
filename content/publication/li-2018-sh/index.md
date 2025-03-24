@@ -33,7 +33,7 @@ doi: "10.1109/ICCPHOT.2018.8368473"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Precision-3D-SWH']
+tags: ['Precision_3D_SWH']
 
 # Weights for project pages + the landing page
 landing_weight: 10

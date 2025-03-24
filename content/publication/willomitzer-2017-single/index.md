@@ -31,11 +31,14 @@ doi: "10.1364/OE.25.023451"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['HPrecision3D_Handguided_Triangulation']
+tags: ['HPrecision3D_Handguided_Triangulation','FundamentalLimits','Medical3DApplications_MultiLineTriangulation','CulturalHeritage_MultilineTriangulation']
 
 # Weights for project pages + the landing page
 landing_weight: 70
 weight_HPrecision3D_Handguided_Triangulation: 90
+weight_FundamentalLimits: 60
+weight_Medical3DApplications_MultiLineTriangulation: 100
+weight_CulturalHeritage_MultilineTriangulation: 90
 
 # Display this page in a list of Featured pages?
 featured: true

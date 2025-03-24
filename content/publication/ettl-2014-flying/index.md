@@ -31,10 +31,11 @@ publication: '*Proceedings of the DGaO Conference*'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['Medical3DApplications_MultiLineTriangulation']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_Medical3DApplications_MultiLineTriangulation: 70
 
 # Display this page in a list of Featured pages?
 featured: false

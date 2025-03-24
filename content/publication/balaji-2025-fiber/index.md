@@ -35,10 +35,11 @@ doi: "10.48550/arXiv.2501.15561"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ["HPrecision3D-Event-Deflectometry"]
+tags: ['SWH_FiberImaging']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_SWH_FiberImaging: 100
 
 # Display this page in a list of Featured pages?
 featured: false

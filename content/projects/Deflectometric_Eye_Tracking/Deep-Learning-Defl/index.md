@@ -1,5 +1,10 @@
 ---
-title: Deep learning-based deflectometric eye tracking 
+title: Deep learning-based deflectometric eye tracking
+section_weight: 80
+
+media:
+    tag: "EyeTracking_DeepLearningDeflectometry"
+    sort_by: weight_EyeTracking_DeepLearningDeflectometry
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%">}}

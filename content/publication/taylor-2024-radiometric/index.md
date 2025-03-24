@@ -32,11 +32,12 @@ doi: '10.1117/12.3027875'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: 'HPrecision3D-Triangulation-Shiny'
+tags: ['HPrecision3D-Triangulation-Shiny','Medical3DApplications_TriangulationShiny']
 
 # Weights for project pages + the landing page
 landing_weight: 85
 weight_hprecision3d_triangulation_shiny: 100
+weight_Medical3DApplications_TriangulationShiny: 100
 
 # Display this page in a list of Featured pages?
 featured: false

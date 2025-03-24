@@ -1,5 +1,10 @@
 ---
 title: Single-Shot Stereo Deflectometry approach with shape/normal-based geometric processing
+section_weight: 100
+
+media:
+    tag: "EyeTracking_StandardDeflectometry"
+    sort_by: weight_EyeTracking_StandardDeflectometry
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="400px" max_width="80%">}}

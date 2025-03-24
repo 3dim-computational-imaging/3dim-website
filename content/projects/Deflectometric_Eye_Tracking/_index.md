@@ -1,6 +1,7 @@
 ---
 # Weight on landing page
 weight: 10
+sort_by: section_weight
 
 # Title
 title: Deflectometric Eye Tracking

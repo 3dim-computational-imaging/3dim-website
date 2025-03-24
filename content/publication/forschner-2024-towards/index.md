@@ -35,10 +35,11 @@ doi: '10.1117/12.3048202'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['SWH_FiberImaging']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_SWH_FiberImaging: 90
 
 # Display this page in a list of Featured pages?
 featured: false

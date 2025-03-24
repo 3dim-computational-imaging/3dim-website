@@ -35,10 +35,12 @@ doi: "10.48550/arXiv.1912.11438"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['FundamentalLimits','SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_FundamentalLimits: 80
+weight_SWH_ImagingThroughScattering: 60
 
 # Display this page in a list of Featured pages?
 featured: false

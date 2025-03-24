@@ -32,10 +32,11 @@ publication: '*Deutsche Gesellschaft für angewandte Optik (DGaO)*'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['Medical3DApplications_MultiLineTriangulation']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_Medical3DApplications_MultiLineTriangulation: 50
 
 # Display this page in a list of Featured pages?
 featured: false

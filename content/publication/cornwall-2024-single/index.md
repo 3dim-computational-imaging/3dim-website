@@ -37,10 +37,11 @@ doi: "10.1364/FIO.2024.JTu7A.1"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_SWH_ImagingThroughScattering: 80
 
 # Display this page in a list of Featured pages?
 featured: false

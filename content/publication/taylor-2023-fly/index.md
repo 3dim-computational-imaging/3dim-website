@@ -31,11 +31,12 @@ doi: "10.1364/FIO.2023.FTu6D.3"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: 'HPrecision3D-Triangulation-Shiny'
+tags: ['HPrecision3D-Triangulation-Shiny','Medical3DApplications_TriangulationShiny']
 
 # Weights for project pages + the landing page
 landing_weight: 10
 weight_hprecision3d_triangulation_shiny: 50
+weight_Medical3DApplications_TriangulationShiny: 50
 
 # Display this page in a list of Featured pages?
 featured: false

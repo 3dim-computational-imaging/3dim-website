@@ -35,11 +35,12 @@ doi: '10.48550/arXiv.2407.07872'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Precision-3D-SWH']
+tags: ['Precision_3D_SWH','SWH_LightInFlight']
 
 # Weights for project pages + the landing page
 landing_weight: 85
 weight_Precision_3D_SWH: 80
+weight_SWH_LightInFlight: 100
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -34,7 +34,7 @@ doi: "10.1109/ICCP48838.2020.9105280"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Precision-3D-SWH']
+tags: ['Precision_3D_SWH']
 
 # Weights for project pages + the landing page
 landing_weight: 10

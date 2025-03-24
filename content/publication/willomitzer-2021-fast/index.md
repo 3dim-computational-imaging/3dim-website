@@ -35,10 +35,12 @@ doi: "10.1038/s41467-021-26776-w"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['SWH_ImagingThroughScattering','SWH_LightInFlight']
 
 # Weights for project pages + the landing page
 landing_weight: 95
+weight_SWH_ImagingThroughScattering: 100
+weight_SWH_LightInFlight: 80
 
 # Display this page in a list of Featured pages?
 featured: true

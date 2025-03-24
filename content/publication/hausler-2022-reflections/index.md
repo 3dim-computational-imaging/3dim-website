@@ -29,10 +29,11 @@ doi: "10.37188/lam.2022.025"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['FundamentalLimits']
 
 # Weights for project pages + the landing page
 landing_weight: 65
+weight_FundamentalLimits: 100
 
 # Display this page in a list of Featured pages?
 featured: true

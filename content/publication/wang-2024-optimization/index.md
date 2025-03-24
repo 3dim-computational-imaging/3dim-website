@@ -32,10 +32,11 @@ doi: "10.1109/TCI.2024.3382494"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['EyeTracking_OptimizationDeflectometry']
 
 # Weights for project pages + the landing page
 landing_weight: 75
+weight_EyeTracking_OptimizationDeflectometry: 70
 
 # Display this page in a list of Featured pages?
 featured: true

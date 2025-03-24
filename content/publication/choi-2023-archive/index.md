@@ -43,13 +43,16 @@ served with high quality.'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: ['CulturalHeritage_NERF']
+
+# Weights
+weight_CulturalHeritage_NERF: 100
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
-url_pdf: 'choi-2023-archive.pdf'
+url_pdf: 'https://www.dgao-proceedings.de/download/124/124_b6.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

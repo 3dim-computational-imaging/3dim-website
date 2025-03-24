@@ -1,8 +1,10 @@
 ---
 title: 'SWI-based Imaging through scattering media (multi-shot and single-shot)'
+section_weight: 100
 
 media:
-    tag: "HPrecision3D-Event-Deflectometry"
+    tag: "SWH_ImagingThroughScattering"
+    sort_by: weight_SWH_ImagingThroughScattering
 
 ---
 {{< figure src="header_img.png" class="project-section-wide-image" max_height="300px" width="auto" >}}

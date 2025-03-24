@@ -36,7 +36,10 @@ abstract: 'We present two methods for fast and precise eye-tracking in VR headse
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: ['EyeTracking_DeepLearningDeflectometry']
+
+# Weight on pages
+weight_EyeTracking_DeepLearningDeflectometry: 80
 
 # Display this page in a list of Featured pages?
 featured: false

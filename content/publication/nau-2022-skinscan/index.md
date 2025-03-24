@@ -39,10 +39,11 @@ doi: "10.1109/IEEECONF53345.2021.9723389"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['Medical3DApplications_SkinScan']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_Medical3DApplications_SkinScan: 50
 
 # Display this page in a list of Featured pages?
 featured: false

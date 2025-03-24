@@ -37,10 +37,11 @@ doi: "10.1109/IEEECONF44664.2019.9048720"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['CulturalHeritage_CommodityDevices']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_CulturalHeritage_CommodityDevices: 80
 
 # Display this page in a list of Featured pages?
 featured: false

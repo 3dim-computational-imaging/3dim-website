@@ -1,6 +1,7 @@
 ---
 # Weight on landing page
 weight: 10
+sort_by: section_weight
 
 # Title
 title: Computational Imaging for Art and Cultural Heritage Preservation and Analysis  

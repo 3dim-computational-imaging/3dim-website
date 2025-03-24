@@ -33,10 +33,11 @@ doi: "10.48550/arXiv.2308.07298"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['EyeTracking_StandardDeflectometry']
 
 # Weights for project pages + the landing page
 landing_weight: 80
+weight_EyeTracking_StandardDeflectometry: 100
 
 # Display this page in a list of Featured pages?
 featured: true

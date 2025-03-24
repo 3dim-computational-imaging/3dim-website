@@ -31,10 +31,11 @@ doi: "10.3389/fnins.2014.00042"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['Medical3DApplications_MultiLineTriangulation']
 
 # Weights for project pages + the landing page
 landing_weight: 40
+weight_Medical3DApplications_MultiLineTriangulation: 90
 
 # Display this page in a list of Featured pages?
 featured: true

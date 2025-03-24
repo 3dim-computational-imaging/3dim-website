@@ -27,10 +27,11 @@ publication: '*Proceedings of the 124th DGaO Conference, Berlin, B13, 2023*'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['FundamentalLimits']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_FundamentalLimits: 90
 
 # Display this page in a list of Featured pages?
 featured: false
