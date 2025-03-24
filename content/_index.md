@@ -157,7 +157,7 @@ sections:
       title: Sponsored Research
       subtitle: 'Past and Present'
       text: |
-        The work shown on this website has been generously funded by the following agencies and industry partners:
+        The work shown on this website has been generously funded by the agencies and industry partners listed below. Prof. Willomitzer was directly awarded funding as Principal Investigator (PI) or Co-Principal Investigator (Co-PI) from NSF, OPTICA, Meta, Texas Instruments, NCMS, NEH, and MAGNA.
         {{<figure library="true" src="Sponsored_all.jpg" width="800">}}  
     design:
       columns: '2'
