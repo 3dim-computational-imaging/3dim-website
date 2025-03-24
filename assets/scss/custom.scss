@@ -186,6 +186,7 @@ div.project-section-container {
 }
 
 div.list-content-width-override-container {
+  max-width: 1536px;
   width: 100%;
   display: flex;
   margin-left: auto;
@@ -196,7 +197,7 @@ div.list-content-width-override-container {
 
 div.list-content-width-override-container div.article-style {
   display: block;
-  align-items: flex-start;
+  text-align: justify;
 }
 
 div.project-section-talk-title {
@@ -393,4 +394,9 @@ div.media-body {
 
 h1 {
     color: #1900ca;
+}
+
+.navbar nav-item {
+    font-size: 20px;
+    font-weight: bold;
 }
