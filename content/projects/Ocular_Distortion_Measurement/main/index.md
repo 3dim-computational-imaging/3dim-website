@@ -1,5 +1,0 @@
----
-title: ''
-
----
-Text goes here
