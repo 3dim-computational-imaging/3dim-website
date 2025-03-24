@@ -3,7 +3,7 @@
 weight: 10
 
 # Title
-title: Free Space Optical Communication
+title: Adaptive Optics for Long-Range Light Transport
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: ''
