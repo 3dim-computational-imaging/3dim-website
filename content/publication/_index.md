@@ -9,4 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
-For the latest updates, please check [google scholar](https://scholar.google.com/citations?user=XdCdz4oAAAAJ).
+{{< center >}}For the latest updates, please check [google scholar](https://scholar.google.com/citations?user=XdCdz4oAAAAJ).{{< /center >}}
