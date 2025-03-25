@@ -42,7 +42,7 @@ landing_weight: 85
 weight_ThinFilmCharacterization: 100
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: 'https://arxiv.org/abs/2407.06535'
