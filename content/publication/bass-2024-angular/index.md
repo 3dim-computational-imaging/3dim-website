@@ -35,10 +35,11 @@ doi: "10.48550/arXiv.2407.06535"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['ThinFilmCharacterization']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_ThinFilmCharacterization: 100
 
 # Display this page in a list of Featured pages?
 featured: true

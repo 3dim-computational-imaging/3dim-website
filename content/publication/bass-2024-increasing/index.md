@@ -35,10 +35,11 @@ doi: "10.1364/FIO.2024.JTu4A.42"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['ThinFilmCharacterization']
 
 # Weights for project pages + the landing page
 landing_weight: 85
+weight_ThinFilmCharacterization: 40
 
 # Display this page in a list of Featured pages?
 featured: false

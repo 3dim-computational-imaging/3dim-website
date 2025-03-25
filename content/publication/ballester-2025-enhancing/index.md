@@ -41,10 +41,11 @@ preprint_date: '2024'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['ThinFilmCharacterization']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_ThinFilmCharacterization: 80
 
 # Display this page in a list of Featured pages?
 featured: false

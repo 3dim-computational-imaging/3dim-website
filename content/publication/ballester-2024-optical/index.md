@@ -32,10 +32,11 @@ doi: "10.1364/AOPT.2024.FD1.1"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['ThinFilmCharacterization']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_ThinFilmCharacterization: 70
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -37,10 +37,11 @@ doi: '10.1117/12.3042287'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['AdaptiveOptics']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_AdaptiveOptics: 100
 
 # Display this page in a list of Featured pages?
 featured: false

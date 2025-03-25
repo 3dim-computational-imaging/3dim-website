@@ -38,10 +38,11 @@ doi: "10.1016/j.jnoncrysol.2022.121803"
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ''
+tags: ['ThinFilmCharacterization']
 
 # Weights for project pages + the landing page
 landing_weight: 10
+weight_ThinFilmCharacterization: 50
 
 # Display this page in a list of Featured pages?
 featured: false
