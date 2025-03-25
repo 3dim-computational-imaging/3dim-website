@@ -3,6 +3,7 @@ weight: 10
 title: Flying Triangulation
 prefix: "Project"
 external_link: /project/flytri
+media_weight: 65
 
 date: 2013-03-01
 image:

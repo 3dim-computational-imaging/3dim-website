@@ -122,6 +122,7 @@ sections:
       offset: 0
       order: desc
       page_type: media
+      sort_by: media_weight
     design:
       view: community/compact_dateless
       columns: '2'

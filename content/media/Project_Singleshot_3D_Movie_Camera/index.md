@@ -3,6 +3,7 @@ weight: 10
 title: Single-Shot 3D Movie Camera
 prefix: "Project"
 external_link: /project/ss3dmovcam
+media_weight: 70
 
 date: 2017-10-01
 image:

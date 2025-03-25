@@ -3,6 +3,7 @@ weight: 10
 title: High-quality 3D imaging with Commodity Devices
 prefix: "Project"
 external_link: /project/mobilepmd
+media_weight: 85
 
 date: 2019-02-28
 image:

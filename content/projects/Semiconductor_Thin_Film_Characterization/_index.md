@@ -16,4 +16,3 @@ image:
   
 # Markdown code goes below the triple dash:
 ---
-Here's some description text. Let's see where it goes.

@@ -2,6 +2,7 @@
 title: Florian Willomitzer Receives NSF CRII Grant
 prefix: "University News"
 external_link: https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2022/florian-willomitzer-receives-nsf-crii-grant.html
+media_weight: 75
 
 date: 2020-12-01
 ---

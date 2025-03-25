@@ -3,6 +3,7 @@ weight: 10
 title: Fundamental Limits in Computational 3D Imaging
 prefix: "Project"
 external_link: /project/limits
+media_weight: 95
 
 date: 2022-04-26
 image:

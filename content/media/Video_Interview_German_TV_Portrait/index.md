@@ -3,6 +3,7 @@ weight: 10
 title: Portrait on German TV
 prefix: "Video Interview"
 external_link: https://www.br.de/br-fernsehen/sendungen/frankenschau/florian-willomitzer-wissenschaftler-fuerth-100.html
+media_weight: 90
 
 date: 2022-03-20
 image:
