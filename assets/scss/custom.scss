@@ -400,3 +400,7 @@ h1 {
     font-size: 20px;
     font-weight: bold;
 }
+
+td.article-table-data:first-child {
+    text-wrap: nowrap;
+}
