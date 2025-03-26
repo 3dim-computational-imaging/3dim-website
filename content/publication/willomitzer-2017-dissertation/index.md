@@ -38,7 +38,7 @@ weight_Medical3DApplications_MultiLineTriangulation: 20
 weight_CulturalHeritage_MultilineTriangulation: 100
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://link.springer.com/book/10.1007/978-3-030-10904-2'
