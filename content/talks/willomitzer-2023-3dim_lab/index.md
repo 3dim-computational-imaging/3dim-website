@@ -4,6 +4,10 @@ title: 'The Computational 3D Imaging and Measurement Lab - From Fast and Precise
 
 # Talk Weights (used for order on different pages)
 landing_weight: 9
+weight_EyeTracking_Main: 90
+
+# Talk Tags (used for categorization into projects)
+tags: ["EyeTracking_Main"]
 
 # Authors
 # Format: A YAML List of Author Names

@@ -45,7 +45,7 @@ weight_HPrecision3D_Handguided_Commodity: 100
 weight_CulturalHeritage_CommodityDevices: 100
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104'
