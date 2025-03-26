@@ -37,7 +37,7 @@ summary: ''
 tags: ['Precision_3D_SWH', 'FundamentalLimits', 'SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
-landing_weight: 55
+landing_weight: 150
 weight_Precision_3D_SWH: 90
 weight_FundamentalLimits: 80
 weight_SWH_ImagingThroughScattering: 70

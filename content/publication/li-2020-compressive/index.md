@@ -35,7 +35,7 @@ summary: ''
 tags: ''
 
 # Weights for project pages + the landing page
-landing_weight: 45
+landing_weight: 165
 
 # Display this page in a list of Featured pages?
 featured: true

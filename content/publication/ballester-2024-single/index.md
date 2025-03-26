@@ -35,7 +35,7 @@ summary: ''
 tags: ['Precision_3D_SWH', 'SWH_ImagingThroughScattering', 'SWH_LightInFlight']
 
 # Weights for project pages + the landing page
-landing_weight: 90
+landing_weight: 190
 weight_Precision_3D_SWH: 100
 weight_SWH_ImagingThroughScattering: 90
 weight_SWH_LightInFlight: 90

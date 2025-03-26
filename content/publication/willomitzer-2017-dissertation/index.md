@@ -31,7 +31,7 @@ summary: ''
 tags: ['HPrecision3D_Handguided_Triangulation','FundamentalLimits','Medical3DApplications_MultiLineTriangulation','CulturalHeritage_MultilineTriangulation']
 
 # Weights for project pages + the landing page
-landing_weight: 50
+landing_weight: 145
 weight_HPrecision3D_Handguided_Triangulation: 100
 weight_FundamentalLimits: 70
 weight_Medical3DApplications_MultiLineTriangulation: 20

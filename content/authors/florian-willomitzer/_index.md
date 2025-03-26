@@ -84,72 +84,56 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
      width: 120%;
      >
 
-     td, th {
+     td.article-table-data {
        border: 1px solid #dddddd;
        text-align: left;
        padding: 12px;
      }>
 
-     tr: nth-child(even) {
+     tr.article-table-row: nth-child(even) {
      background-color: #dddddd;
+     }
+     
+     td.article-table-data {
+        
      }
 </style>
 </head>
 <body>
 
 ### Education and work experience
-<table style="width:100%">
-  </tr>  
-  <td style="border: 0"><left> <a>
-  Aug'22 - present
- </a> </left> </td>
-     <td style="border: 0">  **Associate Professor of Optical Sciences**, Wyant College of Optical Sciences, University of Arizona, Tucson, USA
+<table class = "article-table-container" style="width:100%">
+  <tr class="article-table-row">  
+    <td class="article-table-data">Aug'22 - present</td>
+    <td class="article-table-data"><b>Associate Professor of Optical Sciences</b>, Wyant College of Optical Sciences, University of Arizona, Tucson, USA</td>
   </tr>
-
-  <td style="border: 0"><left> <a>
-  Sept'22 - present
- </a> </left> </td>
-     <td style="border: 0">  **Adjunct Associate Professor of Computer Science**, Department of Computer Science (CS), Northwestern University, Evanston, USA
+  <tr>  
+    <td class="article-table-data">Sept'22 - present</td>
+    <td class="article-table-data"><b>Adjunct Associate Professor of Computer Science</b>, Department of Computer Science (CS), Northwestern University, Evanston, USA</td>
   </tr>
-
-  <td style="border: 0"><left> <a>
-  Sept'22 - present
- </a> </left> </td>
-     <td style="border: 0">  **Adjunct Associate Professor of Electrical and Computer Engineering**, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA
+  <tr>  
+    <td class="article-table-data">Sept'22 - present</td>
+    <td class="article-table-data"><b>Adjunct Associate Professor of Electrical and Computer Engineering</b>, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA</td>
   </tr>
-  
-  <td style="border: 0"><left> <a>
-  Nov'19 - Aug'22
- </a> </left> </td>
-     <td style="border: 0">  **Research Assistant Professor of Electrical and Computer Engineering**, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA
+  <tr>  
+    <td class="article-table-data">Nov'19 - Aug'22</td>
+    <td class="article-table-data"><b>Research Assistant Professor of Electrical and Computer Engineering</b>, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA</td>
   </tr>
-
-
-  
-  <td style="border: 0"><left> <a>
-  Aug'17 - Nov'19
- </a> </left> </td>
-     <td style="border: 0">  **Postdoctoral Fellow**, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA
+  <tr>  
+    <td class="article-table-data">Aug'17 - Nov'19</td>
+    <td class="article-table-data"><b>Postdoctoral Fellow</b>, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA</td>
   </tr>
-  
-  
-  <td style="border: 0"><left> <a>
-  Jan'11 - Aug'17
- </a> </left> </td>
-     <td style="border: 0">  **PhD (Dr. rer. nat.)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
-  Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.
+  <tr>  
+    <td class="article-table-data">Jan'11 - Aug'17</td>
+    <td class="article-table-data"><b>PhD (Dr. rer. nat.)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany.<br>Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.</td>
   </tr>
-  
-  <td style="border: 0"><left> <a>
-  Dec'10 - July'14
- </a> </left> </td>
-     <td style="border: 0">  **Part-time teacher**, Physics for high school classes (‘Gymnasium’ grade 9 12), Rudolf Steiner-School, Nuremberg, Germany
+  <tr>  
+    <td class="article-table-data">Dec'10 - July'14</td>
+    <td class="article-table-data"><b>Part-time teacher</b>, Physics for high school classes (‘Gymnasium’ grade 9 12), Rudolf Steiner-School, Nuremberg, Germany</td>
   </tr>
-  
-  <td style="border: 0"><left> <a>
-  Oct'05 - Sept'10
- </a> </left> </td>
-     <td style="border: 0">  **MS (Diplom)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany
+  <tr>  
+    <td class="article-table-data">Oct'05 - Sept'10</td>
+    <td class="article-table-data"><b>MS (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany</td>
   </tr>
  
 </table>

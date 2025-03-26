@@ -32,7 +32,7 @@ summary: ''
 tags: ['FundamentalLimits']
 
 # Weights for project pages + the landing page
-landing_weight: 85
+landing_weight: 185
 weight_FundamentalLimits: 100
 
 # Display this page in a list of Featured pages?

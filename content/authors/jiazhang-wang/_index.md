@@ -74,6 +74,4 @@ highlight_name: false
 user_groups:
   - Postdoctoral Researchers
 ---
-Jiazhang Wang is a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at Northwestern University. Before joining Northwestern, he earned his master’s degree in Electrical Engineering from Columbia University and bachelor’s degree in Electrical Engineering from Huazhong University of Science and Technology (HUST). His research interests include computational photography, 3D optical metrology and computer vision. He is currently working on developing a novel eye-tracking prototype using optical metrology.
-
-
+Jiazhang Wang is a Postdoctoral Researcher at the Wyant College of Optical Sciences, University of Arizona. He received his Ph.D. in Electrical Engineering from Northwestern University, where he conducted research under the supervision of Professors Florian Willomitzer and Oliver Cossairt. He earned his M.S. degree from Columbia University in 2019 and his B.S. degree from Huazhong University of Science and Technology in 2017. His research focuses on the intersection of optical metrology, machine vision, and computational photography. His work is dedicated to advancing the next generation of 3D imaging sensors through the integration of high-precision optical measurement techniques with modern computer vision methodologies.
