@@ -43,7 +43,7 @@ weight_Precision_3D_SWH: 80
 weight_SWH_LightInFlight: 100
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://arxiv.org/abs/2407.07872'

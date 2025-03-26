@@ -39,7 +39,7 @@ landing_weight: 180
 weight_HPrecision3D_Polarization_Deflectometry: 100
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://arxiv.org/abs/2406.01994'
