@@ -97,45 +97,63 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 </head>
 <body>
 
-<h2>Education and work experience</h2>
+### Education and work experience
+<table style="width:100%">
+  </tr>  
+  <td style="border: 0"><left> <a>
+  Aug'22 - present
+ </a> </left> </td>
+     <td style="border: 0">  **Associate Professor of Optical Sciences**, Wyant College of Optical Sciences, University of Arizona, Tucson, USA
+  </tr>
 
-<table>
+  <td style="border: 0"><left> <a>
+  Sept'22 - present
+ </a> </left> </td>
+     <td style="border: 0">  **Adjunct Associate Professor of Computer Science**, Department of Computer Science (CS), Northwestern University, Evanston, USA
+  </tr>
 
-  <tr>
-    <td>Aug'22-present</td>
-    <td><b>Associate Professor</b>, Wyant College of Optical Sciences, University of Arizona, Tucson, USA</td>
+  <td style="border: 0"><left> <a>
+  Sept'22 - present
+ </a> </left> </td>
+     <td style="border: 0">  **Adjunct Associate Professor of Electrical and Computer Engineering**, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA
+  </tr>
   
+  <td style="border: 0"><left> <a>
+  Nov'19 - Aug'22
+ </a> </left> </td>
+     <td style="border: 0">  **Research Assistant Professor of Electrical and Computer Engineering**, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA
   </tr>
-  <tr>
-    <td>Nov'19 - Aug'22</td>
-    <td><b>Research Assistant Professor</b>, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA</td>
 
-  </tr>
-  <tr>
-    <td>Aug'17 - Nov'19</td>
-    <td><b>Postdoctoral Fellow</b>, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA</td>
 
+  
+  <td style="border: 0"><left> <a>
+  Aug'17 - Nov'19
+ </a> </left> </td>
+     <td style="border: 0">  **Postdoctoral Fellow**, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA
   </tr>
-  <tr>
-    <td>Jan'11 - Aug'17</td>
-    <td><b>Ph.D. (Dr. rer. nat.)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
-  Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.</td>
-
+  
+  
+  <td style="border: 0"><left> <a>
+  Jan'11 - Aug'17
+ </a> </left> </td>
+     <td style="border: 0">  **PhD (Dr. rer. nat.)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany. </br>
+  Graduation with 'summa cum laude'. Springer Thesis Award for Outstanding PhD Research.
   </tr>
-  <tr>
-    <td>Dec'10 - Jul'14</td>
-    <td><b>Part-time teacher</b>, Physics for high school classes (‘Gymnasium’ grade 9 12), Rudolf Steiner-School, Nuremberg, Germany</td>
-
+  
+  <td style="border: 0"><left> <a>
+  Dec'10 - July'14
+ </a> </left> </td>
+     <td style="border: 0">  **Part-time teacher**, Physics for high school classes (‘Gymnasium’ grade 9 12), Rudolf Steiner-School, Nuremberg, Germany
   </tr>
-  <tr>
-    <td>Oct'05 - Sep'10</td>
-    <td><b>M.S. (Diplom)</b>, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany</td>
-
+  
+  <td style="border: 0"><left> <a>
+  Oct'05 - Sept'10
+ </a> </left> </td>
+     <td style="border: 0">  **MS (Diplom)**, Institute of Optics, Information and Photonics, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany
   </tr>
+ 
 </table>
-
-</body>
-
+</br>
 
 ### Publications
 
@@ -155,8 +173,15 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 **Program Chair**, OSA Computational Optical Sensing and Imaging (COSI), 2020  
 
 
-**Program Committee**, OSA Frontiers in Optics (FiO), 2023   
-**Program Committee**, OSA Computational Optical Sensing and Imaging (COSI), 2023    
+**Program Committee**,	OSA Frontiers in Optics (FiO), 2025   
+**Program Committee**,	SPIE Industrial Optical Devices and Systems (ODS), 2025   
+**Program Committee**,	OSA Computational Optical Sensing and Imaging (COSI), 2025    
+**Intl. Organization Committee**,  Intl. Conf. on Machine Vision and Applications (ICMVA), 2025   
+**Program Committee**, OSA Frontiers in Optics (FiO), 2024    
+**Program Committee**, OSA Computational Optical Sensing and Imaging (COSI), 2024     
+**Steering Committee**, Conf. on Optics-Photonics Design and Fabrication (ODF), 2024     
+**Program Committee**, OSA Frontiers in Optics (FiO), 2023     
+**Program Committee**, OSA Computational Optical Sensing and Imaging (COSI), 2023     
 **Program Committee**, Conf. of German Society of Applied Optics (DGaO), 2023    
 **Program Committee**, OSA Frontiers in Optics (FiO), 2022      
 **Program Committee**, OSA Computational Optical Sensing and Imaging (COSI), 2019  
@@ -168,12 +193,13 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 
 
 **Reviewer**, Nature  
+**Reviewer**, Nature Photonics   
 **Reviewer**, Nature - Light: Science and Applications  
 **Reviewer**, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)  
-**Reviewer**, OSA Optics Letters  
+**Reviewer**, Optica Optics Letters   
+**Reviewer**, Optica Optics Express 
 **Reviewer**, IEEE International Conf. on Computational Photography (ICCP)  
-**Reviewer**, IEEE Transactions in Computational Imaging   
-**Reviewer**, OSA Optics Express   
+**Reviewer**, IEEE Transactions in Computational Imaging     
 **Reviewer**, Light: Advanced Manufacturing  
 **Reviewer**, SPIE Optical Engineering  
 
@@ -183,6 +209,9 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 
 ### Teaching
 
+- Spring Sem. 2025: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
+- Fall Sem. 2024: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
+- Spring Sem. 2024: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2023: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
 - Spring Sem. 2023: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Winter Qu. 2022: [COMP_SCI 331: Introduction to Computational Photography](https://nucs331.github.io/)  
@@ -196,12 +225,50 @@ Florian is a [recipient of the NSF CRII grant](https://www.mccormick.northwester
 </br>
 
 
+### Selected Contributed Talks and other Talks 
 
-### Invited Talks and Workshops
+- <span style="color:red"> **TEDx Nuremberg**</span>, 2022 | "A holographic camera that can see the unseen" | F. Willomitzer    
+[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/history-disrupt-and-change)    
+
+- **SIGGRAPH 2023 Courses**, Los Angeles, 2023 | “Computational Interferometric Imaging” | A. Kotwal, F. Willomitzer, I. Gkioulekas   
+  [\[Video (YouTube)\]](https://www.youtube.com/watch?v=8K0yN0Gbb1c) , [\[Course Website\]](https://imaging.cs.cmu.edu/interferometry_siggraph2023/)    
+
+</br>
+</br>
 
 
+### Invited Talks   
+
+
+
+
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
+
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)   
+
+- **National Institutes of Health (NIH)**, FARIA-NIH workshop on quantum and photonics research, Washington DC, 2024  |  “Dynamic Imaging through Scattering Media across Multiple Scales using Synthetic Waves” (Invited Talk)  |   [\[Event Website\]](https://www.faria.network/event-details/faria-nih-workshop-on-quantum-and-photonics-research)
+
+- **University of Maryland (UMD)**, Computer Vision Seminar Series, College Park, 2024 |  “Computational Imaging on Shiny and Specular Surfaces: From Tablet-Based 3D Measurements to Accurate and Fast Eye Tracking” (Invited Talk)  |  [\[Abstract\]](https://talks.cs.umd.edu/talks/4028)     
+
+- **SPIE Optics + Photonics**, Interferometry and Structured Light, San Diego, 2024 | “Coherent Computational Imaging with Synthetic Waves” (Invited Talk)   
+
+- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2024  | “Accurate single-shot eye tracking from deflectometric information” (Invited Talk)   
+
+- **Technical University Ilmenau**, Ilmenau, Germany, 2024   | “Ilmenau and Arizona: Not as Far Apart as You Think - The Computational 3D Imaging and Measurement Lab at the University of Arizona” (Invited Talk)    
+
+- **14th International Conference on Optics-Photonics Design and Fabrication (ODF)**, Tucson, 2024  | “Coherent Computational Imaging with Synthetic Light Fields” (Invited Talk)    
+
+- **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2024” | “About the Fun of Utilizing Nature’s Limits for Better Computational 3D Imaging” (Invited Talk)  
+
+- **American Physical Society (APS) March Meeting**, Minneapolis, 2024 | “Computational Imaging through Scatter using Synthetic Waves” (Invited Talk) | [\[Program\]](https://meetings.aps.org/Meeting/MAR24/Session/K30)   [\[Abstract\]](https://meetings.aps.org/Meeting/MAR24/Session/K30.5)
+
+- **OPTICA Frontiers in Optics (FiO) Health Symposium**, Tacoma, 2023 | "Single-shot synthetic wavelength holography: a flexible approach for high-resolution imaging through scattering media" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1i6v_6ECne85xFTakR-UOBmACmnNSdZF_/view?usp=sharing) [\[Program\]](https://www.frontiersinoptics.com/home/program/symposia-health/)    
+
+- **University of Arizona (UA), Industrial Affiliates Fall Meeting**, Tucson, 2023 | "The Computational 3D Imaging and Measurement Lab - From Fast and Precise 3D Sensors to Looking Around Corners" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1KZqZay9qNLuXDld0RjFCk_4--a-GjdF1/view?usp=sharing)  
+
+  
 - **OPTICA Imaging Congress**, 3D Image Acquisition and Display: Technology, Perception and Applications, Boston, 2023 | "Utilizing deflectometric information 
-for single-shot eye-tracking with high accuracy" (Invited Talk)     
+for single-shot eye-tracking with high accuracy" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1bp5wqilaquyfKsCQCFcYbjFcxk3K-fzq/view?usp=sharing)
 
 - **SPIE DCS, Computational Imaging VII**, USA, 2023 | "Fast and high-resolution imaging through scattering scenes using single-shot synthetic wavelength holography" (Invited Talk) | [\[Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12523/PC125230/Fast-and-high-resolution-imaging-through-scattering-scenes-using-single/10.1117/12.2667059.full)  [\[Abstract\]](https://spie.org/defense-commercial-sensing/presentation/To-be-determined/12523-9?SSO=1) [\[Program\]](https://spie.org/dcs23/conferencedetails/computational-imaging)   
 
@@ -219,8 +286,6 @@ for single-shot eye-tracking with high accuracy" (Invited Talk)
 - **University of Arizona (UA)**, USA, Optical Sciences Colloquium, 2022 | "Computational 3D Imaging and the Fun of utilizing Nature’s Limits" (Invited Talk) | 
 [\[Announcement and Abstract\]](https://www.optics.arizona.edu/events/osc-colloquium-florian-willomitzer)
 
-- <span style="color:red"> **TEDx Nuremberg**</span>, 2022 | "A holographic camera that can see the unseen" | 
-[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/history-disrupt-and-change)
 
 - **Northwestern University (NU)**, USA, Center For Robotics and Biosystems Seminar, 2022 |"Utilizing Nature’s Limits for better Computational 3D Imaging" (Invited Talk) | 
 [\[Video (YouTube)\]](https://www.youtube.com/watch?v=3KkytY0H-0o) , [\[Announcement and Abstract\]](https://planitpurple.northwestern.edu/event/586977)
@@ -246,5 +311,4 @@ for single-shot eye-tracking with high accuracy" (Invited Talk)
 
 - **IEEE International Conference on Computational Photography (ICCP)**, Northwestern University, USA, 2016  | "The 3D Motion Picture Camera - About Single-Shot, High Resolution 3D Imaging" (Invited Talk)  | [\[Conf. Proceedings\]](https://ieeexplore.ieee.org/xpl/conhome/7486620/proceeding)   
 
-- **Infoteam** Forum für innovative Anwendungsszenarien, Dortmund, Germany, 2016  |  "3D-Messtechnik 4.0 – Innovatives Highspeed-Messprinzip für 3D-Objekte" (Invited Talk)   
-
+- **Infoteam** Forum für innovative Anwendungsszenarien, Dortmund, Germany, 2016  |  "3D-Messtechnik 4.0 – Innovatives Highspeed-Messprinzip für 3D-Objekte" (Invited Talk) 
