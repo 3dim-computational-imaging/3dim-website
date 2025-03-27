@@ -5,7 +5,7 @@ sort_by: section_weight
 
 # Title
 #title: High-Precision 3D Industrial Inspection
-title: Computational 3D Imaging and Metrology for Industrial Inspection and Mixed Reflectance Scenes
+title: Computational 3D Metrology for Industrial Inspection and Mixed Reflectance Scenes
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 #summary: Summary goes here (XXX associated publications)
