@@ -4,7 +4,7 @@ weight: 80
 sort_by: section_weight
 
 # Title
-title: Computational Imaging for Art and Cultural Heritage Preservation and Analysis  
+title: Computational Imaging for Art and Cultural Heritage
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: Summary goes here (XXX associated publications)
