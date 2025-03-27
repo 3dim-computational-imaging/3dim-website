@@ -4,7 +4,7 @@ weight: 60
 sort_by: section_weight
 
 # Title
-title: Computational Imaging through Scatter using Synthetic Waves
+title: Synthetic Wavelength Imaging
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: ''
