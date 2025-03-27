@@ -180,11 +180,11 @@ OSA Senior Member, and his Ph.D. thesis was awarded with the
 **Reviewer**, Nature - Light: Science and Applications  
 **Reviewer**, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)  
 **Reviewer**, Optica Optics Letters   
-**Reviewer**, Optica Optics Express 
+**Reviewer**, Optica Optics Express  
 **Reviewer**, IEEE International Conf. on Computational Photography (ICCP)  
 **Reviewer**, IEEE Transactions in Computational Imaging     
-**Reviewer**, Light: Advanced Manufacturing  
-**Reviewer**, SPIE Optical Engineering  
+**Reviewer**, Light: Advanced Manufacturing   
+**Reviewer**, SPIE Optical Engineering   
 
 
 </br>
