@@ -9,7 +9,7 @@ sections:
     id: landing-header
     content:
       title: |
-        Welcome to the <be> Computational 3D Imaging and Measurement (3DIM) Lab!
+        Welcome to the <br> Computational 3D Imaging and Measurement (3DIM) Lab!
       subtitle: |
         <h3>At the <a href="https://www.optics.arizona.edu" class="optics-label-hero">Wyant College of Optical Sciences</a> - University of Arizona</h3>
       text: |
