@@ -59,10 +59,7 @@ Florian Willomitzer is an Associate Professor at the Wyant College of Optical Sc
 
 Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Through 100 Scattering Lengths](https://www.optica.org/en-us/events/incubator_meetings/2023/optica_incubator_on_imaging_through_100_scattering/), Chair and Committee Member of several [Optica COSI conferences](https://www.optica.org/en-us/meetings/osa_meetings/imaging_and_applied_optics_congress/program/computational_optical_sensing_and_imaging/), Optics Chair of the [2022 IEEE ICCP conference](https://iccp2022.iccp-conference.org/), Committee member of [Optica FiO](https://www.frontiersinoptics.com/), [DGaO](https://dgao.de/jahrestagung/), [ICMVA](https://icmva.org/), and [ODF](http://www.odf.jp/) conferences, and as a reviewer for the Nature portfolio (Nature, Nature Photonics, Nature LSA), Optica (formerly OSA), SPIE, IEEE, and CVPR.  
 
-He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2022/florian-willomitzer-receives-nsf-crii-grant.html),  
-winner of the [Optica 20th Anniversary Challenge](https://www.optica.org/en-us/foundation/opportunities/competitions_prizes/20th_anniversary_challenge/),  
-OSA Senior Member, and his Ph.D. thesis was awarded with the  
-[Springer Theses Award for Outstanding Ph.D. Research](https://link.springer.com/book/10.1007/978-3-030-10904-2).
+He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2022/florian-willomitzer-receives-nsf-crii-grant.html), winner of the [Optica 20th Anniversary Challenge](https://www.optica.org/en-us/foundation/opportunities/competitions_prizes/20th_anniversary_challenge/), OSA Senior Member, and his Ph.D. thesis was awarded with the [Springer Theses Award for Outstanding Ph.D. Research](https://link.springer.com/book/10.1007/978-3-030-10904-2).
 
 
 {{< jump-section >}}
