@@ -13,9 +13,9 @@ sections:
       subtitle: |
         <h3>At the <a href="https://www.optics.arizona.edu" class="optics-label-hero">Wyant College of Optical Sciences</a> - University of Arizona</h3>
       text: |
-        {{< figure src="welcomeGroupPhoto4.jpg" library="true" class="project-section-wrap-image" width="600px" max_width="80%">}}
+        {{< figure src="welcomeGroupPhoto4.jpg" library="true" class="project-section-wrap-image" width="700px" max_width="80%">}}
         We are working on a broad variety of problems in computational imaging, optical 3d metrology, and quantitative vision. Our research combines teachings from physical optics, image and signal processing,  computer vision, and information theory. Our goal is to invent, develop, and build the next generation of 2D/3D computational imaging and display devices that overcome traditional limitations (e.g., in resolution, dynamic range, speed) to “make the unseen visible”.  These instruments and the underlying principles will represent key technologies to foster transformational technical changes in the next decades.
-        
+
         Current applications of our developed techniques and systems can be found in medicine, VR/AR/MR, robotics, industrial inspection, remote sensing, automotive sensing, metrology, forensics, or cultural heritage preservation. Our present research includes novel methods for high-resolution holographic displays, [unconventional methods for precise VR eye tracking](/projects/eyetracking/), and the implementation of high-precision metrology methods in [low-cost mobile handheld devices](projects/artculturalheritage/). Moreover, we develop novel time-of-flight and structured light techniques for [industrial inspection](/projects/industrialinspection/) and [medical imaging](/projects/medical3dimaging/) working at depth resolutions in the 100μm-range.
         
   
