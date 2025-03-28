@@ -1,6 +1,7 @@
 ---
 title: Single-Shot Fringe Projection Triangulation on Shiny Technical Surfaces 
 section_weight: 100
+type: community/projectsection_individual
 
 media:
     tag: "HPrecision3D-Triangulation-Shiny"

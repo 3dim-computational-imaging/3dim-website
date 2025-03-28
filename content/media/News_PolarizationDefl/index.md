@@ -1,6 +1,6 @@
 ---
-title: Polarization Deflectometry Paper Publication
-prefix: "Paper"
+title: Polarimetric Deflectometry
+prefix: "Project"
 external_link: https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446&id=569660
 media_weight: 110
 
