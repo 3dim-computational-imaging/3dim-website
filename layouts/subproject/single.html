@@ -1,0 +1,92 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
+{{ $link := .RelPermalink }}
+{{ $target := "" }}
+{{ if .Params.external_link }}
+  {{ $link = .Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+<div class="project-section-container mb-3">
+
+    {{ if .Params.wrapperOverrideWidth }}
+    <div class="media stream-item view-compact" style = "width: {{ .Params.wrapperOverrideWidth }}%;">
+    {{ else }}
+    <div class="media stream-item view-compact" style = "width: 80%;">
+    {{ end }}
+      <div class="media-body">
+
+        <div class="project-section-title mb-0 mt-0">
+          {{ .Title }}
+        </div>
+        
+        <div class="project-section-contents">
+          {{ .Content }}
+        </div>
+
+        {{ if .Params.media }}
+            {{/* Get Publications and print them */}}
+        
+            {{/* Query */}}
+            {{ $query := site.RegularPages }}
+            {{ $query = where $query "Type" "publication" }}
+            {{ if .Params.media.tag }}
+                {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize .Params.media.tag)) }}
+                {{ $query = $query | intersect $tagged_pages.Pages }}
+            {{ end }}
+            
+            {{ $count := len $query }}
+            
+            {{/* Sort */}}
+            {{ $sort_by := .Params.media.sort_by | default "Date" }}
+            {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+            {{ $query = ($query.ByParam $sort_by).Reverse }}
+            
+            {{/* Actually create publication list */}}
+            {{ if $count }}
+                <div class="project-section-publication-title">
+                  Selected Publications
+                </div>
+            
+                <div class="project-section-publication-list">
+                    {{ range $index, $item := $query }}
+                        {{ partial "functions/render_view" (dict "item" . "view" "citation" "index" $index) }}
+                    {{end}}
+                </div>
+            {{ end }}
+            
+            {{/* Get Talks and print them */}}
+        
+            {{/* Query */}}
+            {{ $query := site.RegularPages }}
+            {{ $query = where $query "Type" "talks" }}
+            {{ if .Params.media.tag }}
+                {{ $tagged_pages := site.GetPage (printf "tags/%s" (urlize .Params.media.tag)) }}
+                {{ $query = $query | intersect $tagged_pages.Pages }}
+            {{ end }}
+            
+            {{ $count := len $query }}
+            
+            {{/* Sort */}}
+            {{ $sort_by := .Params.media.sort_by | default "Date" }}
+            {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+            {{ $query = ($query.ByParam $sort_by).Reverse  }}
+            
+            {{/* Actually create publication list */}}
+            {{ if $count }}
+                <div class="project-section-talk-title">
+                  Selected Talks
+                </div>
+            
+                <div class="project-section-talk-list">
+                    {{ range $index, $item := $query }}
+                        {{ partial "functions/render_view" (dict "item" . "view" "community/talk" "index" $index) }}
+                    {{end}}
+                </div>
+            {{ end }}
+        {{ end }}
+      </div>
+    </div>
+</div>
