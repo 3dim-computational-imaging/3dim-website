@@ -7,6 +7,10 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
 <div class="project-section-container mb-3">
 
     {{ if .Params.wrapperOverrideWidth }}
@@ -88,3 +92,5 @@
       </div>
     </div>
 </div>
+
+{{- end -}}

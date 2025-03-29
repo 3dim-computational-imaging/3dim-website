@@ -5,54 +5,55 @@
 {{ if not $.Params.wrapperOverrideWidth }}
 <div class="universal-wrapper">
 {{ end }}
-  {{ if $.Params.wrapperOverrideWidth }}
-        <div class="list-content-width-override-container mb-3">
-            {{ with .Content }}
-              <div class="article-style" style="width: {{ $.Params.wrapperOverrideWidth }}%">{{ . }}</div>
-            {{ end }}
-        </div>
-  {{ else }}
-      {{ with .Content }}
-        <div class="article-style">{{ . }}</div>
-      {{ end }}
-  {{ end }}
-  
-  {{ if $.Params.wrapperOverrideWidth }}
-        <div class="wrapper-override-list-container">
-  {{ end }}
 
-  {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "compact")) }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
+{{ if $.Params.wrapperOverrideWidth }}
+    <div class="list-content-width-override-container mb-3">
+        {{ with .Content }}
+          <div class="article-style" style="width: {{ $.Params.wrapperOverrideWidth }}%">{{ . }}</div>
+        {{ end }}
+    </div>
+{{ else }}
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
   {{ end }}
-  
-  {{ $sort_by := $.Params.sort_by | default "Date" }}
-  {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
-  {{ $sort_ascending := $.Params.sort_ascending | default (eq $.Params.order "asc") | default false }}
-  {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-  {{ $sortedPages := sort .Pages $sort_by $sort_order }}
+{{ end }}
 
-  {{ if $.Params.paginationoverride }}
-    {{ range $index, $post := $sortedPages }}
-        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-    {{end}}
-  {{ else }}
-    {{ $paginator := .Paginate $sortedPages }}
-    {{ range $index, $post := $paginator.Pages }}
-        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-    {{end}}
-  {{ end }}
+{{ if $.Params.wrapperOverrideWidth }}
+    <div class="wrapper-override-list-container">
+{{ end }}
 
-  {{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "compact")) }}
-    {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
-  {{ end }}
-  
-  {{ if not $.Params.paginationoverride }}
-    {{ partial "pagination" . }}
-  {{ end }}
-  
-  {{ if $.Params.wrapperOverrideWidth }}
-        </div>
-  {{ end }}
+{{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "compact")) }}
+{{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
+{{ end }}
+
+{{ $sort_by := $.Params.sort_by | default "Date" }}
+{{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+{{ $sort_ascending := $.Params.sort_ascending | default (eq $.Params.order "asc") | default false }}
+{{ $sort_order := cond $sort_ascending "asc" "desc" }}
+{{ $sortedPages := sort .Pages $sort_by $sort_order }}
+
+{{ if $.Params.paginationoverride }}
+{{ range $index, $post := $sortedPages }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+{{end}}
+{{ else }}
+{{ $paginator := .Paginate $sortedPages }}
+{{ range $index, $post := $paginator.Pages }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+{{end}}
+{{ end }}
+
+{{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "compact")) }}
+{{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
+{{ end }}
+
+{{ if not $.Params.paginationoverride }}
+{{ partial "pagination" . }}
+{{ end }}
+
+{{ if $.Params.wrapperOverrideWidth }}
+    </div>
+{{ end }}
   
 </div>
 
