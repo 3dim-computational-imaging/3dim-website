@@ -1,15 +1,4 @@
-{{/* Dynamic view adjusts to content type. */}}
-{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
-{{ $link := .RelPermalink }}
-{{ $target := "" }}
-{{ if .Params.external_link }}
-  {{ $link = .Params.external_link }}
-  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-{{ end }}
-
 {{- define "main" -}}
-
-{{ partial "page_header.html" . }}
 
 <div class="project-section-container mb-3">
 
