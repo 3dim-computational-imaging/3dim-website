@@ -11,7 +11,7 @@ sections:
       title: |
         Welcome to the <br> Computational 3D Imaging and Measurement (3DIM) Lab!
       subtitle: |
-        <h4>At the <a href="https://www.optics.arizona.edu" class="optics-label-hero">Wyant College of Optical Sciences</a> - University of Arizona</h4> <h3>Lab Director:  <a href="https://3dim.optics.arizona.edu/author/florian-willomitzer">Prof. Florian Willomitzer </a></h3>
+        <h4>At the <a href="https://www.optics.arizona.edu" class="optics-label-hero">Wyant College of Optical Sciences</a> - University of Arizona</h4>
       text: |
         {{< figure src="welcomeGroupPhoto4.jpg" library="true" class="project-section-wrap-image" width="700px" max_width="50%">}}
         We are working on a broad variety of problems in computational imaging, optical 3d metrology, and quantitative vision. Our research combines teachings from physical optics, image and signal processing,  computer vision, and information theory. Our goal is to invent, develop, and build the next generation of 2D/3D computational imaging and display devices that overcome traditional limitations (e.g., in resolution, dynamic range, speed) to “make the unseen visible”.  These instruments and the underlying principles will represent key technologies to foster transformational technical changes in the next decades.  
@@ -24,8 +24,9 @@ sections:
       image:
         filename: fwillomitzer_avatar.jpg
       text: |
-        **Florian Willomitzer** is an Associate Professor at the Wyant College of Optical Sciences and the director of the 3DIM lab.
-        
+        **Lab Director:**
+        Florian Willomitzer
+        Associate Professor of Optical Sciences
         [Read his bio here >>](/author/florian-willomitzer)
   
   - block: portfolio
