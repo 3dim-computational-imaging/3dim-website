@@ -24,7 +24,7 @@ sections:
       image:
         filename: fwillomitzer_avatar.jpg
       text: |
-        The Lab Director, **Florian Willomitzer** is an Associate Professor at the Wyant College of Optical Sciences.
+        **Florian Willomitzer** is an Associate Professor at the Wyant College of Optical Sciences and the director of the 3DIM lab.
         
         [Read his bio here >>](/author/florian-willomitzer)
   
