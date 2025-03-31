@@ -29,8 +29,8 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="project-section-container mb-3">
-
+<div class="project-section-container mb-3" id="subproject-{{ $item.RelPermalink | path.Base }}">
+    
     {{ if $page.Params.wrapperOverrideWidth }}
     <div class="media stream-item view-compact" style = "width: {{ $page.Params.wrapperOverrideWidth }}%;">
     {{ else }}

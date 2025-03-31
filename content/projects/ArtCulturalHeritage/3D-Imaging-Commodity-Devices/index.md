@@ -1,6 +1,7 @@
 ---
 title: High-quality 3D imaging with Commodity Devices
 section_weight: 100
+type: subproject
 
 media:
     tag: "CulturalHeritage_CommodityDevices"

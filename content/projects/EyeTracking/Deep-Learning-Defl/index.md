@@ -1,6 +1,7 @@
 ---
 title: Deep learning-based deflectometric eye tracking
 section_weight: 80
+type: subproject
 
 media:
     tag: "EyeTracking_DeepLearningDeflectometry"

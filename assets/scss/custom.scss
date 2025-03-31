@@ -411,7 +411,8 @@ td.article-table-data {
 
 div.hero-row {
     align-items: center;
-    justify-content: center;
+    justify-content: left;
+    margin-left: 0px;
 }
 
 .hero-media .avatar {
@@ -422,4 +423,5 @@ div.hero-row {
 
 .hero-lead{
     font-size: 1rem;
+    line-height: 0.5rem;
 }

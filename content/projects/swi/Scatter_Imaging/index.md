@@ -1,6 +1,7 @@
 ---
 title: 'SWI-based Imaging through scattering media (multi-shot and single-shot)'
 section_weight: 100
+type: subproject
 
 media:
     tag: "SWH_ImagingThroughScattering"

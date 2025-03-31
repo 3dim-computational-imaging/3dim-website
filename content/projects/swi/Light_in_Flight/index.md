@@ -1,6 +1,7 @@
 ---
 title: 'Synthetic Light-in-Flight (SLiF)'
 section_weight: 90
+type: subproject
 
 media:
     tag: "SWH_LightInFlight"

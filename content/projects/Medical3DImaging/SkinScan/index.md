@@ -1,6 +1,7 @@
 ---
 title: SkinScan
 section_weight: 100
+type: subproject
 
 media:
     tag: "Medical3DApplications_SkinScan"

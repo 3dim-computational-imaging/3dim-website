@@ -1,5 +1,6 @@
 ---
 title: ''
+type: subproject
 
 media:
     tag: "AdaptiveOptics"

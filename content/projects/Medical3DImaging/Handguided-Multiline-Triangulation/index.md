@@ -1,6 +1,7 @@
 ---
 title: Hand-Guided Single-Shot Multi-Line Triangulation 
 section_weight: 80
+type: subproject
 
 media:
     tag: "Medical3DApplications_MultiLineTriangulation"

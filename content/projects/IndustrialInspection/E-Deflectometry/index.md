@@ -1,6 +1,7 @@
 ---
 title: Event Deflectometry and Triangulation for Mixed Reflectance Scenes
 section_weight: 70
+type: subproject
 
 media:
     tag: "HPrecision3D-Event-Deflectometry"

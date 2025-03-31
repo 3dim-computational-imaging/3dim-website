@@ -1,6 +1,7 @@
 ---
 title: ''
 section_weight: 50
+type: subproject
 
 media:
     tag: "FundamentalLimits"
