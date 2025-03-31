@@ -20,6 +20,7 @@ sections:
     
   - block: hero
     id: landing-bio
+    content:
       image:
         filename: fwillomitzer_avatar.jpg
       text: |
