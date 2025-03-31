@@ -230,22 +230,13 @@ window.addEventListener('load', function () {
 
       // Check if all Isotope instances have loaded.
       incrementIsotopeCounter();
+      
+      // Reorder project pages after timeout
+      setTimeout(function() {
+          iso.arrange();
+      },2000);
     });
   });
-  
-  // Added function to refresh layout after 2 seconds (ugly, but stops an error!)
-  setTimeout(function(){
-      iso = new Isotope(isotopeInstance, {
-        itemSelector: '.isotope-item',
-        layoutMode: layout,
-        masonry: {
-          gutter: 20,
-        },
-        filter: filterText,
-      })
-      iso.layout();
-      console.debug(`Refreshed isotope to update heights!`);
-  },2000);
 
   // Hook to perform actions once all Isotope instances have loaded.
   function incrementIsotopeCounter() {
