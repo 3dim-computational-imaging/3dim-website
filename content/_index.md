@@ -24,7 +24,9 @@ sections:
       image:
         filename: fwillomitzer_avatar.jpg
       text: |
-        The Lab Director, **Florian Willomitzer** is an Associate Professor at the Wyant College of Optical Sciences. [Read his bio here >>](/author/florian-willomitzer)
+        The Lab Director, **Florian Willomitzer** is an Associate Professor at the Wyant College of Optical Sciences.
+        
+        [Read his bio here >>](/author/florian-willomitzer)
   
   - block: portfolio
     id: research
