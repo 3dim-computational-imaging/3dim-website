@@ -3,10 +3,6 @@ title: ''
 section_weight: 1000
 type: subproject
 
-media:
-    tag: "EyeTracking_Main"
-    sort_by: weight_EyeTracking_Main
-
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="600px" max_width="80%" >}}
 This research track seeks to solve the problem of “seeing the unseen”, specifically, imaging (moving) objects through (dynamic) scattering media like living tissue, smoke, fog, turbid air and water, or clouds. A robust, flexible, and accurate approach to seeing through scattering media is still one of the major unsolved problems in imaging. When traversing through scattering media, visible light completely loses its spatial structure, which makes imaging with conventional active and passive methods impossible. A potential solution is of high relevance in many fields of research and industry, such as medical imaging, robotics, automotive driving assistance, search and rescue, or security. 
