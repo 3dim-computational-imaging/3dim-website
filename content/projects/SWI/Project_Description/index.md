@@ -1,5 +1,5 @@
 ---
-title: 'MAIN'
+title: ''
 section_weight: 1000
 type: subproject
 
