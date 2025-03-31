@@ -230,6 +230,9 @@ window.addEventListener('load', function () {
 
       // Check if all Isotope instances have loaded.
       incrementIsotopeCounter();
+      
+      // Re-trigger arrange function to confirm layout is correct
+      iso.arrange();
     });
   });
 
