@@ -28,9 +28,9 @@ sections:
         
         Florian Willomitzer
         
-        Associate Professor of Optical Sciences
+        Associate Professor of Optical Sciences<br>
         
-        [Read his bio here >>](/author/florian-willomitzer)
+        [see bio and short CV here >>](/author/florian-willomitzer)
   
   - block: portfolio
     id: research
