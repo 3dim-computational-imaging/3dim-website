@@ -39,11 +39,11 @@
       <div class="media-body">
 
         <div class="project-section-title mb-0 mt-0">
-          {{ $item.Slug }}
+          {{ $item.Title }}
         </div>
         
         <div class="project-section-contents">
-          {{ $item.Content }}
+          {{ $item.RelPermalink | path.Base }}{{ $item.Content }}
         </div>
 
         {{ if $item.Params.media }}
