@@ -30,7 +30,7 @@
 {{ end }}
 
 <div class="project-section-container mb-3">
-
+    
     {{ if $page.Params.wrapperOverrideWidth }}
     <div class="media stream-item view-compact" style = "width: {{ $page.Params.wrapperOverrideWidth }}%;">
     {{ else }}
@@ -39,11 +39,11 @@
       <div class="media-body">
 
         <div class="project-section-title mb-0 mt-0">
-          {{ $item.Title }}
+          {{ $item.Title }} 
         </div>
         
         <div class="project-section-contents">
-          {{ $item.Content }}
+          {{ $link }}{{ $item.Content }}
         </div>
 
         {{ if $item.Params.media }}
