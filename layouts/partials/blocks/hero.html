@@ -14,7 +14,7 @@
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ if $isSVG -}}
-        <img class="avatar avatar-circle"src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">
+        <img class="avatar avatar-circle" src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">
       {{- else }}
         {{ $legacy_img := $image.Resize "400x" }}
         {{ $img_src := "" }}
@@ -30,7 +30,7 @@
         {{ end }}
         {{ $img_src_set = delimit $img_src_set "," }}
 
-        <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}">
+        <img class="avatar avatar-circle" src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}">
       {{ end }}
     {{ end }}
     </div>
