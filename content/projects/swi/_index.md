@@ -17,4 +17,3 @@ image:
   
 # Markdown code goes below the triple dash:
 ---
-\
