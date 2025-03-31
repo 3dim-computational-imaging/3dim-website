@@ -25,8 +25,11 @@ sections:
         filename: fwillomitzer_avatar.jpg
       text: |
         **Lab Director:**
+        
         Florian Willomitzer
+        
         Associate Professor of Optical Sciences
+        
         [Read his bio here >>](/author/florian-willomitzer)
   
   - block: portfolio
