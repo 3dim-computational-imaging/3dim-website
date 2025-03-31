@@ -234,7 +234,7 @@ window.addEventListener('load', function () {
       // Reorder project pages after timeout
       setTimeout(function() {
           iso.arrange();
-      },2000);
+      },500);
     });
   });
 
