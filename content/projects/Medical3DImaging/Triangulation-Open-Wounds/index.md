@@ -1,6 +1,7 @@
 ---
 title: "Single-Shot Fringe Projection Triangulation on Wet and Shiny tissue"
 section_weight: 90
+type: subproject
 
 media:
     tag: "Medical3DApplications_TriangulationShiny"

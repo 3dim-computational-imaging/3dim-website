@@ -1,6 +1,7 @@
 ---
 title: ''
 section_weight: 1000
+type: subproject
 
 media:
     tag: "EyeTracking_Main"

@@ -1,6 +1,7 @@
 ---
 title: 'SWI-based imaging through fibers'
 section_weight: 80
+type: subproject
 
 media:
     tag: "SWH_FiberImaging"

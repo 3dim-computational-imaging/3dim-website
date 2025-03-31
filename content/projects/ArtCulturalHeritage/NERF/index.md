@@ -1,6 +1,7 @@
 ---
 title: Archiving the visual contents of analog film holograms using light field rendering and neural radiance fields (NeRF) 
 section_weight: 90
+type: subproject
 
 media:
     tag: "CulturalHeritage_NERF"

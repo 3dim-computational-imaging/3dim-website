@@ -1,6 +1,7 @@
 ---
 title: Hand-Guided Single-Shot Multi-Line Triangulation
 section_weight: 50
+type: subproject
 
 media:
     tag: "HPrecision3D_Handguided_Commodity"

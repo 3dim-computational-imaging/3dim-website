@@ -1,6 +1,7 @@
 ---
 title: High-Precision Time-of-Flight Sensing with Synthetic Waves
 section_weight: 80
+type: subproject
 
 media:
     tag: "Precision_3D_SWH"

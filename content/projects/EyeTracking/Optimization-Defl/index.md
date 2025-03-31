@@ -1,6 +1,7 @@
 ---
 title: "Optimization-based inverse rendering using deflectometric information"
 section_weight: 90
+type: subproject
 
 media:
     tag: "EyeTracking_OptimizationDeflectometry"
