@@ -1,7 +1,7 @@
 ---
 title:  Polarimetric and Deflectometric 3D Measurements of Complex Specular Surfaces 
 prefix: "Project"
-external_link: projects/industrialinspection/p-deflectometry/
+external_link: /projects/industrialinspection/p-deflectometry/
 media_weight: 110
 
 date: 2025-03-01
