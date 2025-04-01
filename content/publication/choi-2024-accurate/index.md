@@ -44,8 +44,12 @@ weight_EyeTracking_DeepLearningDeflectometry: 80
 # Display this page in a list of Featured pages?
 featured: false
 
+# Preprint info
+url_preprint: 'https://preprints.opticaopen.org/articles/preprint/Accurate_Eye-Tracking_from_Deflectometric_Information_using_Deep_Learning/25199411?file=46491172'
+preprint_date: '2024'
+
 # Links
-url_pdf: 'https://preprints.opticaopen.org/articles/preprint/Accurate_Eye-Tracking_from_Deflectometric_Information_using_Deep_Learning/25199411?file=46491172'
+url_pdf: 'https://3dim.northwestern.edu/JChoi_ODF_2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
