@@ -1,9 +1,9 @@
 ---
-title: Polarimetric Deflectometry
+title:  Polarimetric and Deflectometric 3D Measurements of Complex Specular Surfaces 
 prefix: "Project"
-external_link: https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446&id=569660
+external_link: projects/industrialinspection/p-deflectometry/
 media_weight: 110
 
 date: 2020-12-01
 ---
-Our paper [3D imaging of complex specular surfaces by fusing polarimetric and deflectometric information](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446&id=569660) is published in Optica, and featured in [a news article by the Wyant College of Optical Sciences](https://optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision).
+Paper about [polarimetric and deflectometric 3D measurements of complex specular surfaces](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446&id=569660) is published in **OPTICA** and featured in [Wyant College News](https://optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision), [Phys.org](https://phys.org/news/2025-03-ambiguous-bridging-optical-3d-metrology.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/03/250327141553.htm), and [more...](projects/industrialinspection/p-deflectometry/)
