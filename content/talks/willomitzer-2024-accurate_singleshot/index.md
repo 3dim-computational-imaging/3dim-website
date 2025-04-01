@@ -19,7 +19,7 @@ location: ' Optical Engineering + Applications 2024, San Diego, California'
 
 # Date
 # Format: YYYY-MM-DD. A day must be included, but it won't be visible.
-date: 2024-10-01
+date: 2024-08-01
 
 # Link to Talk
 external_link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13142/PC1314209/Accurate-single-shot-eye-tracking-from-deflectometric-information/10.1117/12.3028693.full
