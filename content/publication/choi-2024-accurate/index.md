@@ -26,7 +26,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Optica Open*'
+publication: '*Proceedings of the 14th International Conference on Optics-Photonics Design and Fabrication*'
 publication_short: ''
 
 doi: '10.1364/opticaopen.25199411.v3'
