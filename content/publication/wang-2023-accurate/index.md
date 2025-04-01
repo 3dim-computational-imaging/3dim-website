@@ -43,7 +43,7 @@ weight_EyeTracking_StandardDeflectometry: 100
 featured: true
 
 # Preprint info
-url_preprint = 'https://doi.org/10.48550/arXiv.2308.07298'
+url_preprint: 'https://doi.org/10.48550/arXiv.2308.07298'
 preprint_date: '2023'
 
 # Links
