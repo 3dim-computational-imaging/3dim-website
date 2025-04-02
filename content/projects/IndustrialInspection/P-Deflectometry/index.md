@@ -13,13 +13,14 @@ Phase Measuring Deflectometry (PMD) is a well established method in optical metr
 
 {{< collapsible-section title="News and Press (Click to Expand)" >}}
 --------  
-Official Wyant College of Optical Sciences, University of Arizona research news release:   
-[**"Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision"**  (Mar. 27, 2025)](https://https://www.optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision)
+Official University of Arizona research news release:   
+[**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
 
 --------  
 Research news featured on external websites (selection):  
-[**Phys.org**: "Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision" (Mar. 27, 2025)](https://phys.org/news/2025-03-ambiguous-bridging-optical-3d-metrology.html)  
-[**ScienceDaily**: "Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision" (Mar. 27, 2025)](https://www.sciencedaily.com/releases/2025/03/250327141553.htm)
-[**Bioengineer**: "Clarifying Complex Reflections: Integrating Optical 3D Metrology with" (Mar. 27, 2025)](https://bioengineer.org/clarifying-complex-reflections-integrating-optical-3d-metrology-with-computer-vision/)
+[**Phys.org**: "'Superhuman vision': Powerful 3D imaging technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://phys.org/news/2025-03-superhuman-vision-powerful-3d-imaging.html)  
+[**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)  
+[**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm)
+[**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
 {{< /collapsible-section >}}  
