@@ -29,6 +29,13 @@ Research news featured on external websites (selection):
 
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
 
-[**Mindplex**: "New eye-tracking technology boosts accuracy"(Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)
+[**Mindplex**: "New eye-tracking technology boosts accuracy" (Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)
+
+[**eeNews Europe**: "3D imaging to significantly boost eye-tracking accuracy" (Apr. 1,2025)](https://www.eenewseurope.com/en/3d-imaging-to-significantly-boost-eye-tracking-accuracy/)
+
+[**News-Medical**: "Scientists achieve breakthrough in eye movement detection technology"(Apr.1, 2025)](https://www.news-medical.net/news/20250401/Scientists-achieve-breakthrough-in-eye-movement-detection-technology.aspx)
+
+[**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking(Apr.1, 2025"](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
+
 
 {{< /collapsible-section >}} 
