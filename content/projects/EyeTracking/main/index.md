@@ -28,7 +28,7 @@ Research news featured on external websites (selection):
 
 [**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)  
 
-[**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points"](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)
+[**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)
 
 
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
