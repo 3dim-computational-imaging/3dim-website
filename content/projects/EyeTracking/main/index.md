@@ -22,9 +22,13 @@ Official University of Arizona research news release:
 --------  
 Research news featured on external websites (selection):  
 [**Phys.org**: "'Superhuman vision': Powerful 3D imaging technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://phys.org/news/2025-03-superhuman-vision-powerful-3d-imaging.html)  
+
 [**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)  
+
 [**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm)
+
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
+
 [**MindplexXX**: "New eye-tracking technology boosts accuracy"(Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)
 
 {{< /collapsible-section >}} 
