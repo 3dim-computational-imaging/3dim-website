@@ -35,7 +35,8 @@ Research news featured on external websites (selection):
 
 [**News-Medical**: "Scientists achieve breakthrough in eye movement detection technology"(Apr.1, 2025)](https://www.news-medical.net/news/20250401/Scientists-achieve-breakthrough-in-eye-movement-detection-technology.aspx)
 
-[**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking(Apr.1, 2025"](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
+[**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking(Apr.1, 2025)"](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
 
+[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking(Apr.2, 2025)"](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
 {{< /collapsible-section >}} 
