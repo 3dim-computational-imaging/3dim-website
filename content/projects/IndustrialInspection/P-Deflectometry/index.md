@@ -20,7 +20,9 @@ Official Wyant College of Optical Sciences, University of Arizona research news 
 --------  
 Research news featured on external websites (selection):  
 [**Phys.org**: "Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision" (Mar. 27, 2025)](https://phys.org/news/2025-03-ambiguous-bridging-optical-3d-metrology.html)  
+
 [**ScienceDaily**: "Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision" (Mar. 27, 2025)](https://www.sciencedaily.com/releases/2025/03/250327141553.htm)
+
 [**Bioengineer**: "Clarifying Complex Reflections: Integrating Optical 3D Metrology with" (Mar. 27, 2025)](https://bioengineer.org/clarifying-complex-reflections-integrating-optical-3d-metrology-with-computer-vision/)
 
 {{< /collapsible-section >}}  
