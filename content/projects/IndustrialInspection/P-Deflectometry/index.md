@@ -14,7 +14,7 @@ Phase Measuring Deflectometry (PMD) is a well established method in optical metr
 {{< collapsible-section title="News and Press (Click to Expand)" >}}
 --------  
 Official Wyant College of Optical Sciences, University of Arizona research news release:   
-[**"Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision"**  (Mar. 27, 2025)](https://https://www.optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision)
+[**"Beyond Ambiguous Reflections: Bridging Optical 3D Metrology and Computer Vision"**  (Mar. 27, 2025)](https://www.optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision)
 
 
 --------  
@@ -25,4 +25,5 @@ Research news featured on external websites (selection):
 
 [**Bioengineer**: "Clarifying Complex Reflections: Integrating Optical 3D Metrology with" (Mar. 27, 2025)](https://bioengineer.org/clarifying-complex-reflections-integrating-optical-3d-metrology-with-computer-vision/)
 
+[**Eureka**: "New Advances in 3D Imaging for Specular Surfaces"(Mar. 31, 2025)](https://www.eurekamagazine.co.uk/content/news/new-advances-in-3d-imaging-for-specular-surfaces)
 {{< /collapsible-section >}}  
