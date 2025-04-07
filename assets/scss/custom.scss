@@ -343,7 +343,7 @@ div.media-body {
 
 /* Collapsible section CSS code source: https://www.w3schools.com/howto/howto_js_collapsible.asp */
 .collapsible-section-header {
-    background-color: #eee;
+    background-color: #ccc;
     color: #444;
     cursor: pointer;
     padding: 18px;
@@ -354,14 +354,14 @@ div.media-body {
 }
 
 .active, .collapsible-section-header:hover {
-    background-color: #ccc;
+    background-color: #aaa;
 }
 
 .collapsible-section-content {
     padding: 0 18px;
     display: none;
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: #eee; /*#f1f1f1;*/
 }
 
 .collapsible-section-header:after {
