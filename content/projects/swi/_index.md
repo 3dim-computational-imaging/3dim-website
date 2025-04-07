@@ -113,6 +113,11 @@ More...
 [\[ScienceSprings\]](https://sciencesprings.wordpress.com/tag/new-holographic-camera-sees-the-unseen-with-high-precision/) |
 [**\[MORE...\]**](https://nature.altmetric.com/details/117068255/news)  
 
+--------  
+International News Coverage (selection:
+
+[**Report on German TV (German)**](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) - Short report about our work on Synthetic Wavelength Holography and Portrait about Florian was aired on German (Bavarian) TV on 03/20/2022 \[German language only\]. [Click here](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) to watch video.
+
 [**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](https://www.nn.de/fuerth/further-wissenschaftler-entwickelt-kamera-die-um-die-ecke-blicken-kann-1.12080421)   
 
 [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
