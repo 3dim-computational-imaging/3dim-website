@@ -353,9 +353,15 @@ div.media-body {
     outline: none;
 }
 
-.active, .collapsible-section-header:hover {
+.active {
+    background-color: #ddb;
+}
+
+.collapsible-section-header:hover {
     background-color: #aac;
 }
+
+
 
 .collapsible-section-content {
     padding: 0 18px;
