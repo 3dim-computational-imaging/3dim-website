@@ -30,7 +30,6 @@ Research news featured on external websites (selection):
 
 [**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)
 
-
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
 
 [**Mindplex**: "New eye-tracking technology boosts accuracy" (Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)
@@ -41,6 +40,15 @@ Research news featured on external websites (selection):
 
 [**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking(Apr.1, 2025)"](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
 
+[**Tucson Standard**: "University of Arizona develops new 3D technique for more accurate eye tracking"(Apr.1 2025)](https://tucsonstandard.com/stories/670754672-university-of-arizona-develops-new-3d-technique-for-more-accurate-eye-tracking)
+
 [**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking(Apr.2, 2025)"](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
+[**MIXED Reality News**: "New eye tracking method could dramatically improve VR headset accuracy"(Apr.3, 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)
+
+[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking"(Apr.2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
+
+[**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology"(Apr.2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
+
+[**MIXED**: "New method could make eye tracking in VR glasses significantly more precise"(Apr.2 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)
 {{< /collapsible-section >}} 
