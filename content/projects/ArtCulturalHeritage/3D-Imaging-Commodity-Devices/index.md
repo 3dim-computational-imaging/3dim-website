@@ -11,7 +11,7 @@ media:
 {{< figure src="header_img.png" class="project-section-wrap-image" width="600px" max_width="80%">}}
 This research track introduces a series of systems that only require commodity devices such as screens, (web-) cameras, low-end tablets or mobile phones to capture high-quality 3D data: The developed “Mobile Multiview Deflectometry” system exploits screen and front camera of mobile devices for deflectometry-based measurements. It works without the need for a calibration and is optimized for specular surfaces such as stained glass artworks or artworks with metallic mirror-like surfaces. To compensate for the small screen, a multi-view registration technique is applied so that large surfaces can be densely reconstructed in their entirety. The “SkinScan” sensor principle uses the same hardware components but exploits photometric stereo-inspired algorithms for the measurement of matte object surfaces such as paintings or human skin. The project is a first step towards a universal self-calibrating measurement procedure usable by a broad audience with little to no technical imaging experience.  
 
-{{< collapsible-section title="News and Press (click to expand)" >}}
+{{< collapsible-section title="News and Press (click to expand)" id="news-commodity" >}}
 [Science Mag](https://www.sciencemag.org/news/2019/02/new-app-reveals-hidden-landscapes-within-georgia-o-keeffe-s-paintings) 
 [Daily Northwestern](https://dailynorthwestern.com/2019/02/28/campus/northwestern-collaborates-with-the-georgia-okeeffe-museum-to-develop-art-acne-tracking-technology/) 
 [Northwestern Now](https://news.northwestern.edu/stories/2019/02/georgia-okeeffe-paint-disease/) 
