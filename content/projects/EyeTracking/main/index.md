@@ -19,9 +19,9 @@ Official University of Arizona research news release:
 [**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
 --------  
-Research news featured on University of Arizona Websites:  
-[\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]]({{< asset-link src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}})  
-[\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]]({{< asset-link src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}})
+Research news featured on University of Arizona Websites: 
+{{< page-snapshot-hyperlink src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
+{{< page-snapshot-hyperlink src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
 
 -------- 
 Interview KVOI Radio: "The Morning Voice" 
