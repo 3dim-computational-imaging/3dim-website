@@ -1,0 +1,3 @@
+{{ $linkaddress := .Get "src" }}
+{{ $link := resources.Get $linkaddress }}
+{{ $link.RelPermalink }}

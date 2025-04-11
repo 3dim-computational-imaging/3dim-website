@@ -26,7 +26,7 @@ Research news featured on University of Arizona Websites:
 -------- 
 Interview KVOI Radio: "The Morning Voice" 
 
-{{< audio src="TheMorningVoice_KVOI-Radio_EyeTracking.mp3" >}}
+{{< audio relsrc="audio/TheMorningVoice_KVOI-Radio_EyeTracking.mp3" >}}
 
 --------  
 Research news featured on external websites (selection):  
