@@ -23,6 +23,10 @@ Research news featured on University of Arizona Websites:
 [\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]](InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html)  
 [\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]](UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html)
 
+-------- 
+Interview KVOI Radio: "The Morning Voice"
+{{< audio src="TheMorningVoice_KVOI-Radio_EyeTracking.mp3" >}}
+
 --------  
 Research news featured on external websites (selection):  
 [**Phys.org**: "'Superhuman vision': Powerful 3D imaging technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://phys.org/news/2025-03-superhuman-vision-powerful-3d-imaging.html)  
