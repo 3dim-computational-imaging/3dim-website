@@ -20,8 +20,8 @@ Official University of Arizona research news release:
 
 --------  
 Research news featured on University of Arizona Websites:  
-[\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]](InsideUA_University of Arizona Newsletter (4_8_2025 4-33-18 PM).html)  
-[\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]](UA_NOW__University of Arizona Newsletter (4_8_2025 4-32-56 PM).html)
+[\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]](InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html)  
+[\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]](UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html)
 
 --------  
 Research news featured on external websites (selection):  
