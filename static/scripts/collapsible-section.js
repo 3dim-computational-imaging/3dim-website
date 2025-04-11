@@ -27,7 +27,7 @@ if (window.location.hash) {
 }
 
 function openLinkedCollapsibleSection(pageId) {
-	pageElement = document.getElementById(pageId);
+	var pageElement = document.getElementById(pageId);
 	console.log(pageElement.classList);
 	if(pageElement.classList.contains("collapsible-section-header")) {
 		pageElement.classList.toggle("active");
