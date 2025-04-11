@@ -18,6 +18,10 @@ In this research track, we rethink how specular reflections can be used for eye 
 Official University of Arizona research news release:   
 [**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
+--------  
+Research news featured on University of Arizona Websites:  
+[\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]](InsideUA_University of Arizona Newsletter (4_8_2025 4-33-18 PM).html)  
+[\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]](UA_NOW__University of Arizona Newsletter (4_8_2025 4-32-56 PM).html)
 
 --------  
 Research news featured on external websites (selection):  
