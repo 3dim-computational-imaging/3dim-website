@@ -15,7 +15,7 @@ authors:
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
-date: '2023-01-01'
+date: '2025-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-05-03T19:51:44.514077Z'
@@ -23,12 +23,12 @@ publishDate: '2024-05-03T19:51:44.514077Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+publication: '*Nature Communications*'
 
-doi: "10.48550/arXiv.2308.07298"
+doi: "10.1038/s41467-025-56801-1"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,8 +42,12 @@ weight_EyeTracking_StandardDeflectometry: 100
 # Display this page in a list of Featured pages?
 featured: true
 
+# Preprint info
+url_preprint: 'https://doi.org/10.48550/arXiv.2308.07298'
+preprint_date: '2023'
+
 # Links
-url_pdf: 'https://arxiv.org/abs/2308.07298'
+url_pdf: 'https://www.nature.com/articles/s41467-025-56801-1'
 url_code: ''
 url_dataset: ''
 url_poster: ''

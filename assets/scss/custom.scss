@@ -343,8 +343,8 @@ div.media-body {
 
 /* Collapsible section CSS code source: https://www.w3schools.com/howto/howto_js_collapsible.asp */
 .collapsible-section-header {
-    background-color: #eee;
-    color: #444;
+    background-color: #cce;
+    color: black; /*#444;*/
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -353,15 +353,21 @@ div.media-body {
     outline: none;
 }
 
-.active, .collapsible-section-header:hover {
-    background-color: #ccc;
+.active {
+    background-color: #bbd;
 }
+
+.collapsible-section-header:hover {
+    background-color: #aac;
+}
+
+
 
 .collapsible-section-content {
     padding: 0 18px;
     display: none;
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: #eeeef1; /*#f1f1f1;*/
 }
 
 .collapsible-section-header:after {
@@ -424,4 +430,8 @@ div.hero-row {
 .hero-lead{
     font-size: 1rem;
     line-height: 0.5rem;
+}
+
+#landing-header .col-12 {
+    text-align: justify;
 }

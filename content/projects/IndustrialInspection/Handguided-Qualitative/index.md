@@ -1,5 +1,5 @@
 ---
-title: Hand-Guided Single-Shot Multi-Line Triangulation
+title: Hand-Guided 3D Imaging with Commodity Devices
 section_weight: 50
 type: subproject
 

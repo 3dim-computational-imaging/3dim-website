@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-08-16'
+date: '2024-08-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.923797Z'
@@ -26,10 +26,10 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Optica Open*'
+publication: '*Proceedings of the 14th International Conference on Optics-Photonics Design and Fabrication*'
 publication_short: ''
 
-doi: '10.1364/COSI.2023.CTh2B.5'
+doi: '10.1364/opticaopen.25199411.v3'
 
 abstract: 'We present two methods for fast and precise eye-tracking in VR headsets. Both methods exploit deflectometric information, i.e., the specular reflection of an extended screen over the eye surface.'
 
@@ -44,8 +44,12 @@ weight_EyeTracking_DeepLearningDeflectometry: 80
 # Display this page in a list of Featured pages?
 featured: false
 
+# Preprint info
+url_preprint: 'https://preprints.opticaopen.org/articles/preprint/Accurate_Eye-Tracking_from_Deflectometric_Information_using_Deep_Learning/25199411?file=46491172'
+preprint_date: '2024'
+
 # Links
-url_pdf: 'https://opg.optica.org/abstract.cfm?URI=COSI-2023-CTh2B.5'
+url_pdf: 'https://3dim.northwestern.edu/JChoi_ODF_2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
