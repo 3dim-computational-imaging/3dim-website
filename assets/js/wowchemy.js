@@ -135,6 +135,15 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
+/* Function to Loop Isotope reording in case page errors occur */
+
+function loopingIsotope(iso,timeout) {
+	setTimeout(function() {
+          loopingIsotope(iso,timeout);
+      },timeout);
+	iso.arrange();
+}
+
 /* ---------------------------------------------------------------------------
  * On window loaded.
  * --------------------------------------------------------------------------- */
@@ -232,9 +241,10 @@ window.addEventListener('load', function () {
       incrementIsotopeCounter();
       
       // Reorder project pages after timeout
-      setTimeout(function() {
+      /*setTimeout(function() {
           iso.arrange();
-      },500);
+      },500);*/
+	  loopingIsotope(iso,500);
     });
   });
 
