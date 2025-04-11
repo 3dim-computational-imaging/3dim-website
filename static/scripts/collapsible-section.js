@@ -28,12 +28,14 @@ if (window.location.hash) {
 
 function openLinkedCollapsibleSection(pageId) {
 	pageElement = document.getElementById(pageId);
-	if(pageElement.classList.contains("collapsible-section-shell")) {
-		for (var i = 0; i < pageElement.childNodes.length; i++) {
-			if (pageElement.childNodes[i].classList.contains("collapsible-section-header")) {
-				pageElement.childNodes[i].classList.add("active");
-				break;
-			}        
+	console.log(pageElement.classList);
+	if(pageElement.classList.contains("collapsible-section-header")) {
+		pageElement.classList.toggle("active");
+		var content = pageElement.nextElementSibling;
+		if (content.style.display === "block") {
+		  content.style.display = "none";
+		} else {
+		  content.style.display = "block";
 		}
 	}
 }
