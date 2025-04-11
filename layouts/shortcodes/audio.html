@@ -1,12 +1,8 @@
 <audio controls preload="auto">
 	{{ $src := .Get "src" }} 
 	{{ if .Get "relative" }}
-	{{ with resources.Get $src }}
-    <source src="{{ .RelPermalink }}">
-	RELATIVE
-	{{ end }}
+    <source src="{{ (resources.Get $src).RelPermalink }}">
 	{{ else }}
 	<source src="{{ $src }}">
-	NONRELATIVE
 	{{ end }}
 </audio>
