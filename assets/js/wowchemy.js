@@ -137,10 +137,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
 /* Function to Loop Isotope reording in case page errors occur */
 
-function loopingIsotope(iso,timeout) {
+function loopingIsotope(iso,timeout,maxCount) {
+	if(maxCount>0){
 	setTimeout(function() {
-          loopingIsotope(iso,timeout);
+          loopingIsotope(iso,timeout,maxCount-1);
       },timeout);
+	}
 	iso.arrange();
 }
 
@@ -244,7 +246,7 @@ window.addEventListener('load', function () {
       /*setTimeout(function() {
           iso.arrange();
       },500);*/
-	  loopingIsotope(iso,500);
+	  loopingIsotope(iso,500,5);
     });
   });
 
