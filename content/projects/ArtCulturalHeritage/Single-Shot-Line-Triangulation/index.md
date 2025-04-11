@@ -44,7 +44,7 @@ Visit the [Osmin3D](https://www.youtube.com/user/Osmin3D/videos) YouTube channel
 [OSA image of the week October 2017](https://www.osapublishing.org/)
 {{< /collapsible-section >}}
 
-{{< collapsible-section title="Flying Triangulation: Selected Videos (Click to Expand)" id="videos-flytri" >}}
+{{< collapsible-section title="Flying Triangulation: Selected Videos (Click to Expand)" id="videos-flytri" >}} 
 {{< youtube id="3Ht4QY5Xk8s" class="embed-video-default" >}}
 {{< center >}}Flying Triangulation Dental Scanner{{< /center >}}
 
