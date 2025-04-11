@@ -1,5 +1,5 @@
 <div class="collapsible-section-shell">
-    <button type="button" class="collapsible-section-header">{{ with .Get "title" }}{{ . }}{{ end }}</button>
+    <button type="button" class="collapsible-section-header" {{ with .Get "id" }}id="{{ . }}"{{ end }}>{{ with .Get "title" }}{{ . }}{{ end }}</button>
     <div class="collapsible-section-content">
         {{ .Inner| markdownify }}
     </div>

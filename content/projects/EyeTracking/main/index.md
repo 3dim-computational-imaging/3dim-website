@@ -13,15 +13,20 @@ Eye-tracking plays a crucial role in the development of virtual reality devices,
 
 In this research track, we rethink how specular reflections can be used for eye tracking: We have developed a set of novel methods for accurate and fast evaluation of the gaze direction that utilize dense deflectometric information. Deflectometry is a well-known technique in optical 3D metrology for the measurement of specular surfaces. For the first time ever, our group has developed a family of “computational deflectometry” methods for eye tracking.  The reflection of a patterned screen is observed over the specular eye surface, with the information about the gaze being encoded in the deformation of the pattern in the camera image. With “standard” screens and cameras (~1Mpix resolution), improvements in the number of acquired reflection surface points (“glints”) of factors >3000X and higher (compared to the current state-of-the-art in glint tracking) are easily achievable. The additional information allows for eye tracking at high accuracy. So far, we have explored 3 different approaches to decode the information about the gaze direction, that is encoded in the deflectometric images: 
 
-{{< collapsible-section title="News and Press (Click to Expand)" >}}
+{{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
 --------  
 Official University of Arizona research news release:   
 [**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
 --------  
-Research news featured on University of Arizona Websites:  
-[\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]](InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html)  
-[\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]](UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html)
+Research news featured on University of Arizona Websites: 
+{{< page-snapshot-hyperlink src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
+{{< page-snapshot-hyperlink src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
+
+-------- 
+Interview KVOI Radio: "The Morning Voice" 
+
+{{< audio src="audio/TheMorningVoice_KVOI-Radio_EyeTracking.mp3" relative="True" >}}
 
 --------  
 Research news featured on external websites (selection):  

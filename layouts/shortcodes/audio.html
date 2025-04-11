@@ -1,0 +1,9 @@
+{{ if .Get "relative" }}
+<audio controls preload="auto">
+	<source src='{{ (resources.Get (.Get "src")).RelPermalink }}' >
+</audio>
+{{ else }}
+<audio controls preload="auto">
+	<source src='{{ .Get "src" }}' >
+</audio>
+{{ end }}

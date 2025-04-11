@@ -1,0 +1,3 @@
+{{ $linkaddress := .Get "src" }}
+{{ $link := resources.Get $linkaddress }}
+<a href="{{ $link.RelPermalink }}">{{ .Inner| markdownify }}</a>

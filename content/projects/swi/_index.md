@@ -24,8 +24,9 @@ Here, we tackle the problem of seeing through scatter with our Synthetic Wavelen
 
 Besides the various SWI-based approached to image through scattering environments discussed below, our group has harnessed SWI as “high precision Time-of-Flight imaging” method to recover 3D profiles of optically rough surfaces in industrial inspection and computer vision applications (please see ”High-Precision Time-of-Flight Sensing with Synthetic Waves” below for more information). 
 
-{{< collapsible-section title="News and Press (Click to Expand)" >}}
-Synthetic Wavelength Holography was [Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.](NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html)
+{{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
+Synthetic Wavelength Holography was {{< page-snapshot-hyperlink src="web-snapshots/NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html" >}}
+Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.{{< /page-snapshot-hyperlink >}}
 
 ----------
 Official Northwestern research news release:   
@@ -34,9 +35,9 @@ Official Northwestern research news release:
 
 --------  
 Research news featured on Northwestern websites:  
-[\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]](NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM.html)  
-[\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]](ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM.html)   
-[\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]](ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM.html)  
+{{< page-snapshot-hyperlink src="web-snapshots/NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM.html" >}}\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
+{{< page-snapshot-hyperlink src="web-snapshots/ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM.html" >}}\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
+{{< page-snapshot-hyperlink src="web-snapshots/ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM.html" >}}\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
 
 --------  
 Research news featured on external websites (selection):  
@@ -118,7 +119,7 @@ International News Coverage (selection:
 
 [**Report on German TV (German)**](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) - Short report about our work on Synthetic Wavelength Holography and Portrait about Florian was aired on German (Bavarian) TV on 03/20/2022 \[German language only\]. [Click here](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) to watch video.
 
-[**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](NN_News_20220510.pdf)   
+{{< page-snapshot-hyperlink src="pdfs/NN_News_20220510.pdf" >}}**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022){{< /page-snapshot-hyperlink >}}
 
 [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
 
