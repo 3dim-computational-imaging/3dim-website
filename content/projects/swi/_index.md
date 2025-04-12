@@ -124,6 +124,8 @@ International News Coverage (selection:
 
 [**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](projects/swi/NN_News_20220510.pdf)  
 
+[**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](projects/swi/NN_News_20220510.pdf)  
+
 [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
 
 [**c't (German)**: "Holo-Kamera sieht um die Ecke " (Dez. 12, 2021)](https://www.heise.de/select/ct/2021/26/2132108234112845409) 
