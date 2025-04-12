@@ -122,7 +122,7 @@ International News Coverage (selection:
 
 {{< page-snapshot-hyperlink src="pdfs/NN_News_20220510.pdf" >}}**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022){{< /page-snapshot-hyperlink >}}  
 
-[**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](/NN_News_20220510.pdf)  
+[**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022)](projects/swi/NN_News_20220510.pdf)  
 
 [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
 
