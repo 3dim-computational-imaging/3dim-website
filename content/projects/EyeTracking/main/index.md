@@ -20,8 +20,8 @@ Official University of Arizona research news release:
 
 --------  
 Research news featured on University of Arizona Websites: 
-{{< page-snapshot-hyperlink src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
-{{< page-snapshot-hyperlink src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /page-snapshot-hyperlink >}}
+{{< a-rel src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
+{{< a-rel src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
 
 -------- 
 Interview KVOI Radio: "The Morning Voice" 

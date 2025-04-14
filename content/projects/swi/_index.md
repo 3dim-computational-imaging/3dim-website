@@ -34,11 +34,14 @@ Official Northwestern research news release:
 
 --------  
 Research news featured on Northwestern websites:  
-{{< page-snapshot-hyperlink src="web-snapshots/NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM.html" >}}\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
+{{< a-rel src="web-snapshots/NorthwesternsMcCormickSchoolofEngineering_11_18_2021__1_38_30_AM.html" >}}
+\[**Northwestern McCormick School of Engineering** (retrieved Nov. 18, 2021)\]{{< /a-rel >}}
 
-{{< page-snapshot-hyperlink src="web-snapshots/ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM.html" >}}\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
+{{< a-rel src="web-snapshots/ElectricalAndComputerEngineering_NorthwesternEngineering_11_18_2021__1_41_08_AM.html" >}}
+\[**Northwestern Electrical and Computer Engineering** (retrieved Nov. 18, 2021)\]{{< /a-rel >}}
 
-{{< page-snapshot-hyperlink src="web-snapshots/ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM.html" >}}\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]{{< /page-snapshot-hyperlink >}}
+{{< a-rel src="web-snapshots/ComputerScience_NorthwesternEngineering_11_18_2021__1_40_13_AM.html" >}}
+\[**Northwestern Computer Science** (retrieved Nov. 18, 2021)\]{{< /a-rel >}}
 
 --------  
 Research news featured on external websites (selection):  
@@ -121,7 +124,8 @@ International News Coverage (selection:
 [**Report on German TV (German)**](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) - Short report about our work on Synthetic Wavelength Holography and Portrait about Florian was aired on German (Bavarian) TV on 03/20/2022 \[German language only\]. [Click here](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) to watch video.   
 
 
-{{< page-snapshot-hyperlink src="pdfs/NN_News_20220510.pdf" >}}**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022){{< /page-snapshot-hyperlink >}}   
+{{< a-rel src="pdfs/NN_News_20220510.pdf" >}}
+**Nürnberger Nachrichten (German)**: "Fürther Wissenschaftler entwickelt Kamera die um die Ecke blicken kann" (May 10, 2022){{< /a-rel >}}   
 
 [**Pressetext (German)**: "Neuartige Kamera zeigt versteckte Objekte" (Nov. 18, 2021)](https://www.pressetext.com/news/neuartige-kamera-zeigt-versteckte-objekte.html)   
 
