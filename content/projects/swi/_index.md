@@ -25,7 +25,8 @@ Here, we tackle the problem of seeing through scatter with our Synthetic Wavelen
 Besides the various SWI-based approached to image through scattering environments discussed below, our group has harnessed SWI as “high precision Time-of-Flight imaging” method to recover 3D profiles of optically rough surfaces in industrial inspection and computer vision applications (please see ”High-Precision Time-of-Flight Sensing with Synthetic Waves” below for more information). 
 
 {{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
-Synthetic Wavelength Holography was {{< page-snapshot-hyperlink src="web-snapshots/NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html" >}} Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.{{< /page-snapshot-hyperlink >}}
+Synthetic Wavelength Holography was {{< a-rel src="web-snapshots/NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html" >}}
+Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.{{< /a-rel >}}
 
 ----------
 Official Northwestern research news release:   
