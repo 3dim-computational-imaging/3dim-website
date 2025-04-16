@@ -210,7 +210,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 ### Invited Talks   
 
 
-
+- **SPIE DCS**; 3D Imaging, Visualization, and Display; Orlando, USA, 2025 | "Single-shot imaging through scatter or turbulence using synthetic waves" (Invited Talk)  |  [\[Abstract\]](https://spie.org/defense-commercial-sensing/presentation/Single-shot-imaging-through-scatter-or-turbulence-using-synthetic-waves/13465-25)   
 
 - **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
 
