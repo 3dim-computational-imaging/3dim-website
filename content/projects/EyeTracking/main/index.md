@@ -15,9 +15,9 @@ In this research track, we rethink how specular reflections can be used for eye 
 
 {{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
 --------  
-Research news featured on University of Arizona Websites: 
+Research news featured on Official University of Arizona Websites: 
 
-{[**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)}
+[**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 {{< a-rel src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
 {{< a-rel src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
 
@@ -51,11 +51,16 @@ Research news featured on external websites (selection):
 
 [**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking(Apr.2, 2025)"](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
-[**MIXED Reality News**: "New eye tracking method could dramatically improve VR headset accuracy"(Apr.3, 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)
 
 [**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking"(Apr.2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
 [**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology"(Apr.2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
 
-[**MIXED**: "New method could make eye tracking in VR glasses significantly more precise"(Apr.2 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)
+[**KJZZ**: "University of Arizona researchers develop technique to improve eye-tracking technology"(Apr.14 2025)](https://www.kjzz.org/education/2025-04-14/university-of-arizona-researchers-develop-technique-to-improve-eye-tracking-technology)
+
 {{< /collapsible-section >}} 
+
+--------  
+International News Coverage:
+[**MIXED(German)**: "New method could make eye tracking in VR glasses significantly more precise"(Apr.2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)
+
