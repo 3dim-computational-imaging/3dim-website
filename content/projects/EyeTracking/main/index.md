@@ -18,6 +18,7 @@ In this research track, we rethink how specular reflections can be used for eye 
 Research news featured on Official University of Arizona Websites: 
 
 [**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
+
 {{< a-rel src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
 {{< a-rel src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}
 
@@ -32,12 +33,11 @@ Research news featured on external websites (selection):
 
 [**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm)
 
-
 [**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)  
 
 [**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)
 
-[**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
+[**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking Innovations" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
 
 [**Mindplex**: "New eye-tracking technology boosts accuracy" (Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)
 
@@ -52,8 +52,6 @@ Research news featured on external websites (selection):
 [**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking(Apr.2, 2025)"](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
 
-[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking"(Apr.2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
-
 [**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology"(Apr.2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
 
 [**KJZZ**: "University of Arizona researchers develop technique to improve eye-tracking technology"(Apr.14 2025)](https://www.kjzz.org/education/2025-04-14/university-of-arizona-researchers-develop-technique-to-improve-eye-tracking-technology)
@@ -63,4 +61,6 @@ Research news featured on external websites (selection):
 --------  
 International News Coverage:
 [**MIXED(German)**: "New method could make eye tracking in VR glasses significantly more precise"(Apr.2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)
+
+
 
