@@ -120,7 +120,7 @@ More...
 [**\[MORE...\]**](https://nature.altmetric.com/details/117068255/news)  
 
 --------  
-International News Coverage (selection:
+International News Coverage (selection):
 
 [**Report on German TV (German)**](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) - Short report about our work on Synthetic Wavelength Holography and Portrait about Florian was aired on German (Bavarian) TV on 03/20/2022 \[German language only\]. [Click here](https://drive.google.com/file/d/1WvL6ZqwoDSDk4BfB4H98LXCeo1ggfGTd/view?usp=sharing) to watch video.   
 
