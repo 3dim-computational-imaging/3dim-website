@@ -31,11 +31,12 @@ Interview KVOI Radio: "The Morning Voice"
 Research news featured on external websites (selection):  
 [**Phys.org**: "'Superhuman vision': Powerful 3D imaging technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://phys.org/news/2025-03-superhuman-vision-powerful-3d-imaging.html)  
 
-[**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm)
+[**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm)[Featured by **SPIE**](https://www.linkedin.com/posts/spie_researchers-at-the-university-of-arizona-activity-7318746334084116480-1Hgz/?utm_source=share&utm_medium=member_android&rcm=ACoAACeIZlgBXc4HXy54dsYMarkw2HjukiFomc8)
 
 [**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)  
 
 [**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)
+
 
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking Innovations" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)
 
@@ -60,6 +61,7 @@ Research news featured on external websites (selection):
 
 --------  
 International News Coverage:
+
 [**MIXED(German)**: "New method could make eye tracking in VR glasses significantly more precise"(Apr.2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)
 
 
