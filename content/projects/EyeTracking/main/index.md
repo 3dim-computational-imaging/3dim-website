@@ -68,7 +68,9 @@ Research news featured on external websites (selection):
 --------  
 International News Coverage:
 
-[**MIXED (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen"(Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)
+[**MIXED (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen"(Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
+
+[**Ma Clinique (French)**: "Les scientifiques atteignent une percée dans la technologie de détection des mouvements oculaires (Apr. 1, 2025)](https://ma-clinique.fr/les-scientifiques-atteignent-une-percee-dans-la-technologie-de-detection-des-mouvements-oculaires)"]  
 
 {{< /collapsible-section >}} 
 
