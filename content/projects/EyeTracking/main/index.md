@@ -43,7 +43,7 @@ Research news featured on external websites (selection):
 
 [**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)    
 
-[**MIXED**: "New method could make eye tracking in VR glasses significantly more precise" (Apr. 2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)  
+[**MIXED Reality News**: "New method could make eye tracking in VR glasses significantly more precise" (Apr. 2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)  
 
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking Innovations" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)  
 
@@ -70,7 +70,7 @@ Research news featured on external websites (selection):
 --------  
 International News Coverage:
 
-[**MIXED (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen" (Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
+[**MIXED Reality News (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen" (Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
 
 [**Ma Clinique (French)**: "Les scientifiques atteignent une percée dans la technologie de détection des mouvements oculaires" (Apr. 1, 2025)](https://ma-clinique.fr/les-scientifiques-atteignent-une-percee-dans-la-technologie-de-detection-des-mouvements-oculaires)  
 
