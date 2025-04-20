@@ -2,7 +2,7 @@
 weight: 10
 title: Synthetic Wavelength Holography
 prefix: "Project"
-external_link: /projects/swi/
+external_link: /projects/swi/#news-header
 media_weight: 100
 
 date: 2021-11-24
