@@ -15,7 +15,7 @@ In this research track, we rethink how specular reflections can be used for eye 
 
 {{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
 --------  
-Research news featured on Official University of Arizona Websites: 
+Research news featured on official University of Arizona Websites: 
 
 [**"New 3D technology paves way for next-generation eye tracking"**  (Apr. 1, 2025)](https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
@@ -28,7 +28,7 @@ Local Radio Interviews and Reports:
 Interview KVOI Radio: "The Morning Voice" 
 {{< audio src="audio/TheMorningVoice_KVOI-Radio_EyeTracking.mp3" relative="True" >}}
 
-[**KJZZ**: "University of Arizona researchers develop technique to improve eye-tracking technology"(Apr. 14 2025)](https://www.kjzz.org/education/2025-04-14/university-of-arizona-researchers-develop-technique-to-improve-eye-tracking-technology)
+[**KJZZ**: "University of Arizona researchers develop technique to improve eye-tracking technology" (Apr. 14 2025)](https://www.kjzz.org/education/2025-04-14/university-of-arizona-researchers-develop-technique-to-improve-eye-tracking-technology)
 
 --------  
 Research news featured on external websites (selection):  
@@ -36,30 +36,30 @@ Research news featured on external websites (selection):
 
 [**ScienceDaily**: "New 3D technology paves way for next-generation eye-tracking" (Apr. 1, 2025)](https://www.sciencedaily.com/releases/2025/04/250401131530.htm) 
 
-[**SPIE Feature**](https://www.linkedin.com/posts/spie_researchers-at-the-university-of-arizona-activity-7318746334084116480-1Hgz/?utm_source=share&utm_medium=member_android&rcm=ACoAACeIZlgBXc4HXy54dsYMarkw2HjukiFomc8)  
+[**SPIE Feature** (Apr. 17, 2025)](https://www.linkedin.com/posts/spie_researchers-at-the-university-of-arizona-activity-7318746334084116480-1Hgz/?utm_source=share&utm_medium=member_android&rcm=ACoAACeIZlgBXc4HXy54dsYMarkw2HjukiFomc8)  
 
 [**Optics.org**: "Arizona sharpens imaging for eye-tracking" (Apr. 1, 2025)](https://optics.org/news/16/4/5)    
 
 [**PHOTONICS Spectra**: "Eye-Tracking Technique Based on 40K Surface Points" (Apr. 1, 2025)](https://www.photonics.com/Articles/Eye-Tracking_Technique_Based_on_40K_Surface_Points/p5/a70887)    
 
-[**MIXED**: "New method could make eye tracking in VR glasses significantly more precise"(Apr. 2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)  
+[**MIXED**: "New method could make eye tracking in VR glasses significantly more precise" (Apr. 2 2025)](https://mixed-news.com/en/new-eye-tracking-method-could-dramatically-improve-vr-headset-accuracy/)  
 
 [**Bioengineer**: "Revolutionary 3D Technology Sets the Stage for Advanced Eye-Tracking Innovations" (Apr. 1, 2025)](https://bioengineer.org/revolutionary-3d-technology-sets-the-stage-for-advanced-eye-tracking-innovations/)  
 
 [**Mindplex**: "New eye-tracking technology boosts accuracy" (Apr. 1, 2025)](https://magazine.mindplex.ai/mp_news/new-eye-tracking-technology-boosts-accuracy/)  
 
-[**eeNews Europe**: "3D imaging to significantly boost eye-tracking accuracy" (Apr. 1,2025)](https://www.eenewseurope.com/en/3d-imaging-to-significantly-boost-eye-tracking-accuracy/)  
+[**eeNews Europe**: "3D imaging to significantly boost eye-tracking accuracy" (Apr. 1, 2025)](https://www.eenewseurope.com/en/3d-imaging-to-significantly-boost-eye-tracking-accuracy/)  
 
-[**News-Medical**: "Scientists achieve breakthrough in eye movement detection technology"(Apr. 1, 2025)](https://www.news-medical.net/news/20250401/Scientists-achieve-breakthrough-in-eye-movement-detection-technology.aspx)  
+[**News-Medical**: "Scientists achieve breakthrough in eye movement detection technology" (Apr. 1, 2025)](https://www.news-medical.net/news/20250401/Scientists-achieve-breakthrough-in-eye-movement-detection-technology.aspx)  
 
-[**Tucson Standard**: "University of Arizona develops new 3D technique for more accurate eye tracking"(Apr. 1 2025)](https://tucsonstandard.com/stories/670754672-university-of-arizona-develops-new-3d-technique-for-more-accurate-eye-tracking)  
+[**Tucson Standard**: "University of Arizona develops new 3D technique for more accurate eye tracking" (Apr. 1 2025)](https://tucsonstandard.com/stories/670754672-university-of-arizona-develops-new-3d-technique-for-more-accurate-eye-tracking)  
 
-[**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking(Apr. 1, 2025)"](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
+[**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking" (Apr. 1, 2025)](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
 
-[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking(Apr. 2, 2025)"](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
+[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking" (Apr. 2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
 
 
-[**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology"(Apr. 2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
+[**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology" (Apr. 2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
 
 
 
@@ -68,9 +68,9 @@ Research news featured on external websites (selection):
 --------  
 International News Coverage:
 
-[**MIXED (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen"(Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
+[**MIXED (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen" (Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
 
-[**Ma Clinique (French)**: "Les scientifiques atteignent une percée dans la technologie de détection des mouvements oculaires (Apr. 1, 2025)](https://ma-clinique.fr/les-scientifiques-atteignent-une-percee-dans-la-technologie-de-detection-des-mouvements-oculaires)"]  
+[**Ma Clinique (French)**: "Les scientifiques atteignent une percée dans la technologie de détection des mouvements oculaires" (Apr. 1, 2025)](https://ma-clinique.fr/les-scientifiques-atteignent-une-percee-dans-la-technologie-de-detection-des-mouvements-oculaires)  
 
 {{< /collapsible-section >}} 
 
