@@ -2,7 +2,7 @@
 weight: 10
 title: High-quality 3D imaging with Commodity Devices
 prefix: "Project"
-external_link: /projects/artculturalheritage/3d-imaging-commodity-devices/
+external_link: /projects/artculturalheritage/#news-commodity
 media_weight: 85
 
 date: 2019-02-28
