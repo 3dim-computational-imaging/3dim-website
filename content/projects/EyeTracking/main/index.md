@@ -21,6 +21,7 @@ Research news featured on official University of Arizona Websites:
 
 {{< a-rel src="web-snapshots/InsideUA_UniversityofArizonaNewsletter_4_8_2025__4_33_18PM.html" >}}\[**Inside Arizona Research** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}   
 {{< a-rel src="web-snapshots/UA_NOW__UniversityofArizonaNewsletter_4_8_2025__4_32_56PM.html" >}}\[**UANOW Newsletter** (retrieved Apr. 11, 2025)\]{{< /a-rel >}}   
+[**Tech Launch Arizona** (Apr. 1 2025)](https://techlaunch.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking)
 
 -------- 
 Local Radio Interviews and Reports:  
