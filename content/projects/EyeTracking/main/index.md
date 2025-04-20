@@ -63,6 +63,9 @@ Research news featured on external websites (selection):
 
 [**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology" (Apr. 2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
 
+[**msn**: "Scientists achieve breakthrough in eye movement detection technology" (Apr. 5 2025)](https://www.msn.com/en-gb/health/other/scientists-achieve-breakthrough-in-eye-movement-detection-technology/ar-AA1C4u0l)
+
+[**all-about-industries**: "Precise Eye Tracking Through Deflectometry" (Apr. 14 2025)](https://www.all-about-industries.com/eye-tracking-technology-improvement-ar-vr-glasses-a-1bff0a2083e6ab1dc02d30de67359614/)
 
 
 
@@ -73,6 +76,12 @@ International News Coverage:
 [**MIXED Reality News (German)**: "Neue Methode könnte Eye-Tracking in VR-Brillen deutlich präziser machen" (Apr. 3 2025)](https://mixed.de/neue-methode-koennte-eye-tracking-in-vr-brillen-deutlich-praeziser-machen/)  
 
 [**Ma Clinique (French)**: "Les scientifiques atteignent une percée dans la technologie de détection des mouvements oculaires" (Apr. 1, 2025)](https://ma-clinique.fr/les-scientifiques-atteignent-une-percee-dans-la-technologie-de-detection-des-mouvements-oculaires)  
+
+[**Vetenskapsnytt.se (Swedish)**: "'Övermänsklig syn': Kraftfull 3D-bildteknik banar väg för nästa generations ögonspårning" (Apr. 1, 2025)](https://www.vetenskapsnytt.se/overmansklig-syn-kraftfull-3d-bildteknik-banar-vag-for-nasta-generations-ogonsparning/)
+
+[**Alternative Reality(Italian)**: "Un nuovo sistema di Eye Tracking basato sulla deflectometria ne migliora esponenzialmente la precisione" (Apr. 3,2025)](https://alternativereality.it/un-nuovo-sistema-di-eye-tracking-basato-sulla-deflectometria-ne-migliora-esponenzialmente-la-precisione/)
+
+[**ELEKTRONIKPRAXIS (German)**: "Verbesserte Eye-Tracking-Technologie für AR- und VR-Brillen" (Apr 14,2025)](https://www.elektronikpraxis.de/eye-tracking-technologie-verbesserung-ar-vr-brillen-a-155180e703cebb47d51cd6c33f64e76b/)
 
 {{< /collapsible-section >}} 
 
