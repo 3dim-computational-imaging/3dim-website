@@ -56,8 +56,9 @@ Research news featured on external websites (selection):
 
 [**Mirage News**: "3D Tech Revolutionizes Next-Gen Eye-Tracking" (Apr. 1, 2025)](https://www.miragenews.com/3d-tech-revolutionizes-next-gen-eye-tracking-1436542/)
 
-[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking" (Apr. 2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)
+[**Tech Explorist**: "New 3D imaging tech to significantly improve next-generation eye-tracking" (Apr. 2, 2025)](https://www.techexplorist.com/new-3d-imaging-tech-significantly-improve-next-generation-eye-tracking/98508/)  
 
+[**E-Med News**: "Scientists Unveil Next-Gen Eye-Tracking with Unmatched Precision" (Apr. 1, 2025)](https://emed.news/scientists-unveil-next-gen-eye-tracking-with-unmatched-precision/)  
 
 [**Shankar Netrika Eye Centre**: "Advanced 3D Tech Ushers in Future of Eye-Tracking for Ophthalmology" (Apr. 2 2025)](https://shankarnetrika.com/advanced-3d-tech-ushers-in-future-of-eye-tracking-for-ophthalmology/)
 
