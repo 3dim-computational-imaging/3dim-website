@@ -4,7 +4,7 @@ weight: 60
 sort_by: section_weight
 
 # Title
-title: Synthetic Wavelength Holography
+title:Synthetic-Wavelength:Holography
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: ''
