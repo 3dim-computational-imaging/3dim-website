@@ -181,8 +181,10 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - Spring Sem. 2025: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2024: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
-- Spring Sem. 2024: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
-- Fall Sem. 2023: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
+- Spring Sem. 2024: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)
+- Spring Sem. 2024: [OPTI 595-A: : Current Subjects in Optical Sciences (Colloquium)](https://www.optics.arizona.edu/colloquium)     
+- Fall Sem. 2023: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)
+- Fall Sem. 2023: [OPTI 595-A: : Current Subjects in Optical Sciences (Colloquium)](https://www.optics.arizona.edu/colloquium)  
 - Spring Sem. 2023: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Winter Qu. 2022: [COMP_SCI 331: Introduction to Computational Photography](https://nucs331.github.io/)  
 - Summer Qu. 2021: [ELEC_ENG 395, 495: Computational Photography Seminar](https://www.mccormick.northwestern.edu/electrical-computer/academics/courses/descriptions/395-495-comp-photog.html)    
