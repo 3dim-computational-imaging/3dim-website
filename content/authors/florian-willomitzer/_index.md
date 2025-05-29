@@ -107,7 +107,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
   </tr>
   <tr>  
     <td class="article-table-data">Aug'17 - Nov'19</td>
-    <td class="article-table-data"><b>Postdoctoral Fellow</b>, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA</td>
+    <td class="article-table-data"><b>Postdoctoral Researcher</b>, Department of Electrical Engineering and Computer Science (EECS), Northwestern University, Evanston, USA</td>
   </tr>
   <tr>  
     <td class="article-table-data">Jan'11 - Aug'17</td>
