@@ -31,7 +31,7 @@ publication_short: ''
 
 doi: '10.1364/opticaopen.25199411.v3'
 
-abstract: 'We present two methods for fast and precise eye-tracking in VR headsets. Both methods exploit deflectometric information, i.e., the specular reflection of an extended screen over the eye surface.'
+abstract: 'We introduce an accurate eye-tracking method that exploits deflectometric information and uses deep learning to reconstruct the gaze direction. We demonstrate real world experiments with evaluated gaze errors below 1-degree.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -78,4 +78,3 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
