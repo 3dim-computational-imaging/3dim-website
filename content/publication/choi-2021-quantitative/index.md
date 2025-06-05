@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022'
+date: '2022-01-06'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-02-23T19:59:54.893327Z'
