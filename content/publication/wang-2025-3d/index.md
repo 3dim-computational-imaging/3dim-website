@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Optica,12(4)*'
+publication: '*Optica*,12(4)'
 
 doi: '10.1364/OPTICA.538331'
 
