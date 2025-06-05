@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nature Communications*'
+publication: '*Nature Communications*,16,2092'
 
 doi: "10.1038/s41467-025-56801-1"
 
