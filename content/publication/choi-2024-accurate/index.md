@@ -31,7 +31,7 @@ publication_short: ''
 
 doi: '10.1364/opticaopen.25199411.v3'
 
-abstract: 'We introduce an accurate eye-tracking method that exploits deflectometric information and uses deep learning to reconstruct the gaze direction. We demonstrate real world experiments with evaluated gaze errors below 1-degree.'
+abstract: 'We introduce an accurate eye-tracking method that exploits deflectometric information and uses deep learning to reconstruct the gaze direction. We demonstrate real world experiments with evaluated gaze errors below 1&deg;.'
 
 # Summary. An optional shortened abstract.
 summary: ''
