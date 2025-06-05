@@ -31,6 +31,8 @@ publication: '*Frontiers in Optics + Laser Science 2024 (FiO, LS)*'
 
 doi: '10.1364/FIO.2024.FTu6B.3'
 
+abstract: 'We introduce a new technique and experiments for deflectometric eye tracking on real human eyes in vivo. Our technique utilizes the teachings of our previous eye-tracking research, combining the captured deflectometric information in a novel fashion.'
+
 # Summary. An optional shortened abstract.
 summary: ''
 
