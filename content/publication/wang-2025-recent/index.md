@@ -30,6 +30,8 @@ publication: '*Optical Architectures for Displays and Sensing in Augmented, Virt
 
 doi: '10.1117/12.3043129'
 
+abstract: 'This contribution introduces a series of recently developed active eye-tracking techniques that exploit deflectometric information for fast and accurate gaze estimation. The reflection of a back-illuminated extended screen is observed over the eye surface, which yields a drastic increase in captured data points of factors of 3000X and higher compared to conventional glint tracking. The higher information content is used to infer the geometrical properties of the eye and estimate the gaze with high accuracy. In this contribution, we will introduce three different flavors of our approach, which are based on single-shot stereo deflectometry, differentiable rendering, and deep learning. We will show real world experiments that achieve gaze errors < 0.12° on realistic model eyes, and 0.45° ∼ 0.97&deg; on real human eyes.'
+
 # Summary. An optional shortened abstract.
 summary: ''
 
