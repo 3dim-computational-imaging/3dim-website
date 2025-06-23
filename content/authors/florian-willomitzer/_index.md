@@ -157,6 +157,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 **Program Committee**, OSA Computational Optical Sensing and Imaging (COSI), 2019  
 
 
+**Editor**, Light: Advanced Manufacturing, 2025 - present  
 **Editor**, OSA Optics Express (Feature Issue on COSI), 2021  
 **Editor**, OSA Applied Optics (Feature Issue on COSI), 2021  
 **Editor**, OSA Applied Optics, 2021  
@@ -211,10 +212,13 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Invited Talks   
 
+- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  | “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)     
 
-- **SPIE DCS**; 3D Imaging, Visualization, and Display; Orlando, USA, 2025 | "Single-shot imaging through scatter or turbulence using synthetic waves" (Invited Talk)  |  [\[Abstract\]](https://spie.org/defense-commercial-sensing/presentation/Single-shot-imaging-through-scatter-or-turbulence-using-synthetic-waves/13465-25)   
+- **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**; CCD Workshop: Computational Cameras and Displays, Nashville, USA, 2025 | "Coherent Computational Imaging with Synthetic Waves" (Invited Talk)  |  [\[Workshop Website\]](https://kristinamonakhova.com/ccd2025/)     
 
-- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
+- **SPIE DCS**; 3D Imaging, Visualization, and Display; Orlando, USA, 2025 | "Single-shot imaging through scatter or turbulence using synthetic waves" (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13465/134650O/Single-shot-imaging-through-scatter-or-turbulence-using-synthetic-waves/10.1117/12.3055527.short)   
+
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN Workshop: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
 
 - **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)   
 
@@ -222,9 +226,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **University of Maryland (UMD)**, Computer Vision Seminar Series, College Park, 2024 |  “Computational Imaging on Shiny and Specular Surfaces: From Tablet-Based 3D Measurements to Accurate and Fast Eye Tracking” (Invited Talk)  |  [\[Abstract\]](https://talks.cs.umd.edu/talks/4028)     
 
-- **SPIE Optics + Photonics**, Interferometry and Structured Light, San Diego, 2024 | “Coherent Computational Imaging with Synthetic Waves” (Invited Talk)   
+- **SPIE Optics + Photonics**, Interferometry and Structured Light, San Diego, 2024 | “Coherent Computational Imaging with Synthetic Waves” (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13135/131350D/Coherent-computational-imaging-with-synthetic-waves/10.1117/12.3027269.short)      
 
-- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2024  | “Accurate single-shot eye tracking from deflectometric information” (Invited Talk)   
+- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2024  | “Accurate single-shot eye tracking from deflectometric information” (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13142/PC1314209/Accurate-single-shot-eye-tracking-from-deflectometric-information/10.1117/12.3028693.short)   
 
 - **Technical University Ilmenau**, Ilmenau, Germany, 2024   | “Ilmenau and Arizona: Not as Far Apart as You Think - The Computational 3D Imaging and Measurement Lab at the University of Arizona” (Invited Talk)    
 
