@@ -28,9 +28,9 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+publication: '*Optics Express*'
 
-doi: "10.48550/arXiv.2407.06535"
+doi: "10.1364/OE.559076"
 
 # Summary. An optional shortened abstract.
 summary: ''
