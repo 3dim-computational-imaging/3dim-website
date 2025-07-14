@@ -4,10 +4,10 @@ title: 'Single-shot synthetic wavelength holography: a flexible approach for hig
 
 # Talk Weights (used for order on different pages)
 landing_weight: 8
-swh_weight: 5
+weight_SWI_Main: 20
 
 # Talk Tags (used for categorization into projects)
-tags: ["Precision-3D-SWH"]
+tags: ["SWI_Main"]
 
 # Authors
 # Format: A YAML List of Author Names

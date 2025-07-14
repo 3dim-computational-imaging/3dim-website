@@ -4,10 +4,10 @@ title: 'A holographic camera that can see the unseen'
 
 # Talk Weights (used for order on different pages)
 landing_weight: 10
-swh_weight: 10
+weight_SWI_Main: 30
 
 # Talk Tags (used for categorization into projects)
-tags: ["Precision-3D-SWH"]
+tags: ["SWI_Main"]
 
 # Authors
 # Format: A YAML List of Author Names
