@@ -28,7 +28,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Optics Express* 33(14)'
+publication: '*Optics Express*,33(14)'
 
 doi: "10.1364/OE.559076"
 
