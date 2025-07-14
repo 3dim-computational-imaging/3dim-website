@@ -220,9 +220,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **SPIE DCS**; 3D Imaging, Visualization, and Display; Orlando, USA, 2025 | "Single-shot imaging through scatter or turbulence using synthetic waves" (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13465/134650O/Single-shot-imaging-through-scatter-or-turbulence-using-synthetic-waves/10.1117/12.3055527.short)   
 
-- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN Workshop: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN Workshop: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA, 2025  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
 
-- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)   
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA, 2025  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)   
 
 - **National Institutes of Health (NIH)**, FARIA-NIH workshop on quantum and photonics research, Washington DC, 2024  |  “Dynamic Imaging through Scattering Media across Multiple Scales using Synthetic Waves” (Invited Talk)  |   [\[Event Website\]](https://www.faria.network/event-details/faria-nih-workshop-on-quantum-and-photonics-research)
 
