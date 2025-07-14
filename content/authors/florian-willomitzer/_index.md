@@ -212,9 +212,11 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Invited Talks   
 
-- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  | “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)     
+- **Max Planck Institute for the Science of Light**, Erlangen, Germany, 2025   |  “Computational Imaging through Scattering Media and on Challenging Surfaces - About the Fun of Utilizing Nature’s Limits ” (Invited Talk)  |  [\[Announcement/Abstract\]](https://mpl.mpg.de/de/events/termin/florian-willomitzer-computational-imaging-through-scattering-media-and-on-challenging-surfaces-about-the-fun-of-utilizing-natures-limits)      
 
-- **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**; CCD Workshop: Computational Cameras and Displays, Nashville, USA, 2025 | "Coherent Computational Imaging with Synthetic Waves" (Invited Talk)  |  [\[Workshop Website\]](https://kristinamonakhova.com/ccd2025/)     
+- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  |  “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)     
+
+- **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**; CCD Workshop: Computational Cameras and Displays, Nashville, USA, 2025 |  "Coherent Computational Imaging with Synthetic Waves" (Invited Talk)  |  [\[Workshop Website\]](https://kristinamonakhova.com/ccd2025/)     
 
 - **SPIE DCS**; 3D Imaging, Visualization, and Display; Orlando, USA, 2025 | "Single-shot imaging through scatter or turbulence using synthetic waves" (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13465/134650O/Single-shot-imaging-through-scatter-or-turbulence-using-synthetic-waves/10.1117/12.3055527.short)   
 
