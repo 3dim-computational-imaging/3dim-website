@@ -4,11 +4,11 @@ var i;
 
 for (i = 0; i < copy_buttons.length; i++) {
   copy_buttons[i].addEventListener("click", function() {
-	ancestorWithSubprojectName = document.querySelector("p").closest(".project-section-container");
-	ancestorId = ancestorWithSubprojectName.id;
-	projectName = ancestorId.slice(11);
+	var ancestorWithSubprojectName = document.querySelector("p").closest(".project-section-container");
+	var ancestorId = ancestorWithSubprojectName.id;
+	var projectName = ancestorId.slice(11);
 	  
-	linkURL = window.location.href + projectName;
+	var linkURL = window.location.href + projectName;
 	  
 	if ('clipboard' in navigator) {
       // Note: Clipboard API requires HTTPS or localhost
