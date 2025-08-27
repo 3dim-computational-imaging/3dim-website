@@ -4,7 +4,7 @@ var i;
 
 for (i = 0; i < copy_buttons.length; i++) {
   copy_buttons[i].addEventListener("click", function() {
-	var ancestorWithSubprojectName = document.querySelector("p").closest(".project-section-container");
+	var ancestorWithSubprojectName = this.closest(".project-section-container");
 	var ancestorId = ancestorWithSubprojectName.id;
 	var projectName = ancestorId.slice(11);
 	  
