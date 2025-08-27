@@ -13,6 +13,12 @@ for (i = 0; i < copy_buttons.length; i++) {
 	if ('clipboard' in navigator) {
       // Note: Clipboard API requires HTTPS or localhost
       navigator.clipboard.writeText(linkURL);
+	  
+	  initialHTML = copyBtn.innerHTML;
+	  copyBtn.innerHTML = "Link Copied!";
+      setTimeout(() => {
+        copyBtn.innerHTML = initialHTML;
+      }, 2000);
     } else {
       console.debug('Could not copy content!');
     }
