@@ -14,7 +14,7 @@ for (i = 0; i < copy_buttons.length; i++) {
       // Note: Clipboard API requires HTTPS or localhost
       navigator.clipboard.writeText(linkURL);
 	  
-	  initialHTML = this.innerHTML;
+	  var initialHTML = this.innerHTML;
 	  this.innerHTML = "Link Copied!";
       setTimeout(() => {
         this.innerHTML = initialHTML;
