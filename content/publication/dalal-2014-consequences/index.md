@@ -24,7 +24,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Frontiers in neuroscience*'
+publication: '*Frontiers in neuroscience* 8, 42'
 
 doi: "10.3389/fnins.2014.00042"
 
