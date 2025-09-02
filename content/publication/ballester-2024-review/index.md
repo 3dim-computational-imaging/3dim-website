@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Measurement Science and Technology*'
+publication: '*Measurement Science and Technology*, 36(2)'
 
 doi: "10.1088/1361-6501/ada305"
 
