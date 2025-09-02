@@ -33,7 +33,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Analytical Atomic Spectrometry*'
+publication: '*Journal of Analytical Atomic Spectrometry*, 37(12)'
 
 doi: "10.1039/D2JA00246A"
 
