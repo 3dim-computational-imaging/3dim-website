@@ -31,7 +31,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Coatings*'
+publication: '*Coatings*, 12(10)'
 
 doi: "10.3390/coatings12101549"
 
