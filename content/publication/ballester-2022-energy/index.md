@@ -31,7 +31,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Non-Crystalline Solids*'
+publication: '*Journal of Non-Crystalline Solids*, 594'
 
 doi: "10.1016/j.jnoncrysol.2022.121803"
 
