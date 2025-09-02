@@ -29,7 +29,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Frontiers in Neuroscience*'
+publication: '*Frontiers in Neuroscience*, 17'
 
 doi: "10.3389/fnins.2023.1127574"
 
