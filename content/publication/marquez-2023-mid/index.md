@@ -30,7 +30,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Preprints*'
+publication: '*Coatings*, 14(1)'
 
 doi: "10.20944/preprints202311.0544.v1"
 
