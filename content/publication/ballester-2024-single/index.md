@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Optics and Lasers in Engineering*'
+publication: '*Optics and Lasers in Engineering*, 178'
 
 doi: "10.1016/j.optlaseng.2024.108165"
 
