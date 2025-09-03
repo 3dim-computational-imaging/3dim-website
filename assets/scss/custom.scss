@@ -458,5 +458,5 @@ div.hero-row {
 	margin-left: auto;
 	background-color: #1900ca;
 	color: white;
-	transition: color .6s ease;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
