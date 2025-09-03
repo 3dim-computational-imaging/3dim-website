@@ -448,4 +448,15 @@ div.hero-row {
 
 .project-section-permalink-button {
 	margin-left: auto;
+	background-color: transparent;
+	border: 1px solid #1900ca;
+	color: #1900ca;
+	border-radius: 0.2rem;
+}
+
+.project-section-permalink-button:hover {
+	margin-left: auto;
+	background-color: #1900ca;
+	color: white;
+	transition: color .6s ease;
 }
