@@ -452,6 +452,7 @@ div.hero-row {
 	border: 1px solid #1900ca;
 	color: #1900ca;
 	border-radius: 0.2rem;
+	margin-top: 0.45rem;
 }
 
 .project-section-permalink-button:hover {
@@ -459,4 +460,22 @@ div.hero-row {
 	background-color: #1900ca;
 	color: white;
 	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+@media (max-width: 992px) {
+    .project-section-permalink-button {
+        margin-right: auto;
+    }
+	.project-section-title-wrapper {
+		flex-direction: column;
+	}
+}
+
+@media (min-width: 993px) {
+    .project-section-permalink-button {
+        margin-right: 0;
+    }
+	.project-section-title-wrapper {
+		flex-direction: row;
+	}
 }
