@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Tianyi Wang
+title: Hyelim Yang
 
 # Full Name (for SEO)
-first_name: Tianyi
-last_name: Wang
+first_name: Hyelim
+last_name: Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -42,9 +42,12 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hyelim-yang-67a34886/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tianyiwang2@arizona.edu'
+    link: 'mailto:hyelimyang@arizona.edu'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -63,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - M.S. Students
 ---
-Tianyi Wang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He obtained his bachelor's degree in physics from Nankai University. He has participated in projects related to Triangulation and Deflectometry. His current research interests focus on 3D imaging.
+Hyelim Yang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. She obtained her bachelor’s degree in chemical engineering from the University of California, Berkeley. She completed a master’s degree in Chemical Engineering, Analytics, and Artificial Intelligence. Her current research interests focus on applying Deep learning to 3D imaging prediction.
