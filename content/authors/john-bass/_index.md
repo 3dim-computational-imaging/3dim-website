@@ -45,7 +45,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/john-bass-670836135/
-social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jmbass@arizona.edu'
