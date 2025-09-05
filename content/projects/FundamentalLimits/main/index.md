@@ -3,6 +3,9 @@ title: ''
 section_weight: 50
 type: subproject
 
+# Button removal (manually set for some pages, since it's tough to remove buttons automatically for single-entry pages)
+removeCopyButton: true
+
 media:
     tag: "FundamentalLimits"
     sort_by: weight_FundamentalLimits
