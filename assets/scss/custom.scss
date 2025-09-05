@@ -480,3 +480,7 @@ div.hero-row {
 		flex-direction: row;
 	}
 }
+
+.carousel-item.active {
+	background-color: inherit;
+}
