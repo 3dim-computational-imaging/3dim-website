@@ -22,6 +22,9 @@ sections:
             image:
               filename: grp2.JPEG
             position: center
+      design:
+        slide_height: '400px'
+        is_fullscreen: false
   - block: people
     content:
       title: Our Team
