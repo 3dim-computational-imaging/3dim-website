@@ -5,6 +5,23 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+	  slides:
+	    - title: ''
+		  content: ''
+		  align: center
+		  background:
+		    image:
+			  filename: grp1.JPEG
+			position: center
+		- title: ''
+		  content: ''
+		  align: center
+		  background:
+		    image:
+			  filename: grp2.JPEG
+			position: center
   - block: people
     content:
       title: Our Team
