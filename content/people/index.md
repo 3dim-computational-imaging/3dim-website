@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: slider
     content:
-      title: 'Our Team'
       slides:
         - title: ''
           content: ''
