@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: slider
     content:
+	  title: 'Our Team'
       slides:
         - title: ''
           content: ''
@@ -14,6 +15,7 @@ sections:
           background:
             image:
               filename: grp1.JPEG
+			  size: 'contain'
             position: center
         - title: ''
           content: ''
@@ -21,10 +23,11 @@ sections:
           background:
             image:
               filename: grp2.JPEG
+			  size: 'contain'
             position: center
-      design:
-        slide_height: '400px'
-        is_fullscreen: false
+    design:
+      slide_height: '400px'
+      is_fullscreen: false
   - block: people
     content:
       title: Our Team
