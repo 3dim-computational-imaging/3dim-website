@@ -216,7 +216,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **Max Planck Institute for the Science of Light**, Erlangen, Germany, 2025   |  “Computational Imaging through Scattering Media and on Challenging Surfaces - About the Fun of Utilizing Nature’s Limits ” (Invited Talk)  |  [\[Announcement/Abstract\]](https://mpl.mpg.de/de/events/termin/florian-willomitzer-computational-imaging-through-scattering-media-and-on-challenging-surfaces-about-the-fun-of-utilizing-natures-limits)      
 
-- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  |  “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)     
+- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  |  “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13573/PC1357308/Accurate-and-fast-eye-tracking-using-computational-deflectometry/10.1117/12.3066307.short)   
 
 - **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**; CCD Workshop: Computational Cameras and Displays, Nashville, USA, 2025 |  "Coherent Computational Imaging with Synthetic Waves" (Invited Talk)  |  [\[Workshop Website\]](https://kristinamonakhova.com/ccd2025/)     
 
