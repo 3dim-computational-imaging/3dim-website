@@ -39,7 +39,7 @@ tags: ['HPrecision3D-Triangulation-Shiny','Medical3DApplications_TriangulationSh
 
 # Weights for project pages + the landing page
 landing_weight: 10
-weight_HPrecision3D_Handguided_Triangulation: 150
+weight_HPrecision3D_Triangulation_Shiny: 150
 weight_Medical3DApplications_TriangulationShiny: 150
 
 # Display this page in a list of Featured pages?
