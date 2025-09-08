@@ -5,28 +5,28 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
-    content:
-      slides:
-        - title: ''
-          content: ''
-          align: center
-          background:
-            image:
-              filename: grp1.JPEG
-              size: 'contain'
-            position: center
-        - title: ''
-          content: ''
-          align: center
-          background:
-            image:
-              filename: grp2.JPEG
-              size: 'contain'
-            position: center
-    design:
-      slide_height: '400px'
-      is_fullscreen: false
+#  - block: slider
+#    content:
+#      slides:
+#        - title: ''
+#          content: ''
+#          align: center
+#          background:
+#            image:
+#              filename: grp1.JPEG
+#              size: 'contain'
+#            position: center
+#        - title: ''
+#          content: ''
+#          align: center
+#          background:
+#            image:
+#              filename: grp2.JPEG
+#              size: 'contain'
+#            position: center
+#    design:
+#      slide_height: '400px'
+#      is_fullscreen: false
   - block: people
     content:
       title: Our Team
