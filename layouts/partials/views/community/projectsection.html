@@ -38,9 +38,14 @@
     {{ end }}
       <div class="media-body">
 
-        <div class="project-section-title mb-0 mt-0">
-          {{ $item.Title }}
-        </div>
+        <div class="project-section-title-wrapper">
+			<div class="project-section-title mb-0 mt-0">
+			  {{ $item.Title }}
+			</div>
+			{{ if not $item.Params.removeCopyButton }}
+			  <button class="project-section-permalink-button">Copy Link</button>
+			{{ end }}
+		</div>
         
         <div class="project-section-contents">
           {{ $item.Content }}

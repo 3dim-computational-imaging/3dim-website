@@ -149,7 +149,9 @@ div.project-section-title {
     font-weight: 700;
     font-size: 1.6rem;
     text-align: center;
+	flex-grow: 1;
     color: #1900ca;
+	margin-right: 1rem;
 }
 
 div.project-section-publication-title {
@@ -438,4 +440,48 @@ div.hero-row {
 
 #landing-header figure figcaption {
 	margin-bottom: 0;
+}
+
+.project-section-title-wrapper {
+	display:flex;
+	align-items: flex-start;
+}
+
+.project-section-permalink-button {
+	margin-left: auto;
+	background-color: transparent;
+	border: 1px solid #1900ca;
+	color: #1900ca;
+	border-radius: 0.2rem;
+	margin-top: 0.45rem;
+	text-wrap: nowrap;
+}
+
+.project-section-permalink-button:hover {
+	margin-left: auto;
+	background-color: #1900ca;
+	color: white;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+@media (max-width: 992px) {
+    .project-section-permalink-button {
+        margin-right: auto;
+    }
+	.project-section-title-wrapper {
+		flex-direction: column;
+	}
+}
+
+@media (min-width: 993px) {
+    .project-section-permalink-button {
+        margin-right: 0;
+    }
+	.project-section-title-wrapper {
+		flex-direction: row;
+	}
+}
+
+.carousel-item.active {
+	background-color: #f7f7f7;
 }
