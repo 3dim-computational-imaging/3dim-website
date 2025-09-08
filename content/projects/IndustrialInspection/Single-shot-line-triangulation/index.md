@@ -6,7 +6,6 @@ type: subproject
 media:
     tag: "HPrecision3D_Handguided_Triangulation"
     sort_by: weight_HPrecision3D_Handguided_Triangulation
-    order: asc
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="250px" max_width="80%">}}
