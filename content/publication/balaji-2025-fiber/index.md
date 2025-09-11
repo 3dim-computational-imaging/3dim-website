@@ -28,9 +28,9 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+publication: '*Computational Optical Imaging and Artificial Intelligence in Biomedical Sciences II 2025 Mar 19 (Vol. 13333, pp. 18-22). SPIE.*'
 
-doi: "10.48550/arXiv.2501.15561"
+doi: "10.1117/12.3043761"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -44,8 +44,12 @@ weight_SWH_FiberImaging: 100
 # Display this page in a list of Featured pages?
 featured: false
 
+# Preprint info
+url_preprint: 'https://arxiv.org/abs/2501.15561'
+preprint_date: '2025'
+
 # Links
-url_pdf: 'https://arxiv.org/abs/2501.15561'
+url_pdf: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13333/1333306/Fiber-endoscopy-using-synthetic-wavelengths-for-3D-tissue-imaging/10.1117/12.3043761.full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
