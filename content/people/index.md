@@ -25,7 +25,7 @@ sections:
               size: 'contain'
             position: center
     design:
-      slide_height: '400px'
+      slide_height: '800px'
       is_fullscreen: false
   - block: people
     content:
