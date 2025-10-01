@@ -22,7 +22,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Light: Advanced Manufacturing*'
+publication: '*Light: Advanced Manufacturing*, 3(2)'
 
 doi: "10.37188/lam.2022.025"
 

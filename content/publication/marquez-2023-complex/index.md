@@ -31,7 +31,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Materials Letters*'
+publication: '*Materials Letters*, 345'
 
 doi: "10.1016/j.matlet.2023.134485"
 

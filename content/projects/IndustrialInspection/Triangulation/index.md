@@ -5,7 +5,7 @@ type: subproject
 
 media:
     tag: "HPrecision3D-Triangulation-Shiny"
-    sort_by: weight_hprecision3d_triangulation_shiny
+    sort_by: weight_HPrecision3D_Triangulation_Shiny
 
 ---
 {{< figure src="header_img.png" class="project-section-wrap-image" width="600px" max_width="80%" >}}

@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Ph.D. Student in Optical Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Ph.D. Students
 ---
 Tianyi Wang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He obtained his bachelor's degree in physics from Nankai University. He has participated in projects related to Triangulation and Deflectometry. His current research interests focus on 3D imaging.

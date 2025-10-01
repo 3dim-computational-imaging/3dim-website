@@ -1,16 +1,16 @@
 ---
 # Display name
-title: John Bass
+title: Hyelim Yang
 
 # Full Name (for SEO)
-first_name: John
-last_name: Bass
+first_name: Hyelim
+last_name: Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +22,17 @@ bio: ''
 
 #interests:
 #  - Computational Imaging
-#  - Germany
+#  - 
 #  - ????? 
 #  
 #education:
 #  courses:
-#    - course:  Ph.D. in Optical Sciences
-#      institution: University of Arizona
+#    - course:  M.S. in Computer Science
+#      institution: ETH Zürich
 #      year: present
-#    - course: B.S. in Electrical and Optical Engineering
-#      institution: Rose-Hulman Institute of Technology
-#      year: 2022
+#    - course: B.S. in Computer Science and Mathematics
+#      institution: Northwestern University
+#      year: 2021
 #    - course: Postdoctoral Fellow
 #      institution: I3
 #      year: 2017
@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/john-bass-670836135/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=IoaV7uUAAAAJ&hl=en
+    link: https://www.linkedin.com/in/hyelim-yang-67a34886/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jmbass@arizona.edu'
+    link: 'mailto:hyelimyang@arizona.edu'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - M.S. Students
 ---
-John Bass is a PhD student in the Wyant College of Optical Sciences at the University of Arizona. His research is focused on coherent wavefront projection, correction, and phase conjugation at the limits of information theory. Prior to his Ph.D., he recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. He previously has worked as a systems engineer for Ball Aerospace.
+Hyelim Yang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. She obtained her bachelor’s degree in chemical engineering from the University of California, Berkeley. She completed a master’s degree in Chemical Engineering, Analytics, and Artificial Intelligence. Her current research interests focus on applying Deep learning to 3D imaging prediction.

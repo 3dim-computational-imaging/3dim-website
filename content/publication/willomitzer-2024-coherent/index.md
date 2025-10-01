@@ -23,7 +23,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Interferometry and Structured Light 2024*'
+publication: '*Interferometry and Structured Light 2024*, Vol. 13135'
 
 doi: '10.1117/12.3027269'
 

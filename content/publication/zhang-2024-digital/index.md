@@ -33,7 +33,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Emerging Digital Micromirror Device Based Systems and Applications XVI*'
+publication: '*Emerging Digital Micromirror Device Based Systems and Applications XVI*, (Vol. 12900)'
 
 doi: "10.1117/12.3001156"
 

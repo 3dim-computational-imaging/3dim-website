@@ -25,7 +25,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Adaptive Optics: Methods, Analysis and Applications*'
+publication: '*Adaptive Optics: Methods, Analysis and Applications*,  (pp. FD1-1)'
 
 doi: "10.1364/AOPT.2024.FD1.1"
 

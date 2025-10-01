@@ -180,6 +180,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Teaching
 
+- Fall Sem. 2025: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
 - Spring Sem. 2025: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2024: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
 - Spring Sem. 2024: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)
@@ -212,9 +213,13 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Invited Talks   
 
-- **Max Planck Institute for the Science of Light**, Erlangen, Germany, 2025   |  “Computational Imaging through Scattering Media and on Challenging Surfaces - About the Fun of Utilizing Nature’s Limits ” (Invited Talk)  |  [\[Announcement/Abstract\]](https://mpl.mpg.de/de/events/termin/florian-willomitzer-computational-imaging-through-scattering-media-and-on-challenging-surfaces-about-the-fun-of-utilizing-natures-limits)      
+- **University of Wisconsin-Madison**, USA, Biostatistics and Medical Informatics Department Seminar, 2025   |  “Computational Imaging on Optically Challenging Surfaces and Through Scattering Media - About the Fun of Utilizing Nature's Limits ” (Invited Talk)  |  [\[Announcement\]](https://today.wisc.edu/events/view/213316)     
 
-- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  |  “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)     
+- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2025  | “Synthetic wavelength imaging for industrial inspection and remote sensing” (Invited Talk, Authors: <u>Muralidhar Madabhushi Balaji</u>, Florian Willomitzer)  |   [\[Abstract\]](https://spie.org/optics-photonics/presentation/Synthetic-wavelength-imaging-for-industrial-inspection-and-remote-sensing/13610-18)     
+
+- **Max Planck Institute for the Science of Light**, Erlangen, Germany, 2025   |  “Computational Imaging through Scattering Media and on Challenging Surfaces - About the Fun of Utilizing Nature’s Limits” (Invited Talk)  |  [\[Announcement/Abstract\]](https://mpl.mpg.de/de/events/termin/florian-willomitzer-computational-imaging-through-scattering-media-and-on-challenging-surfaces-about-the-fun-of-utilizing-natures-limits)       
+
+- **SPIE Digital Optical Technologies**, Munich, Germany, 2025  |  “Accurate and Fast Eye Tracking using Computational Deflectometry” (Invited Talk)  |  [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13573/PC1357308/Accurate-and-fast-eye-tracking-using-computational-deflectometry/10.1117/12.3066307.short)   
 
 - **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**; CCD Workshop: Computational Cameras and Displays, Nashville, USA, 2025 |  "Coherent Computational Imaging with Synthetic Waves" (Invited Talk)  |  [\[Workshop Website\]](https://kristinamonakhova.com/ccd2025/)     
 

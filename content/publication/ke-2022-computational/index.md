@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Applied optics*'
+publication: '*Applied optics*, 61(9)'
 
 doi: "10.1364/AO.456133"
 
