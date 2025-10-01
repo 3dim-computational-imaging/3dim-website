@@ -26,7 +26,7 @@ sections:
             position: center
     design:
       slide_height: '25vh'
-	  slide_width: '33.333vh'
+      slide_width: '33.333vh'
       is_fullscreen: false
   - block: people
     content:
