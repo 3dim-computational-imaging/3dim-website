@@ -13,7 +13,7 @@ sections:
           align: center
           background:
             image:
-              filename: grp1.JPEG
+              filename: "Website Slider Photos/01.JPEG"
               size: 'contain'
             position: center
         - title: ''
@@ -21,12 +21,84 @@ sections:
           align: center
           background:
             image:
-              filename: grp2.JPEG
+              filename: "Website Slider Photos/02.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/03.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/04.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/05.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/06.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/07.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/08.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/09.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/10.JPEG"
+              size: 'contain'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "Website Slider Photos/11.JPEG"
               size: 'contain'
             position: center
     design:
       slide_height: '25vh'
-      slide_width: '33.333vh'
+      slide_width: '44.444vh'
       is_fullscreen: false
   - block: people
     content:
