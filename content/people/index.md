@@ -15,6 +15,7 @@ sections:
             image:
               filename: "website_slider_photos/01.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -23,6 +24,7 @@ sections:
             image:
               filename: "website_slider_photos/02.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -31,6 +33,7 @@ sections:
             image:
               filename: "website_slider_photos/03.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -39,6 +42,7 @@ sections:
             image:
               filename: "website_slider_photos/04.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -47,6 +51,7 @@ sections:
             image:
               filename: "website_slider_photos/05.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -55,6 +60,7 @@ sections:
             image:
               filename: "website_slider_photos/06.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -63,6 +69,7 @@ sections:
             image:
               filename: "website_slider_photos/07.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -71,6 +78,7 @@ sections:
             image:
               filename: "website_slider_photos/09.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -79,6 +87,7 @@ sections:
             image:
               filename: "website_slider_photos/10.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
         - title: ''
           content: ''
@@ -87,6 +96,7 @@ sections:
             image:
               filename: "website_slider_photos/11.jpg"
               size: 'contain'
+            color: '#f7f7f7'
             position: center
     design:
       slide_height: '33vh'
