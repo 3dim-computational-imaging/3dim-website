@@ -69,14 +69,6 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/08.jpg"
-              size: 'contain'
-            position: center
-        - title: ''
-          content: ''
-          align: center
-          background:
-            image:
               filename: "website_slider_photos/09.jpg"
               size: 'contain'
             position: center
