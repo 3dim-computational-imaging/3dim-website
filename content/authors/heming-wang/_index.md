@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Research Specialist
+role: Worked as Research Specialist in 3DIM Lab
 
 # Organizations/Affiliations
 organizations:

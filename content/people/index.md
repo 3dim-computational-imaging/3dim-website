@@ -5,28 +5,103 @@ date: 2022-10-24
 type: landing
 
 sections:
-#  - block: slider
-#    content:
-#      slides:
-#        - title: ''
-#          content: ''
-#          align: center
-#          background:
-#            image:
-#              filename: grp1.JPEG
-#              size: 'contain'
-#            position: center
-#        - title: ''
-#          content: ''
-#          align: center
-#          background:
-#            image:
-#              filename: grp2.JPEG
-#              size: 'contain'
-#            position: center
-#    design:
-#      slide_height: '400px'
-#      is_fullscreen: false
+  - block: slider
+    content:
+      slides:
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/01.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/02.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/03.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/04.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/05.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/06.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/07.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/09.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/10.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/11.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+    design:
+      slide_height: '33vh'
+      slide_width: '58.666vh'
+      is_fullscreen: false
   - block: people
     content:
       title: Our Team

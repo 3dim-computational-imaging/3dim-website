@@ -10,7 +10,7 @@ last_name: Forschner
 superuser: false
 
 # Role/position
-role: M.S. Student in Optical Sciences
+role: Graduated with M.S. in Optical Sciences
 
 # Organizations/Affiliations
 organizations:

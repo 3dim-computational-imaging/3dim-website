@@ -482,6 +482,39 @@ div.hero-row {
 	}
 }
 
-.carousel-item.active {
+#section-slider {
 	background-color: #f7f7f7;
+}
+
+.carousel-container {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 100%;
+}
+
+.carousel-item {
+	height:100%;
+}
+
+a.carousel-control-prev {
+	left: -20px;
+	width: auto;
+}
+
+a.carousel-control-next {
+	right: -20px;
+	width: auto;
+}
+
+.carousel-control-prev-icon {
+	background-size: 50%;
+}
+.carousel-control-next-icon {
+	background-size: 50%;
+}
+
+.carousel-inner {
+	height: 100%;
 }
