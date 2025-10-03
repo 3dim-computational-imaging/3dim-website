@@ -13,7 +13,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/01.JPEG"
+              filename: "website_slider_photos/01.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -21,7 +21,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/02.JPEG"
+              filename: "website_slider_photos/02.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -29,7 +29,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/03.JPEG"
+              filename: "website_slider_photos/03.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -37,7 +37,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/04.JPEG"
+              filename: "website_slider_photos/04.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -45,7 +45,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/05.JPEG"
+              filename: "website_slider_photos/05.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -53,7 +53,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/06.JPEG"
+              filename: "website_slider_photos/06.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -61,7 +61,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/07.JPEG"
+              filename: "website_slider_photos/07.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -69,7 +69,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/08.JPEG"
+              filename: "website_slider_photos/08.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -77,7 +77,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/09.JPEG"
+              filename: "website_slider_photos/09.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -85,7 +85,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/10.JPEG"
+              filename: "website_slider_photos/10.jpg"
               size: 'contain'
             position: center
         - title: ''
@@ -93,7 +93,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/11.JPEG"
+              filename: "website_slider_photos/11.jpg"
               size: 'contain'
             position: center
     design:
