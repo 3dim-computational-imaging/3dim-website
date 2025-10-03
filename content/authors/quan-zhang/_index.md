@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: M.S. Student in Computer Science
+role: Graduated with M.S. in Computer Science
 
 # Organizations/Affiliations
 # organizations:

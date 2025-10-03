@@ -13,7 +13,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Ph.D. candidate in Electrical and Computer Engineering
+role: Graduated with Ph.D. in Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:

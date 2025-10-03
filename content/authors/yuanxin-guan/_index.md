@@ -10,7 +10,7 @@ last_name: Guan
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in Optical Sciences
+role: Graduated with Ph.D. in Optical Sciences
 
 # Organizations/Affiliations
 organizations:
