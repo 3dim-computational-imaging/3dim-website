@@ -89,8 +89,8 @@ sections:
               size: 'contain'
             position: center
     design:
-      slide_height: '25vh'
-      slide_width: '44.444vh'
+      slide_height: '33vh'
+      slide_width: '58.666vh'
       is_fullscreen: false
   - block: people
     content:
