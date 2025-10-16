@@ -158,7 +158,7 @@ More...
 Research news featured on official University of Arizona Websites:  
 [**University of Arizona Press Release:** "New imaging tech promises to help doctors better diagnose and treat skin cancers" (Daniel Stolte, University Communications, Oct. 6, 2025)](https://news.arizona.edu/news/new-imaging-tech-promises-help-doctors-better-diagnose-and-treat-skin-cancers)    
 
-{{< a-rel src="web-snapshots/University_of_Arizona_Newsletter__10_15_2025_7_58_58 PM.html" >}}
+{{< a-rel src="web-snapshots/University_of_Arizona_Newsletter__10_15_2025_7_58_58_PM.html" >}}
 \[**Inside Arizona Research** (retrieved Oct. 15, 2025)\]{{< /a-rel >}}
 {{< a-rel src="web-snapshots/University_of_Arizona_Announcement_10_15_2025__5_17_22_PM.html" >}}
 \[**UANOW newsletter** (retrieved Oct. 15, 2025)\]{{< /a-rel >}}
