@@ -15,7 +15,7 @@ Here, we tackle the problem of seeing through scatter with our Synthetic Wavelen
 
 Besides the various SWI-based approached to image through scattering environments discussed below, our group has harnessed SWI as “high precision Time-of-Flight imaging” method to recover 3D profiles of optically rough surfaces in industrial inspection and computer vision applications (please see ”High-Precision Time-of-Flight Sensing with Synthetic Waves” below for more information). 
 
-{{< collapsible-section title="News and Press for Synthetic Wavelength Imaging research published in Nature Communications (Click to Expand)" id="news-header" >}}
+{{< collapsible-section title="Press coverage for Synthetic Wavelength Holography (published in Nature Communications) - Click to Expand" id="news-header" >}}
 Synthetic Wavelength Holography was {{< a-rel src="web-snapshots/NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html" >}}
 Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.{{< /a-rel >}}
 
@@ -154,7 +154,7 @@ More...
  
 {{< /collapsible-section >}}
 
-{{< collapsible-section title="News and Press for using Synthetic Wavelength techniques to image non-melanoma skin cancer (Click to Expand)" id="news-header-nih" >}}
+{{< collapsible-section title="Press coverage for using synthteic waves to image non-melanoma skin cancer (NIH grant) - Click to Expand" id="news-header-nih" >}}
 Official University of Arizona news release:   
 [**"New imaging tech promises to help doctors better diagnose and treat skin cancers"** (Daniel Stolte, University Communications, Oct. 6, 2025)](https://news.arizona.edu/news/new-imaging-tech-promises-help-doctors-better-diagnose-and-treat-skin-cancers) 
 
