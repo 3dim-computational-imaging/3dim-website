@@ -219,7 +219,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **University of Wisconsin-Madison**, USA, Biostatistics and Medical Informatics Department Seminar, 2025   |  “Computational Imaging on Optically Challenging Surfaces and Through Scattering Media - About the Fun of Utilizing Nature's Limits ” (Invited Talk)  |  [\[Announcement\]](https://today.wisc.edu/events/view/213316)     
 
-- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2025  | “Synthetic wavelength imaging for industrial inspection and remote sensing” (Invited Talk, Authors: <u>Muralidhar Madabhushi Balaji</u>, Florian Willomitzer)  |   [\[Abstract\]](https://spie.org/optics-photonics/presentation/Synthetic-wavelength-imaging-for-industrial-inspection-and-remote-sensing/13610-18)     
+- **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2025  | “Synthetic wavelength imaging for industrial inspection and remote sensing” (Invited Talk, Authors: <u>Muralidhar Madabhushi Balaji</u>, Florian Willomitzer)  |   [\[Abstract and Video\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13610/136100A/Synthetic-wavelength-imaging-for-industrial-inspection-and-remote-sensing/10.1117/12.3066656.short)        
 
 - **Max Planck Institute for the Science of Light**, Erlangen, Germany, 2025   |  “Computational Imaging through Scattering Media and on Challenging Surfaces - About the Fun of Utilizing Nature’s Limits” (Invited Talk)  |  [\[Announcement/Abstract\]](https://mpl.mpg.de/de/events/termin/florian-willomitzer-computational-imaging-through-scattering-media-and-on-challenging-surfaces-about-the-fun-of-utilizing-natures-limits)       
 
