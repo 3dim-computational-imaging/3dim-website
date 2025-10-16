@@ -167,7 +167,7 @@ Research news featured on official University of Arizona Websites:
 {{< a-rel src="web-snapshots/University_of_Arizona_Newsletter_10_15_2025__5_17_50_PM.html" >}}
 **UA Health Sciences Connect newsletter** (retrieved Oct. 15, 2025){{< /a-rel >}}  
 
---------  
+-----------
 
 Research news featured on external websites (selection):  
 
