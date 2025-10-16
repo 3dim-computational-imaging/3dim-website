@@ -154,7 +154,7 @@ More...
  
 {{< /collapsible-section >}}
 
-{{< collapsible-section title="Press coverage for using synthteic waves to image non-melanoma skin cancer (NIH grant) - Click to Expand" id="news-header-nih" >}}
+{{< collapsible-section title="Press coverage for using synthetic waves to image non-melanoma skin cancer (NIH grant) - Click to Expand" id="news-header-nih" >}}
 Research news featured on official University of Arizona Websites:  
 [**University of Arizona Press Release:** "New imaging tech promises to help doctors better diagnose and treat skin cancers" (Daniel Stolte, University Communications, Oct. 6, 2025)](https://news.arizona.edu/news/new-imaging-tech-promises-help-doctors-better-diagnose-and-treat-skin-cancers)    
 
