@@ -15,7 +15,7 @@ Here, we tackle the problem of seeing through scatter with our Synthetic Wavelen
 
 Besides the various SWI-based approached to image through scattering environments discussed below, our group has harnessed SWI as “high precision Time-of-Flight imaging” method to recover 3D profiles of optically rough surfaces in industrial inspection and computer vision applications (please see ”High-Precision Time-of-Flight Sensing with Synthetic Waves” below for more information). 
 
-{{< collapsible-section title="News and Press (Click to Expand)" id="news-header" >}}
+{{< collapsible-section title="News and Press for Synthetic Wavelength Imaging research published in Nature Communications (Click to Expand)" id="news-header" >}}
 Synthetic Wavelength Holography was {{< a-rel src="web-snapshots/NorthwesternUniversity_FacultyExpertsintheNews_12_2_2021__7_10_36AM.html" >}}
 Northwestern’s #3 media story in the week of Nov. 18-24, 2021 with a total reach of 3.2 million people within this week.{{< /a-rel >}}
 
@@ -152,4 +152,36 @@ More...
 [\[ITMedia (Chinese)\]](https://www.itmedia.co.jp/news/articles/2112/01/news044.html) |
 [**\[MORE...\]**](https://nature.altmetric.com/details/117068255/news) 
  
+{{< /collapsible-section >}}
+
+{{< collapsible-section title="News and Press for using Synthetic Wavelength techniques to image non-melanoma skin cancer (Click to Expand)" id="news-header-nih" >}}
+Official University of Arizona news release:   
+[**"New imaging tech promises to help doctors better diagnose and treat skin cancers"** (Daniel Stolte, University Communications, Oct. 6, 2025)](https://news.arizona.edu/news/new-imaging-tech-promises-help-doctors-better-diagnose-and-treat-skin-cancers) 
+
+----------
+
+Research news featured on University of Arizona websites:  
+{{< a-rel src="web-snapshots/University_of_Arizona_Announcement_10_15_2025__5_17_22_PM.html" >}}
+\[**University of Arizona UANOW newsletter** (retrieved Oct. 15, 2025)\]{{< /a-rel >}}
+
+{{< a-rel src="web-snapshots/University_of_Arizona_Newsletter_10_15_2025__5_17_50_PM.html" >}}
+\[**University of Arizona Health Sciences Connect newsletter** (retrieved Nov. 18, 2021)\]{{< /a-rel >}}
+
+--------  
+
+Research news featured on external websites (selection):  
+
+[**Medical News**: "Next-generation imaging promises sharper, deeper view of living tissues" (Oct. 7, 2025)](https://www.news-medical.net/news/20251007/Next-generation-imaging-promises-sharper-deeper-view-of-living-tissues.aspx)   
+
+[**Bioengineer.org**: "Cutting-Edge Imaging Technology Set to Revolutionize Skin Cancer Diagnosis and Treatment" (Oct. 7, 2025)](https://bioengineer.org/cutting-edge-imaging-technology-set-to-revolutionize-skin-cancer-diagnosis-and-treatment/)   
+
+[**The Engineer**: "Imaging tech to provide deeper view of skin cancers" (Oct. 8, 2025)](https://www.theengineer.co.uk/content/news/imaging-tech-offers-clearer-skin-cancer-views)  
+
+[**Medical Design & Outsourcing**: "University of Arizona researchers win $2.7M NIH award for noninvasive imaging technology" (Oct. 7, 2025)](https://www.medicaldesignandoutsourcing.com/university-of-arizona-researchers-win-2-7m-nih-award-for-noninvasive-imaging-technology/)   
+
+[**Gene Online:**: "University of Arizona Researchers Secure $2.7 Million NIH Grant to Develop Non-Invasive Skin Cancer Imaging Technology" (Oct. 7, 2025)](https://www.geneonline.com/university-of-arizona-researchers-secure-2-7-million-nih-grant-to-develop-non-invasive-skin-cancer-imaging-technology/)  
+
+[**Trending Now Facilities Management**: "Imaging tech to provide deeper view of skin cancers" (Oct. 8, 2025)](https://www.facilitiesmanagement-now.com/article/227870/imaging-tech-to-provide-deeper-view-of-skin-cancers?utm_source=facilitiesmanagement&utm_medium=newsfeed&utm_campaign=facilitiesmanagement-articleId-227870)  
+
+[**EurekAlert**: " New imaging tech promises to help doctors better diagnose and treat skin cancers" (Oct. 7, 2025)](https://www.eurekalert.org/news-releases/1101114)
 {{< /collapsible-section >}}
