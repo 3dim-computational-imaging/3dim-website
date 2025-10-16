@@ -213,6 +213,10 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Invited Talks   
 
+- **30th Microoptics Conference (MOC2025)**, Utsunomiya University (UU), Japan, 2025 | "Computational imaging through scattering media with synthetic waves" (Invited Talk)   
+
+- **University of Arizona (UA), Industrial Affiliates Fall Meeting**, Tucson, 2025 | "Computational 3D Imaging: From Fast and Accurate Industrial Inspection to “Seeing the Unseen”" (Invited Talk)   
+
 - **University of Wisconsin-Madison**, USA, Biostatistics and Medical Informatics Department Seminar, 2025   |  “Computational Imaging on Optically Challenging Surfaces and Through Scattering Media - About the Fun of Utilizing Nature's Limits ” (Invited Talk)  |  [\[Announcement\]](https://today.wisc.edu/events/view/213316)     
 
 - **SPIE Optics + Photonics**, Industrial Optical Devices and Systems, San Diego, 2025  | “Synthetic wavelength imaging for industrial inspection and remote sensing” (Invited Talk, Authors: <u>Muralidhar Madabhushi Balaji</u>, Florian Willomitzer)  |   [\[Abstract\]](https://spie.org/optics-photonics/presentation/Synthetic-wavelength-imaging-for-industrial-inspection-and-remote-sensing/13610-18)     
