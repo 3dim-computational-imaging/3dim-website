@@ -173,6 +173,12 @@ Research news featured on official University of Arizona Websites:
 
 Research news featured on external websites (selection):  
 
+[**Optics.org**: "University of Arizona synthetic wavelength imaging sees deeper into tissues" (Oct. 22, 2025)](https://optics.org/news/16/10/37)
+
+[**Photonics Spectra**: "Team applies synthetic wavelength imaging to skin cancer diagnoses, treatment" (Oct. 21, 2025)](https://www.photonics.com/Articles/Team-Applies-Synthetic-Wavelength-Imaging-to-Skin/a71548)
+
+[**Digital Journal**: "Imaging tech set to help doctors diagnose skin cancers" (Oct. 24, 2025)](https://www.digitaljournal.com/tech-science/imaging-tech-set-to-help-doctors-diagnose-skin-cancers/article)
+
 [**Medical News**: "Next-generation imaging promises sharper, deeper view of living tissues" (Oct. 7, 2025)](https://www.news-medical.net/news/20251007/Next-generation-imaging-promises-sharper-deeper-view-of-living-tissues.aspx)   
 
 [**Bioengineer.org**: "Cutting-Edge Imaging Technology Set to Revolutionize Skin Cancer Diagnosis and Treatment" (Oct. 7, 2025)](https://bioengineer.org/cutting-edge-imaging-technology-set-to-revolutionize-skin-cancer-diagnosis-and-treatment/)   
