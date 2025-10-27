@@ -213,6 +213,8 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 ### Invited Talks   
 
+**2025**   
+
 - **30th Microoptics Conference (MOC2025)**, Utsunomiya University (UU), Japan, 2025 | "Computational imaging through scattering media with synthetic waves" (Invited Talk)   
 
 - **University of Arizona (UA), Industrial Affiliates Fall Meeting**, Tucson, 2025 | "Computational 3D Imaging: From Fast and Accurate Industrial Inspection to “Seeing the Unseen”" (Invited Talk)   
@@ -231,7 +233,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, EVGEN Workshop: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, Tucson, USA, 2025  |  “Event-Based Computational 3D Imaging on Scenes with Mixed Reflectance Properties” (Invited Talk)  |  [\[Workshop Website\]](https://eventbasedvision.github.io/EVGEN2025/)
 
-- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA, 2025  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)   
+- **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, Workshop on Applications of Computational Imaging (WACI), Tucson, USA, 2025  |  “Coherent computational imaging with synthetic waves” (Invited Talk)  |  [\[Workshop Website\]](https://sites.google.com/kitware.com/waci2025/home)
+
+**2024**   
 
 - **National Institutes of Health (NIH)**, FARIA-NIH workshop on quantum and photonics research, Washington DC, 2024  |  “Dynamic Imaging through Scattering Media across Multiple Scales using Synthetic Waves” (Invited Talk)  |   [\[Event Website\]](https://www.faria.network/event-details/faria-nih-workshop-on-quantum-and-photonics-research)
 
