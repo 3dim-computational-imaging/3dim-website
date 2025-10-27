@@ -207,7 +207,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 - **SIGGRAPH 2023 Courses**, Los Angeles, 2023 | “Computational Interferometric Imaging” | A. Kotwal, F. Willomitzer, I. Gkioulekas   
   [\[Video (YouTube)\]](https://www.youtube.com/watch?v=8K0yN0Gbb1c) , [\[Course Website\]](https://imaging.cs.cmu.edu/interferometry_siggraph2023/)    
 
-</br>
+
 </br>
 
 
@@ -253,10 +253,11 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **American Physical Society (APS) March Meeting**, Minneapolis, 2024 | “Computational Imaging through Scatter using Synthetic Waves” (Invited Talk) | [\[Program\]](https://meetings.aps.org/Meeting/MAR24/Session/K30)   [\[Abstract\]](https://meetings.aps.org/Meeting/MAR24/Session/K30.5)
 
+**2023**  
+
 - **OPTICA Frontiers in Optics (FiO) Health Symposium**, Tacoma, 2023 | "Single-shot synthetic wavelength holography: a flexible approach for high-resolution imaging through scattering media" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1i6v_6ECne85xFTakR-UOBmACmnNSdZF_/view?usp=sharing) [\[Program\]](https://www.frontiersinoptics.com/home/program/symposia-health/)    
 
 - **University of Arizona (UA), Industrial Affiliates Fall Meeting**, Tucson, 2023 | "The Computational 3D Imaging and Measurement Lab - From Fast and Precise 3D Sensors to Looking Around Corners" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1KZqZay9qNLuXDld0RjFCk_4--a-GjdF1/view?usp=sharing)  
-
   
 - **OPTICA Imaging Congress**, 3D Image Acquisition and Display: Technology, Perception and Applications, Boston, 2023 | "Utilizing deflectometric information 
 for single-shot eye-tracking with high accuracy" (Invited Talk)  |  [\[Video\]](https://drive.google.com/file/d/1bp5wqilaquyfKsCQCFcYbjFcxk3K-fzq/view?usp=sharing)
@@ -266,6 +267,8 @@ for single-shot eye-tracking with high accuracy" (Invited Talk)  |  [\[Video\]](
 - **OPTICA Biophotonics Congress**, Vancouver, 2023 | "Macroscopic Imaging through Scattering Media using Single-Shot Synthetic Wavelength Holography" (Invited Talk)  
 
 - **Computational Imaging XXI**, Electronic Imaging, USA, 2023 | "Synthetic Wavelength Imaging - Exploiting Spectral Diversity for Absolute Phase Measurements through Scattering Scenes" (Invited Talk) | [\[Program and Abstract\]](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx)
+
+**2022**  
 
 - **TU Dresden**, Germany, Measurement Systems Seminar, 2022 | "About Imaging through Scatterers and the Fun of utilizing Nature’s Limits in Computational 3D Sensors" (Invited Talk) 
 
@@ -278,11 +281,12 @@ for single-shot eye-tracking with high accuracy" (Invited Talk)  |  [\[Video\]](
 [\[Announcement and Abstract\]](https://www.optics.arizona.edu/events/osc-colloquium-florian-willomitzer)
 
 
-- **Northwestern University (NU)**, USA, Center For Robotics and Biosystems Seminar, 2022 |"Utilizing Nature’s Limits for better Computational 3D Imaging" (Invited Talk) | 
-[\[Video (YouTube)\]](https://www.youtube.com/watch?v=3KkytY0H-0o) , [\[Announcement and Abstract\]](https://planitpurple.northwestern.edu/event/586977)
+- **Northwestern University (NU)**, USA, Center For Robotics and Biosystems Seminar, 2022 |"Utilizing Nature’s Limits for better Computational 3D Imaging" (Invited Talk) | [\[Video (YouTube)\]](https://www.youtube.com/watch?v=3KkytY0H-0o) , [\[Announcement and Abstract\]](https://planitpurple.northwestern.edu/event/586977)
 
   
 - **University of California Los Angeles (UCLA)** & **California Institute of Technology (Caltech)**, USA, Grundfest Lectures in Computational Imaging, 2022 | "Utilizing Nature’s Limits for better Computational 3D Imaging" (Invited Talk) | [\[Announcement and Abstract\]](https://visual.ee.ucla.edu/web_series/)
+
+**>2022**  
 
 - **University Erlangen-Nuremberg (FAU)**, Germany, Physics Colloquium Talk Series, 2021 | "Synthetic Wavelength Holography – Imaging around Corners and through Scattering Media at the Physical Space-Bandwidth Limit" (Invited Talk) | [\[Video\]](https://www.fau.tv/clip/id/33137.html) , [\[Announcement and Abstract\]](https://www.physics.nat.fau.eu/events/physikalisches-kolloquium-synthetic-wavelength-holography-%e2%80%93-imaging-around-corners-and-through-scattering-media-at-the-physical-space-bandwidth-limit/)  
   
