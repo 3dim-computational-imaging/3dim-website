@@ -215,6 +215,12 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 **2025**   
 
+- **OPTICA Frontiers in Optics (FiO)**, Fabrication, Design and Instrumentation (FiO 1), Denver, 2025 | "Computational 3D Sensing and Imaging through Scattering Media with Synthetic Waves" (Invited Talk)   
+
+- **Meta AR/VR/XR Optics Academic Forum**, Denver, 2025 | "Accurate and Fast Eye Tracking with Computational Deflectometry " (Invited Talk)   
+
+- **Asilomar Conference on Signals, Systems, and Computers**, Pacific Grove, 2025  | “Multi-Modal 3D Imaging on Specular Surfaces: Bridging Optical Metrology and Computer Vision” (Invited Talk, Authors: <u>Jiazhang Wang</u>, Florian Willomitzer)       
+
 - **30th Microoptics Conference (MOC2025)**, Utsunomiya University (UU), Japan, 2025 | "Computational imaging through scattering media with synthetic waves" (Invited Talk)   
 
 - **University of Arizona (UA), Industrial Affiliates Fall Meeting**, Tucson, 2025 | "Computational 3D Imaging: From Fast and Accurate Industrial Inspection to “Seeing the Unseen”" (Invited Talk)   
