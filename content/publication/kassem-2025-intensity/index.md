@@ -40,7 +40,7 @@ tags: ['SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
 landing_weight: 100
-weight_SWH_ImagingThroughScattering: 75
+weight_SWH_ImagingThroughScattering: 65
 
 
 # Display this page in a list of Featured pages?
