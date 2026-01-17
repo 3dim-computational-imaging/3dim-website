@@ -13,7 +13,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: Graduated with Ph.D. in Optical Sciences
 
 # Organizations/Affiliations
 organizations:

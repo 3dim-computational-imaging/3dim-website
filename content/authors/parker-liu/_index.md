@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Optical Sciences
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
