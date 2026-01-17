@@ -40,6 +40,9 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/pengyu-liu-675574194/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pengyuliu@arizona.edu'
@@ -64,4 +67,5 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
-Parker Liu is a doctoral candidate in Optical Sciences at the University of Arizona. His current research is in Synthetic Wave Imaging related application such as endoscopy using imaging through fiber. Previously he worked on various projects including holography, near-to-eye display, multi-perspective 3D Display, Digital Micromirror Devices, and optical and lens designs. He received his MS in Optical Science in 2022 and his BS in Optical Engineering in 2020, both from the University of Arizona.
+Parker (Pengyu) Liu is a Postdoctoral Researcher at the Wyant College of Optical Sciences at the University of Arizona. He recently graduated (December 2025) with his Ph.D. in Optical Sciences from the University of Arizona, under the mentorships of Dr. Florian Willomitzer and Dr. Yuzuru Takashima. His thesis is titled " Rethinking Near-to-Eye Displays and Holographic Fiber Endoscopy using Wavelength Multiplexing”, a cross-disciplinary exploration of holography, from the fields of Optical Engineering and Computational Imaging. From the Optical Engineering perspective, his work focused on the design and fabrication of Volume Holographic Gratings, with potential applications in AR/VR waveguide systems. On the Computational Imaging side, his research centered on Digital Holography that can be used for biomedical imaging applications. 
+Currently, he is part of the team at the 3DIM lab developing a Synthetic Wave Holography-based microscopy approach to help doctors better diagnose and treat skin cancers. Parker earned both his M.S. (2022) and B.S. (2020) in Optical Sciences and Engineering from the University of Arizona.
