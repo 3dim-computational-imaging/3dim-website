@@ -2,6 +2,9 @@
 # Display name
 title: Parker Liu
 
+# Link name
+slug: parker-liu-alumnus
+
 # Full Name (for SEO)
 first_name: Parker
 last_name: Liu
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 Parker Liu was a doctoral graduate from Optical Sciences at the University of Arizona in 2025. His current research is in Synthetic Wave Imaging related application such as endoscopy using imaging through fiber. Previously he worked on various projects including holography, near-to-eye display, multi-perspective 3D Display, Digital Micromirror Devices, and optical and lens designs. He received his MS in Optical Science in 2022 and his BS in Optical Engineering in 2020, both from the University of Arizona.
 

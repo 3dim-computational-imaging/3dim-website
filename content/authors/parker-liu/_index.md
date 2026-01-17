@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Postdoctoral Researchers
 ---
 Parker (Pengyu) Liu is a Postdoctoral Researcher at the Wyant College of Optical Sciences at the University of Arizona. He recently graduated (December 2025) with his Ph.D. in Optical Sciences from the University of Arizona, under the mentorships of Dr. Florian Willomitzer and Dr. Yuzuru Takashima. His thesis is titled " Rethinking Near-to-Eye Displays and Holographic Fiber Endoscopy using Wavelength Multiplexing”, a cross-disciplinary exploration of holography, from the fields of Optical Engineering and Computational Imaging. From the Optical Engineering perspective, his work focused on the design and fabrication of Volume Holographic Gratings, with potential applications in AR/VR waveguide systems. On the Computational Imaging side, his research centered on Digital Holography that can be used for biomedical imaging applications. 
 Currently, he is part of the team at the 3DIM lab developing a Synthetic Wave Holography-based microscopy approach to help doctors better diagnose and treat skin cancers. Parker earned both his M.S. (2022) and B.S. (2020) in Optical Sciences and Engineering from the University of Arizona.
