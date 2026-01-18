@@ -72,6 +72,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Assistant Research Professors and Postdoctoral Researchers
 ---
 Jiazhang Wang is a Postdoctoral Researcher at the Wyant College of Optical Sciences, University of Arizona. He received his Ph.D. in Electrical Engineering from Northwestern University, where he conducted research under the supervision of Professors Florian Willomitzer and Oliver Cossairt. He earned his M.S. degree from Columbia University in 2019 and his B.S. degree from Huazhong University of Science and Technology in 2017. His research focuses on the intersection of optical metrology, machine vision, and computational photography. His work is dedicated to advancing the next generation of 3D imaging sensors through the integration of high-precision optical measurement techniques with modern computer vision methodologies.

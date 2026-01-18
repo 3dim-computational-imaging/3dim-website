@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Assistant Research Professors and Postdoctoral Researchers
 ---
 Gregory Nero is a Postdoctoral Researcher at the Wyant College of Optical Sciences at The University of Arizona where they also earned their PhD under the supervision of Dr. David Brady and Dr. Yuzuru Takashima. Their research interests currently include computational imaging, displays, and free-space optical communication networks. Prior to this they graduated with a BS in Imaging Science from RIT in 2020.
