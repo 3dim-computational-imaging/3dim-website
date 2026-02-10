@@ -143,6 +143,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 **Program Chair**, OSA Computational Optical Sensing and Imaging (COSI), 2020  
 
 
+**Program Committee**,	OSA Frontiers in Optics (FiO), 2026   
+**Program Committee**,	SPIE Industrial Optical Devices and Systems (ODS), 2026   
+**Program Committee**,	OSA Computational Optical Sensing and Imaging (COSI), 2026   
 **Program Committee**,	OSA Frontiers in Optics (FiO), 2025   
 **Program Committee**,	SPIE Industrial Optical Devices and Systems (ODS), 2025   
 **Program Committee**,	OSA Computational Optical Sensing and Imaging (COSI), 2025    
@@ -178,8 +181,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 </br>
 </br>
 
-### Teaching
+### Teaching  
 
+- Spring Sem. 2026: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2025: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
 - Spring Sem. 2025: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2024: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
@@ -212,6 +216,12 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 
 ### Invited Talks   
+
+**2026**   
+
+- **Technology for Innovators, Physicians & Scientists (TIPS)**, Annual Meeting, Tucson, 2026 | "Computational 3D Sensing for Quantitative Tissue Imaging: Opportunities and Challenges" (Invited Talk)  |  [\[Program\]](https://tipsconference.org/)  
+
+
 
 **2025**   
 
