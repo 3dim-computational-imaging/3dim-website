@@ -219,11 +219,11 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 **2026**   
 
-- **Machine Learning for Scientific Imaging**, Electronic Imaging, USA, 2026 | "Coherent computational imaging with synthetic waves" (Invited Talk) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_MLSI.aspx#MLSI-301)   
+- **Electronic Imaging 26**, Machine Learning for Scientific Imaging, USA, 2026 | "Coherent computational imaging with synthetic waves" (Invited Talk) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_MLSI.aspx#MLSI-301)   
   
-- **Computational Imaging XXIV**, Electronic Imaging, USA, 2026 | "Optimization-based semiconductor thin-film inspection" (Invited Talk; <u>Bass</u>, Ballester, Willomitzer) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_COIMG.aspx#COIMG-136)   
+- **Electronic Imaging 26**, Computational Imaging XXIV,  USA, 2026 | "Optimization-based semiconductor thin-film inspection" (Invited Talk; <u>Bass</u>, Ballester, Willomitzer) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_COIMG.aspx#COIMG-136)   
 
-- **Computational Imaging XXIV**, Electronic Imaging, USA, 2026 | "Multi-modal computational 3D imaging for specular surfaces" (Invited Talk; <u>Wang</u>, Willomitzer) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_COIMG.aspx#COIMG-173)     
+- **Electronic Imaging 26**, Computational Imaging XXIV, USA, 2026 | "Multi-modal computational 3D imaging for specular surfaces" (Invited Talk; <u>Wang</u>, Willomitzer) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_COIMG.aspx#COIMG-173)     
 
 - **Technology for Innovators, Physicians & Scientists (TIPS)**, Annual Meeting, Tucson, 2026 | "Computational 3D Sensing for Quantitative Tissue Imaging: Opportunities and Challenges" (Invited Talk)  |  [\[Program\]](https://tipsconference.org/)    
 
