@@ -28,7 +28,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: '*optica open preprint*'
+publication: '*Optica Open Preprint*'
 
 doi: '10.1364/opticaopen.31628038'
 
