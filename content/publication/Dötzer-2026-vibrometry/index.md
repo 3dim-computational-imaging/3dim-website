@@ -44,7 +44,7 @@ weight_SWH_ImagingThroughScattering: 65
 
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: 'https://preprints.opticaopen.org/articles/preprint/Full-Field_Vibrometry_Through_Scattering_Media_Using_Synthetic_Wavelength_Holography/31628038?file=63061354'
