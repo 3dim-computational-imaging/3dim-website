@@ -78,6 +78,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 Jiwon Choi is a PhD student in Optical Sciences at the University of Arizona. Her work focuses on integrating machine learning in various optical 3D metrology and 3D imaging techniques. In particular, Jiwon’s work exploits deflectometry and deep learning to estimate the eye’s gaze direction based on its surface reflections. Prior to joining the PhD program, she received her M.S. degree in Computer Science from Northwestern University.

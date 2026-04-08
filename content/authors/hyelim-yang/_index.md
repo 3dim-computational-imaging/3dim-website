@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 Hyelim Yang is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. She obtained her bachelor’s degree in chemical engineering from the University of California, Berkeley. She completed a master’s degree in Chemical Engineering, Analytics, and Artificial Intelligence. Her current research interests focus on applying Deep learning to 3D imaging prediction.

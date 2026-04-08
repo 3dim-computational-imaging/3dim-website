@@ -10,7 +10,7 @@ last_name: Pena
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Graduated with M.S. in Optical Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
-Enrique Peña Dávalos is a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He received his bachelor’s degree in Engineering Physics at Tec de Monterrey in 2021. Previously he has worked in the software industry at Cemex Ventures and Blue Yonder. Current research focused on characterization of tissue, and areas of interest are optical metrology, computational imaging and designing optical systems.
+Enrique Peña Dávalos was a master’s student in the Wyant College of Optical Sciences at the University of Arizona. He received his bachelor’s degree in Engineering Physics at Tec de Monterrey in 2021. Previously he has worked in the software industry at Cemex Ventures and Blue Yonder. Current research focused on characterization of tissue, and areas of interest are optical metrology, computational imaging and designing optical systems.
