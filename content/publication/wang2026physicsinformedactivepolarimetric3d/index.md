@@ -26,7 +26,7 @@ publication_types:
 - manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint arXiv:2602.19470*'
+publication: '*arXiv preprint*'
 
 doi: '10.48550/arXiv.2602.19470'
 
