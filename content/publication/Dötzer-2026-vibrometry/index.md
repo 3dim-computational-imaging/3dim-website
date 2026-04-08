@@ -6,11 +6,11 @@ title: Full-Field Vibrometry Through Scattering Media Using Synthetic Wavelength
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- florian-doetzer
+- Florian Doetzer
 - murali-balaji
 - patrick-cornwall
 - tianyi-wang
-- stefan-sinzinger
+- Stefan Sinzinger
 - florian-willomitzer
 
 # Author notes (such as 'Equal Contribution')
