@@ -1,5 +1,5 @@
 ---
-title: Computational light-in-flight imaging using synthetic waves
+title: 3D endoscopy in scattering environments using synthetic wavelength holography
 
 # Authors
 # A YAML list of author names
@@ -44,7 +44,7 @@ featured: false
 
 # Links
 url_pdf: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13865/1386505/3D-endoscopy-in-scattering-environments-using-synthetic-wavelength-holography/10.1117/12.3081477.full?tab=ArticleLink'
-url_code: 'https://doi.org/10.1117/12.3081477'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
