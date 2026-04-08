@@ -40,7 +40,7 @@ tags: ['Precision_3D_SWH']
 
 # Weights for project pages + the landing page
 landing_weight: 100
-weight_SWH_ImagingThroughScattering: 65
+weight_Precision_3D_SWH: 65
 
 
 # Display this page in a list of Featured pages?
