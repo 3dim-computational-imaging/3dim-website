@@ -10,7 +10,7 @@ last_name: Ballester
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in Electrical and Computer Engineering
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliated Students
+  - Assistant Research Professors and Postdoctoral Researchers
 ---
 Manuel Ballester is a doctoral candidate at Northwestern University and a member of the 3DIM lab led by Prof. Willomitzer. His research applies novel optimization techniques, advanced computational methods, and machine learning approaches to optics and imaging problems. He works on synthetic wavelength imaging and the improvement of holographic displays. He is also interested in the material characterization of semiconductors (such as CZT and Silicon) to improve sensor performance.
 Manuel completed his BSc in Mathematics in 2018 at the University of Cadiz. He received an MSc in Optical Physics in 2021 at the University of Erlangen-Nuremberg.
