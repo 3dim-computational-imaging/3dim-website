@@ -98,7 +98,7 @@ sections:
               size: 'contain'
             color: '#f7f7f7'
             position: center
-		- title: ''
+        - title: ''
           content: ''
           align: center
           background:
@@ -107,7 +107,7 @@ sections:
               size: 'contain'
             color: '#f7f7f7'
             position: center
-		- title: ''
+        - title: ''
           content: ''
           align: center
           background:
