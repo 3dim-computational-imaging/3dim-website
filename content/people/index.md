@@ -76,6 +76,15 @@ sections:
           align: center
           background:
             image:
+              filename: "website_slider_photos/08.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
               filename: "website_slider_photos/09.jpg"
               size: 'contain'
             color: '#f7f7f7'
@@ -89,12 +98,21 @@ sections:
               size: 'contain'
             color: '#f7f7f7'
             position: center
-        - title: ''
+		- title: ''
           content: ''
           align: center
           background:
             image:
               filename: "website_slider_photos/11.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+		- title: ''
+          content: ''
+          align: center
+          background:
+            image:
+              filename: "website_slider_photos/12.jpg"
               size: 'contain'
             color: '#f7f7f7'
             position: center
@@ -109,13 +127,13 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Director
+		  - Administration
           - Assistant Research Professors and Postdoctoral Researchers
           - Ph.D. Students
           - M.S. Students
           - Affiliated Students
           - Visitors
           - Alumni
-          - Administration
       sort_by: Params.last_name
       sort_ascending: true
     design:
