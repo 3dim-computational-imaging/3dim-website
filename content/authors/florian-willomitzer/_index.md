@@ -215,9 +215,13 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 </br>
 
 
-### Invited Talks   
+### Invited Talks and Keynotes   
 
 **2026**   
+  
+- Keynote: **SPIE Optical Systems Design**, Computational Optics, Strasbourg, 2026  | “Harnessing nature’s limits: computational 3D imaging from fast industrial inspection to “seeing the unseen” ” (Invited Keynote)  |   [\[Program and Abstract\]](https://spie.org/optical-systems-design/presentation/Harnessing-natures-limits--computational-3D-imaging-from-fast-industrial/14110-1)    
+
+- **SPIE Photonics Europe**, Optics and Photonics for Advanced Dimensional Metrology, Strasbourg, 2026  | “Multi-Modal Computational 3D Imaging on Specular and Glossy Surfaces ” (Invited Talk)  |   [\[Program and Abstract\]](https://spie.org/photonics-europe/presentation/Multi-Modal-Computational-3D-Imaging-on-Specular-and-Glossy-Surfaces/14084-1)     
 
 - **Electronic Imaging 26**, Machine Learning for Scientific Imaging, USA, 2026 | "Coherent computational imaging with synthetic waves" (Invited Talk) | [\[Program and Abstract\]](https://www.imaging.org/IST/IST/Conferences/EI/EI2026/Conference/C_MLSI.aspx#MLSI-301)   
   
