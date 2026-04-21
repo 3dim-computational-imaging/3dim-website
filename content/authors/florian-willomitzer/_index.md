@@ -128,7 +128,9 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 ### Publications
 
 [Selected publications](/#pub_list)  
-[All publications by year](/publications/)  
+[All publications by year](/publications/)    
+
+[Google Scholar (for latest updates)](https://scholar.google.com/citations?hl=en&user=XdCdz4oAAAAJ&view_op=list_works)  
 
 
 </br>
