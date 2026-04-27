@@ -1,6 +1,6 @@
 ---
 title: Adaptive Optics for Light Transport through Scatter and Turbulence
-section_weight: 50
+section_weight: 100
 type: subproject
 
 media:
