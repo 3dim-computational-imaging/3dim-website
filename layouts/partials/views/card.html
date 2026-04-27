@@ -21,7 +21,7 @@
 {{ end }}
 
 {{/* Get display title */}}
-{{ $display_title = $item.Title }}
+{{ $display_title := $item.Title }}
 {{ if $item.Params.display_title }}
 	{{ $display_title = $item.Params.display_title }}
 {{ end }}
