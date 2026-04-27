@@ -33,7 +33,7 @@ doi: '10.48550/arXiv.2602.19470'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Physics_informed_Polarimetric_Deflectometry']
+tags: 'HPrecision3D-Polarization-Deflectometry'
 
 # Weights for project pages + the landing page
 landing_weight: 50
