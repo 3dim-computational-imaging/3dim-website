@@ -20,6 +20,12 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{/* Get display title */}}
+{{ $display_title = $item.Title }}
+{{ if $item.Params.display_title }}
+	{{ $display_title = $item.Params.display_title
+{{ end }}
+
 <div class="card-simple view-card">
   {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
@@ -33,7 +39,7 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $display_title }}</a>
   </div>
 
   {{ if $has_attachments }}

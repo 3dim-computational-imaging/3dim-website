@@ -4,6 +4,7 @@ weight: 30
 
 # Title
 title: Computational wavefront control for communications and adaptive light transport through scatter and turbulence
+display_title: Computational wavefront control for adaptive light transport
 
 # Summary (if no summary, enter ''. Make sure to include a space after the colon.)
 summary: ''
