@@ -38,10 +38,10 @@ doi: '10.1117/12.3079501'
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['AdaptiveOptics']
+tags: ['CompWavefrontControl_PAT']
 
 # Weights for project pages + the landing page
-weight_AdaptiveOptics: 130
+weight_CompWavefrontControl_PAT: 100
 
 # Display this page in a list of Featured pages?
 featured: false

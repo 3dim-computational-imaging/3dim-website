@@ -36,10 +36,10 @@ publication_short: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['AdaptiveOptics']
+tags: ['CompWavefrontControl_AO']
 
 # Weights for project pages + the landing page
-weight_AdaptiveOptics: 110
+weight_CompWavefrontControl_AO: 90
 
 # Display this page in a list of Featured pages?
 featured: true
