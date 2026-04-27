@@ -1,6 +1,7 @@
 ---
 # Weight on landing page
 weight: 30
+sort_by: section_weight
 
 # Title
 title: Computational wavefront control for communications and adaptive light transport through scatter and turbulence
