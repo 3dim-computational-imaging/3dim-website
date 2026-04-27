@@ -69,3 +69,11 @@ user_groups:
   - Ph.D. Students
 ---
 John Bass is a PhD student in the Wyant College of Optical Sciences at the University of Arizona. His research is focused on coherent wavefront projection, correction, and phase conjugation at the limits of information theory. Prior to his Ph.D., he recieved a bachelor’s degree in electrical and optical engineering from Rose-Hulman Institute of Technology in 2022. Outside of his educational track, John interned for the Naval Research Laboratory in 2025, where he worked on referenceless wavefront estimation and novel computational methods estimating the atmospheric Cn2. Additionally, from 2020-2022 John participated in multiple internships at Ball Aerospace, where he did systems engineering and radiometric modelling for multiple satellite programs.
+
+**Journal Publications:**
+
+\[1\] John M. Bass, Manuel Ballester, Susana M. Fernández, Aggelos K. Katsaggelos, Emilio Márquez, and Florian Willomitzer, "Angular spectrum approach to inverse synthesis for the characterization of optical and geometrical properties of semiconductor thin films," Opt. Express 33, 29939-29956 (2025) 
+
+**Invited Talks:**
+
+\[1\] John M. Bass, Manuel Ballester, and Florian Willomitzer, "Optimization-based semiconductor thin-film inspection," Electronic Imaging 2026.
