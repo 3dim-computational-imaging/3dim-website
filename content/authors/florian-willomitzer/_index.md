@@ -208,7 +208,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 ### Selected Contributed Talks and other Talks 
 
 - <span style="color:red"> **TEDx Nuremberg**</span>, 2022 | "A holographic camera that can see the unseen" | F. Willomitzer    
-[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/history-disrupt-and-change)    
+[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/disrupt-change/)    
 
 - **SIGGRAPH 2023 Courses**, Los Angeles, 2023 | “Computational Interferometric Imaging” | A. Kotwal, F. Willomitzer, I. Gkioulekas   
   [\[Video (YouTube)\]](https://www.youtube.com/watch?v=8K0yN0Gbb1c) , [\[Course Website\]](https://imaging.cs.cmu.edu/interferometry_siggraph2023/)    
