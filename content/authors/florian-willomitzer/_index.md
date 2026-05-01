@@ -208,7 +208,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 ### Selected Contributed Talks and other Talks 
 
 - <span style="color:red"> **TEDx Nuremberg**</span>, 2022 | "A holographic camera that can see the unseen" | F. Willomitzer    
-[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/history-disrupt-and-change)    
+[\[Video (YouTube)\]](https://www.youtube.com/watch?v=yf6NgZcit28) , [\[Event page\]](https://tedxnuremberg.com/disrupt-change/)    
 
 - **SIGGRAPH 2023 Courses**, Los Angeles, 2023 | “Computational Interferometric Imaging” | A. Kotwal, F. Willomitzer, I. Gkioulekas   
   [\[Video (YouTube)\]](https://www.youtube.com/watch?v=8K0yN0Gbb1c) , [\[Course Website\]](https://imaging.cs.cmu.edu/interferometry_siggraph2023/)    
@@ -220,8 +220,12 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 ### Invited Talks and Keynotes   
 
 **2026**   
+
+- *Webinar*: **SPIE Henri Poincaré Webinar Series on Optical Polarization and Related Phenomena**,  | “Harnessing nature’s limits in computational 3D imaging: from inspection of challenging surfaces to “seeing the unseen” ” (Invited Webinar)  |   [\[Abstract and Recording\]](https://spie.org/conferences-and-exhibitions/spie-online/poincare-series)    
+
+- **SPIE D+S**; 3D Imaging, Visualization, and Display; National Harbor, USA, 2026 | "Multi-Modal Computational 3D Imaging on Specular and Mixed Reflectance Surfaces" (Invited Talk)  |  [\[Program and Abstract\]](https://spie.org/defense-security/presentation/Multi-Modal-Computational-3D-Imaging-on-Specular-and-Mixed-Reflectance/14033-13)     
   
-- Keynote: **SPIE Optical Systems Design**, Computational Optics, Strasbourg, 2026  | “Harnessing nature’s limits: computational 3D imaging from fast industrial inspection to “seeing the unseen” ” (Invited Keynote)  |   [\[Program and Abstract\]](https://spie.org/optical-systems-design/presentation/Harnessing-natures-limits--computational-3D-imaging-from-fast-industrial/14110-1)    
+- *Keynote*: **SPIE Optical Systems Design**, Computational Optics, Strasbourg, 2026  | “Harnessing nature’s limits: computational 3D imaging from fast industrial inspection to “seeing the unseen” ” (Invited Keynote)  |   [\[Program and Abstract\]](https://spie.org/optical-systems-design/presentation/Harnessing-natures-limits--computational-3D-imaging-from-fast-industrial/14110-1)    
 
 - **SPIE Photonics Europe**, Optics and Photonics for Advanced Dimensional Metrology, Strasbourg, 2026  | “Multi-Modal Computational 3D Imaging on Specular and Glossy Surfaces ” (Invited Talk)  |   [\[Program and Abstract\]](https://spie.org/photonics-europe/presentation/Multi-Modal-Computational-3D-Imaging-on-Specular-and-Glossy-Surfaces/14084-1)     
 
@@ -265,7 +269,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 **2024**   
 
-- **National Institutes of Health (NIH)**, FARIA-NIH workshop on quantum and photonics research, Washington DC, 2024  |  “Dynamic Imaging through Scattering Media across Multiple Scales using Synthetic Waves” (Invited Talk)  |   [\[Event Website\]](https://www.faria.network/event-details/faria-nih-workshop-on-quantum-and-photonics-research)     
+- *Webinar*: **National Institutes of Health (NIH)**, FARIA-NIH workshop on quantum and photonics research, Washington DC, 2024  |  “Dynamic Imaging through Scattering Media across Multiple Scales using Synthetic Waves” (Invited Talk)  |   [\[Event Website\]](https://www.faria.network/event-details/faria-nih-workshop-on-quantum-and-photonics-research)     
 
 - **University of Maryland (UMD)**, Computer Vision Seminar Series, College Park, 2024 |  “Computational Imaging on Shiny and Specular Surfaces: From Tablet-Based 3D Measurements to Accurate and Fast Eye Tracking” (Invited Talk)  |  [\[Abstract\]](https://talks.cs.umd.edu/talks/4028)      
 
@@ -277,7 +281,7 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 - **14th International Conference on Optics-Photonics Design and Fabrication (ODF)**, Tucson, 2024  | “Coherent Computational Imaging with Synthetic Light Fields” (Invited Talk)    
 
-- **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2024” | “About the Fun of Utilizing Nature’s Limits for Better Computational 3D Imaging” (Invited Talk)   
+- *Webinar*: **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2024” | “About the Fun of Utilizing Nature’s Limits for Better Computational 3D Imaging” (Invited Talk)   
 
 - **American Physical Society (APS) March Meeting**, Minneapolis, 2024 | “Computational Imaging through Scatter using Synthetic Waves” (Invited Talk) | [\[Program\]](https://meetings.aps.org/Meeting/MAR24/Session/K30)   [\[Abstract\]](https://meetings.aps.org/Meeting/MAR24/Session/K30.5)   
 
