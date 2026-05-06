@@ -21,7 +21,7 @@ organizations:
 bio: ''
 
 # Fixed URL:
-fixedURL = 'https://optics.arizona.edu/person/carolina-herrera'
+fixedURL: 'https://optics.arizona.edu/person/carolina-herrera'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
