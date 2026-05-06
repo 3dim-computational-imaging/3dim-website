@@ -46,6 +46,9 @@
       {{ $link := "" }}
       {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
         {{ $link = .RelPermalink }}
+		{{ if .Params.fixedURL }}
+			{{ $link = .Params.fixedURL }}
+		{{ end }}
       {{ end }}
       <div class="col-12 col-sm-auto people-person">
         {{ $src := "" }}

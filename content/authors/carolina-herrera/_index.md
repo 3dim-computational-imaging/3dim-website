@@ -20,20 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-#interests:
-#  - Computational Imaging
-#  - Germany
-#  - ????? 
-#  
-#education:
-#  courses:
-#    - course:  Ph.D. in Optical Sciences
-#      institution: University of Arizona
-#      year: present
-#
-#    - course: Postdoctoral Fellow
-#      institution: I3
-#      year: 2017
+# Fixed URL:
+fixedURL = 'https://optics.arizona.edu/person/carolina-herrera'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
