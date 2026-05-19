@@ -17,7 +17,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2026-05-20'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-05-03T19:51:44.501909Z'
@@ -28,9 +28,10 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+# publication: '*arXiv preprint*'
+publication: '*Nature Communications*'
 
-doi: "10.48550/arXiv.2311.09652"
+doi: "10.1038/s41467-026-72254-6"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,8 +44,12 @@ landing_weight: 170
 # Display this page in a list of Featured pages?
 featured: true
 
+# Preprint info
+url_preprint: 'https://arxiv.org/abs/2311.09652'
+preprint_date: '2023'
+
 # Links
-url_pdf: 'https://arxiv.org/abs/2311.09652'
+url_pdf: 'https://doi.org/10.1038/s41467-026-72254-6'
 url_code: ''
 url_dataset: ''
 url_poster: ''
