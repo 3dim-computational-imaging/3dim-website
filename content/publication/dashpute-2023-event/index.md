@@ -1,5 +1,6 @@
 ---
-title: Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes
+# title: Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes
+title: Accurate and fast event-based shape measurement of mixed reflectance scenes
 
 # Authors
 # A YAML list of author names
