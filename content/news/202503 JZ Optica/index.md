@@ -1,5 +1,6 @@
 ---
 # Put date here. Format is YYYY-MM-DD. You need to add a day, but it won't display.
-date: 2026-04-15
+date: 2025-03-27
 ---
-Floirian delivers [Keynote](https://spie.org/optical-systems-design/presentation/Harnessing-natures-limits--computational-3D-imaging-from-fast-industrial/14110-1) at Computational Optics in SPIE Optical Systems Design, Strasbourg. See ["Invited talks and Keynotes"](https://3dim.optics.arizona.edu/author/florian-willomitzer/#invited-talks-and-keynotes) for more info. 
+Paper about [polarimetric and deflectometric 3D measurements of complex specular surfaces](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446&id=569660) is published in **OPTICA** and featured in [Wyant College News](https://optics.arizona.edu/news/beyond-ambiguous-reflections-bridging-optical-3d-metrology-and-computer-vision), [Phys.org](https://phys.org/news/2025-03-ambiguous-bridging-optical-3d-metrology.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/03/250327141553.htm), and [more...](projects/industrialinspection/p-deflectometry/)
+
