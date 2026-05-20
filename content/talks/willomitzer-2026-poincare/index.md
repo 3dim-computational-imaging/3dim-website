@@ -3,7 +3,7 @@
 title: 'Harnessing nature’s limits in computational 3D imaging: from inspection of challenging surfaces to “seeing the unseen” '
 
 # Talk Weights (used for order on different pages)
-landing_weight: 15
+landing_weight: 9
 
 
 # Talk Tags (used for categorization into projects)
