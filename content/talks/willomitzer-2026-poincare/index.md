@@ -22,7 +22,7 @@ location: 'SPIE Henri Poincaré Webinar Series on Optical Polarization and Relat
 date: 2026-04-18
 
 # Link to Talk
-https://spie.org/conferences-and-exhibitions/spie-online/poincare-series
+external_link: https://spie.org/conferences-and-exhibitions/spie-online/poincare-series
 
 summary: 'Overview about research philosophy and projects. Overview about research philosophy and projects.'
 image:
