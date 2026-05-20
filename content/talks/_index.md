@@ -6,6 +6,6 @@ view: community/talk_compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
+  caption: 'See list of [Invited Talks and Keynotes](/author/florian-willomitzer/#invited-talks-and-keynotes) for links to most recent talks.'
   image: ''
 ---
