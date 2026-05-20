@@ -23,4 +23,10 @@ external_link: https://www.youtube.com/watch?v=3KkytY0H-0o
 summary: ''
 image:
   preview-only: true
+  
+# Build options (to hide talk)
+build:
+  list: never
+  publishResources: false
+  render: never
 ---
