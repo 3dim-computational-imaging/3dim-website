@@ -34,14 +34,14 @@
 
 {{ if $.Params.paginationoverride }}
 {{ range $index, $post := $sortedPages }}
-	{{ if not $.Params.unlisted }}
+	{{ if not $post.Params.unlisted }}
 		{{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
 	{{ end }}
 {{end}}
 {{ else }}
 {{ $paginator := .Paginate $sortedPages }}
 {{ range $index, $post := $paginator.Pages }}
-	{{ if not $.Params.unlisted }}
+	{{ if not $post.Params.unlisted }}
 		{{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
 	{{ end }}
 {{end}}
