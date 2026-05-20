@@ -24,7 +24,7 @@ date: 2026-04-18
 # Link to Talk
 external_link: https://spie.org/conferences-and-exhibitions/spie-online/poincare-series
 
-summary: 'Overview about research philosophy and projects. Overview about research philosophy and projects.'
+summary: 'Overview about research philosophy and projects.'
 image:
   preview-only: true
 ---
