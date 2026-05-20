@@ -3,7 +3,7 @@
 title: 'The Computational 3D Imaging and Measurement Lab - From Fast and Precise 3D Sensors to Looking Around Corners'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 9
+landing_weight: 6
 weight_EyeTracking_Main: 90
 weight_SWI_Main: 10
 

@@ -9,3 +9,7 @@ banner:
   caption: ''
   image: ''
 ---
+
+{{< center >}}See list of ['Invited Talks and Keynotes'](/author/florian-willomitzer/#invited-talks-and-keynotes) for links to most recent talks and recordings.{{< /center >}}
+<br>
+<br>

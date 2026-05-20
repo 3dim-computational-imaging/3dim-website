@@ -108,7 +108,7 @@ sections:
     id: talks
     content:
       title: Talks
-      subtitle: 'See our [talk archive>>](/talks) for more recordings'
+      subtitle: 'See our [talk archive>>](/talks) for more recordings. See list of [Invited Talks and Keynotes>>](/author/florian-willomitzer/#invited-talks-and-keynotes) for links to most recent talks and recordings.'
       text:
       count: 4
       filters:
