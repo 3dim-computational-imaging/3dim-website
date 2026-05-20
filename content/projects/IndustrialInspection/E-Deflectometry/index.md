@@ -19,3 +19,11 @@ This novel procedure allows us to use the entire scene as a virtual screen, usin
 Research news featured on official University of Arizona Websites: 
 
 [**University of Arizona News Release:** "Turning surroundings into a 'virtual screen' could help machines to better see in 3D" (May. 20, 2026)](https://news.arizona.edu/news/turning-surroundings-virtual-screen-could-help-machines-better-see-3d)
+
+--------  
+Research news featured on external websites (selection):  
+[**Bioengineer**: "Transforming Environments into a ‘Virtual Screen’ Enhances 3D Machine Vision" (May. 20, 2026)](https://bioengineer.org/transforming-environments-into-a-virtual-screen-enhances-3d-machine-vision/)  
+
+[**Science Blog**: "How Turning a Room Into a Giant Screen Gives Machines the 3D Vision They’ve Always Lacked" (May. 20, 2026)](https://scienceblog.com/how-turning-a-room-into-a-giant-screen-gives-machines-the-3d-vision-theyve-always-lacked/)  
+
+[**Interesting Engineering**: "3D-sensing technology could improve self-driving cars and robotic surgery" (May. 20, 2026)](https://interestingengineering.com/science/3d-sensing-technology-could-improve-self-driving-cars-and-robotic-surgery)  
