@@ -3,7 +3,7 @@
 title: 'Utilizing Nature’s Limits for Better Computational 3D Imaging'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 6
+landing_weight: 0
 
 # Authors
 # Format: A YAML List of Author Names
