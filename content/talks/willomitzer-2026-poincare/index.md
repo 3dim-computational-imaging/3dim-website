@@ -15,7 +15,7 @@ authors:
 - florian-willomitzer
 
 # Location
-location: 'Overview about research philosophy and projects. SPIE Henri Poincaré Webinar Series on Optical Polarization and Related Phenomena'
+location: 'SPIE Henri Poincaré Webinar Series on Optical Polarization and Related Phenomena'
 
 # Date
 # Format: YYYY-MM-DD. A day must be included, but it won't be visible.
@@ -24,7 +24,7 @@ date: 2026-04-18
 # Link to Talk
 https://spie.org/conferences-and-exhibitions/spie-online/poincare-series
 
-summary: ''
+summary: 'Overview about research philosophy and projects. Overview about research philosophy and projects.'
 image:
   preview-only: true
 ---
