@@ -30,7 +30,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 # publication: '*arXiv preprint*'
-publication: '*Nature Communications*'
+publication: '*Nature Communications*,17,4407'
 
 doi: "10.1038/s41467-026-72254-6"
 
