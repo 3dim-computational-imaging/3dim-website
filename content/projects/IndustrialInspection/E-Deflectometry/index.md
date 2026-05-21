@@ -27,4 +27,9 @@ Research news featured on external websites (selection):
 [**Science Blog**: "How Turning a Room Into a Giant Screen Gives Machines the 3D Vision They’ve Always Lacked" (May. 20, 2026)](https://scienceblog.com/how-turning-a-room-into-a-giant-screen-gives-machines-the-3d-vision-theyve-always-lacked/)  
 
 [**Interesting Engineering**: "3D-sensing technology could improve self-driving cars and robotic surgery" (May. 20, 2026)](https://interestingengineering.com/science/3d-sensing-technology-could-improve-self-driving-cars-and-robotic-surgery)  
+
+[**NEWS4TUCSON**: "New tech developed by U of A researchers turns rooms into virtual screens for 3D imaging" (May. 20, 2026)](https://www.kvoa.com/news/local/new-tech-developed-by-u-of-a-researchers-turns-rooms-into-virtual-screens-for-3d/article_57aab068-f996-4fe1-a7ea-7046d124a44d.html)  
+
+
+
 {{< /collapsible-section >}}
