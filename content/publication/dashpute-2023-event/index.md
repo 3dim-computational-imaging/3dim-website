@@ -40,7 +40,7 @@ summary: ''
 tags: ["HPrecision3D-Event-Deflectometry"]
 
 # Weights for project pages + the landing page
-landing_weight: 170
+landing_weight: 194
 
 # Display this page in a list of Featured pages?
 featured: true
