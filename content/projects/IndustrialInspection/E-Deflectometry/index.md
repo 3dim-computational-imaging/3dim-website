@@ -28,7 +28,9 @@ Research news featured on external websites (selection):
 
 [**Interesting Engineering**: "3D-sensing technology could improve self-driving cars and robotic surgery" (May. 20, 2026)](https://interestingengineering.com/science/3d-sensing-technology-could-improve-self-driving-cars-and-robotic-surgery)  
 
-[**NEWS4TUCSON**: "New tech developed by U of A researchers turns rooms into virtual screens for 3D imaging" (May. 20, 2026)](https://www.kvoa.com/news/local/new-tech-developed-by-u-of-a-researchers-turns-rooms-into-virtual-screens-for-3d/article_57aab068-f996-4fe1-a7ea-7046d124a44d.html)  
+[**KVOA**: "New tech developed by U of A researchers turns rooms into virtual screens for 3D imaging" (May. 20, 2026)](https://www.kvoa.com/news/local/new-tech-developed-by-u-of-a-researchers-turns-rooms-into-virtual-screens-for-3d/article_57aab068-f996-4fe1-a7ea-7046d124a44d.html)  
+
+[**Tech Xplore**: "Turning surroundings into a 'virtual screen' could help machines see better in 3D" (May. 20, 2026)](https://techxplore.com/news/2026-05-virtual-screen-machines-3d.html) 
 
 
 
