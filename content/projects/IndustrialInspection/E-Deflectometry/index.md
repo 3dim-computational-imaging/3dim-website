@@ -30,8 +30,14 @@ Research news featured on external websites (selection):
 
 [**KVOA**: "New tech developed by U of A researchers turns rooms into virtual screens for 3D imaging" (May. 20, 2026)](https://www.kvoa.com/news/local/new-tech-developed-by-u-of-a-researchers-turns-rooms-into-virtual-screens-for-3d/article_57aab068-f996-4fe1-a7ea-7046d124a44d.html)  
 
-[**Tech Xplore**: "Turning surroundings into a 'virtual screen' could help machines see better in 3D" (May. 20, 2026)](https://techxplore.com/news/2026-05-virtual-screen-machines-3d.html) 
+[**Tech Xplore**: "Turning surroundings into a 'virtual screen' could help machines see better in 3D" (May. 20, 2026)](https://techxplore.com/news/2026-05-virtual-screen-machines-3d.html)
 
+[**Novus Light**: "Event-Driven 3D Imaging Using Virtual-Screen Deflectometry for Complex Surfaces" (May. 25, 2026)](https://www.novuslight.com/%20event-driven-3d-imaging-using-virtual-screen-deflectometry-for-complex-surfaces_N13684.html)
 
+[**Photonics Spectra**: "Making Surroundings into a "Virtual Screen" Promises to Bolster 3D Machine Vision" (May. 28, 2026)](https://www.photonics.com/Articles/Making-Surroundings-into-a-Virtual-Screen/p5/a72279)
+
+[**Imaging & Machine Vision Europe**: "Event-based 3D imaging research could improve mixed-reflectance machine vision" (June. 1, 2026)](https://www.imveurope.com/article/event-based-3d-imaging-research-could-improve-mixed-reflectance-machine-vision)
+
+[**iNEWS**: "By transforming the environment into a "virtual screen," the University of Arizona is helping machines better perceive the 3D world" (June. 2, 2026)](https://inf.news/en/tech/f867fc17fd62c0c2640b3138bdbeea77.html)
 
 {{< /collapsible-section >}}
