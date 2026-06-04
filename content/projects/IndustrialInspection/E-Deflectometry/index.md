@@ -34,7 +34,9 @@ Research news featured on external websites (selection):
 
 [**Novus Light**: "Event-Driven 3D Imaging Using Virtual-Screen Deflectometry for Complex Surfaces" (May. 25, 2026)](https://www.novuslight.com/%20event-driven-3d-imaging-using-virtual-screen-deflectometry-for-complex-surfaces_N13684.html)
 
-[**Photonics Spectra**: "Making Surroundings into a "Virtual Screen" Promises to Bolster 3D Machine Vision" (May. 28, 2026)](https://www.photonics.com/Articles/Making-Surroundings-into-a-Virtual-Screen/p5/a72279)
+[**Photonics spectra**: "Making Surroundings into a "Virtual Screen" Promises to Bolster 3D Machine Vision" (May. 28, 2026)](https://www.photonics.com/Articles/Making-Surroundings-into-a-Virtual-Screen/p5/a72279)
+
+[**Vision spectra**: "Making Surroundings into a "Virtual Screen" Promises to Bolster 3D Machine Vision" (May. 28, 2026)](https://www.photonics.com/Articles/Making-Surroundings-into-a-Virtual-Screen/p21/a72279)
 
 [**Imaging & Machine Vision Europe**: "Event-based 3D imaging research could improve mixed-reflectance machine vision" (June. 1, 2026)](https://www.imveurope.com/article/event-based-3d-imaging-research-could-improve-mixed-reflectance-machine-vision)
 
