@@ -221,6 +221,8 @@ He is the [recipient of the NSF CRII grant](https://www.mccormick.northwestern.e
 
 **2026**   
 
+- *Webinar*: **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2026” | “Harnessing Limits in Computational 3D Imaging: From Inspection of Challenging Surfaces to “Seeing the Unseen”” (Invited Webinar)       
+
 - *Webinar*: **SPIE Henri Poincaré Webinar Series on Optical Polarization and Related Phenomena**,  | “Harnessing nature’s limits in computational 3D imaging: from inspection of challenging surfaces to “seeing the unseen” ” (Invited Webinar)  |   [\[Abstract and Recording\]](https://spie.org/conferences-and-exhibitions/spie-online/poincare-series)    
 
 - **SPIE D+S**; 3D Imaging, Visualization, and Display; National Harbor, USA, 2026 | "Multi-Modal Computational 3D Imaging on Specular and Mixed Reflectance Surfaces" (Invited Talk)  |  [\[Program and Abstract\]](https://spie.org/defense-security/presentation/Multi-Modal-Computational-3D-Imaging-on-Specular-and-Mixed-Reflectance/14033-13)     
