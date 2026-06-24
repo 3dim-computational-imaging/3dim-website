@@ -76,6 +76,8 @@ John Bass is a PhD student in the Wyant College of Optical Sciences at the Unive
 
 \[2\] John M. Bass, Manuel Ballester, Susana M. Fernández, Aggelos K. Katsaggelos, Emilio Márquez, and Florian Willomitzer, "[Angular spectrum approach to inverse synthesis for the characterization of optical and geometrical properties of semiconductor thin films](https://doi.org/10.1364/OE.559076)," Opt. Express 33, 29939-29956 (2025) 
 
+{{< jump-section >}}
+
 **Invited Talks:**
 
 \[1\] John M. Bass, Manuel Ballester, and Florian Willomitzer, "Optimization-based semiconductor thin-film inspection," Electronic Imaging 2026.
