@@ -72,7 +72,8 @@ John Bass is a PhD student in the Wyant College of Optical Sciences at the Unive
 
 **Journal Publications:**
 
-\[1\] John M. Bass, Manuel Ballester, Susana M. Fernández, Aggelos K. Katsaggelos, Emilio Márquez, and Florian Willomitzer, "Angular spectrum approach to inverse synthesis for the characterization of optical and geometrical properties of semiconductor thin films," Opt. Express 33, 29939-29956 (2025) 
+\[1\] John M. Bass, Austin M. Singh, Rita Mahon, and Mike S. Ferraro, "[Estimating atmospheric Cn2 using deep convolutional neural networks](https://doi.org/10.1364/AO.600557)," Appl. Opt. 65, H86-H94 (2026) 
+\[2\] John M. Bass, Manuel Ballester, Susana M. Fernández, Aggelos K. Katsaggelos, Emilio Márquez, and Florian Willomitzer, "[Angular spectrum approach to inverse synthesis for the characterization of optical and geometrical properties of semiconductor thin films](https://doi.org/10.1364/OE.559076)," Opt. Express 33, 29939-29956 (2025) 
 
 **Invited Talks:**
 
