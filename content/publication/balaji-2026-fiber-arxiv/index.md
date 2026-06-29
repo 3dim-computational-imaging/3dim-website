@@ -40,7 +40,7 @@ tags: ['SWH_FiberImaging']
 
 # Weights for project pages + the landing page
 landing_weight: 85
-weight_SWH_FiberImaging: 90
+weight_SWH_FiberImaging: 110
 
 # Display this page in a list of Featured pages?
 featured: false
