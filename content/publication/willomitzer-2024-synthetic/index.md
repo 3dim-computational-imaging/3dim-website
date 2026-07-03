@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-publication: '*Computational Imaging for Scene Understanding: Transient, Spectral, and Polarimetric Analysis*'
+publication: '***Computational Imaging for Scene Understanding: Transient, Spectral, and Polarimetric Analysis*** (2024)'
 
 doi: "10.48550/arXiv.2209.04941"
 
