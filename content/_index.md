@@ -88,7 +88,7 @@ sections:
       title: Selected Publications
       subtitle: 'See [all publications by year>>](/publication)'
       text:
-      count: 12
+      count: 14
       filters:
         author: ''
         category: ''
