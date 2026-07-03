@@ -28,7 +28,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: 'accepted in **Nature Communications** (2026), preprint on *arXiv*'
+publication: 'accepted in ***Nature Communications*** (2026), preprint on *arXiv*'
 
 doi: '10.48550/arXiv.2407.07872'
 
