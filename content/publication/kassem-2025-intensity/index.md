@@ -28,7 +28,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+publication: 'accepted in **Nature Communications** (2026), preprint on *arXiV*'
 
 doi: '10.48550/arXiv.2407.07872'
 
@@ -39,7 +39,7 @@ summary: ''
 tags: ['SWH_ImagingThroughScattering']
 
 # Weights for project pages + the landing page
-landing_weight: 151
+landing_weight: 191
 weight_SWH_ImagingThroughScattering: 65
 
 
