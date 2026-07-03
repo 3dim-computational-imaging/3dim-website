@@ -21,7 +21,7 @@ publishDate: '2024-05-08T23:10:28.639913Z'
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - manuscript
-publication: '*Dissertation, University Erlangen-Nuremberg, Published as book in the series “Springer Theses” in 2019*'
+publication: '***Book, Springer Theses***, 2019, *Dissertation, University Erlangen-Nuremberg*'
 
 doi: "10.1007/978-3-030-10904-2"
 
