@@ -18,7 +18,13 @@ This novel procedure allows us to use the entire scene as a virtual screen, usin
 --------  
 Research news featured on official University of Arizona Websites: 
 
-[**University of Arizona News Release:** "Turning surroundings into a 'virtual screen' could help machines to better see in 3D" (May. 20, 2026)](https://news.arizona.edu/news/turning-surroundings-virtual-screen-could-help-machines-better-see-3d)
+[**University of Arizona News Release:** "Turning surroundings into a 'virtual screen' could help machines to better see in 3D" (May. 20, 2026)](https://news.arizona.edu/news/turning-surroundings-virtual-screen-could-help-machines-better-see-3d)  
+
+-------- 
+Local Radio Interviews and Reports:  
+
+Interview KVOI Radio: "The Morning Voice" 
+{{< audio src="audio/TheMorningVoice_Interview_MixedReflectanceScenes.mp3" relative="True" >}}
 
 --------  
 Research news featured on external websites (selection):  
