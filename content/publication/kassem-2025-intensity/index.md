@@ -28,9 +28,9 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: 'accepted in ***Nature Communications*** (2026), preprint on *arXiv*'
+publication: '***Nature Communications***'
 
-doi: '10.48550/arXiv.2407.07872'
+doi: '10.1038/s41467-026-75195-2'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -46,8 +46,12 @@ weight_SWH_ImagingThroughScattering: 65
 # Display this page in a list of Featured pages?
 featured: true
 
+# Preprint info
+url_preprint: 'https://arxiv.org/abs/2510.27620'
+preprint_date: '2025'
+
 # Links
-url_pdf: 'https://arxiv.org/abs/2510.27620'
+url_pdf: 'https://www.nature.com/articles/s41467-026-75195-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
