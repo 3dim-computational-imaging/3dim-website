@@ -184,6 +184,7 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 
 ### Teaching  
 
+- Fall Sem. 2026: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)   
 - Spring Sem. 2026: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
 - Fall Sem. 2025: [OPTI 596: Computational Imaging and Machine Vision Seminar](https://wp.optics.arizona.edu/opti596/)    
 - Spring Sem. 2025: [OPTI 536: Introduction to Image Science](https://wp.optics.arizona.edu/opti536/)     
@@ -219,6 +220,10 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 ### Invited Talks and Keynotes   
 
 **2026**   
+
+- **Optical MEMS and Nanophotonics (OMN) 2026**, Canada, 2026 | "Computational Wavefront Control using MEMS Phase Light Modulators" (Invited Talk; <u>Bass</u>, Willomitzer)   
+
+- **ICCP, Princeton University**, USA, 2026  | "Coherent Computational Imaging with Synthetic Light Fields" (Invited Talk)  | [\[Conf. Program\]](https://iccp2026.iccp-conference.org/#program)  |  [\[Conf. Proceedings\]](https://drive.google.com/file/d/1tSsFNNOR9X4Cne6iuJba5lvz10pBhwTK/view?usp=sharing)       
 
 - *Webinar*: **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2026” | “Harnessing Limits in Computational 3D Imaging: From Inspection of Challenging Surfaces to “Seeing the Unseen”” (Invited Webinar)       
 
