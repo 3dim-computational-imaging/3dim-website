@@ -32,7 +32,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of Manufacturing Processes*, 177, 854-864'
 
-doi: '10.48550/arXiv.2509.05268'
+doi: '10.1016/j.jmapro.2026.09.062'
 
 # Summary. An optional shortened abstract.
 summary: ''
