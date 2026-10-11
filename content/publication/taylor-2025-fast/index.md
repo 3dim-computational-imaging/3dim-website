@@ -10,6 +10,8 @@ authors:
 - jiazhang-wang
 - Guanzhong Hu
 - Zihan Chen
+- Rowan Rolark
+- Jian Cao
 - Ping Guo
 - florian-willomitzer
 
@@ -17,7 +19,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2026-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-03-23T19:41:52.619281Z'
@@ -28,7 +30,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint*'
+publication: '*Journal of Manufacturing Processes*, 177, 854-864'
 
 doi: '10.48550/arXiv.2509.05268'
 
