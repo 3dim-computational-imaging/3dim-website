@@ -48,7 +48,7 @@ weight_Medical3DApplications_TriangulationShiny: 150
 featured: false
 
 # Links
-url_pdf: 'https://arxiv.org/abs/2509.05268'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1526612526009126'
 url_code: ''
 url_dataset: ''
 url_poster: ''
