@@ -10,7 +10,7 @@ last_name: Hilding
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Ph.D. Student in Optical Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -43,6 +43,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Ph.D. Students
 ---
 Hi! My name is Leif Hilding, and I'm a first-year PhD student with broad interests in quantum mechanics, optical physics, and image science. I'm particularly interested in the mathematical foundations of optimization and inverse problems, and their applications to imaging and optical systems. Currently, my research focuses heavily on the development of next-generation self-calibrating multi-view deflectometry algorithms for joint specular surface and camera trajectory reconstruction. When I'm not working or in the lab, I enjoy hiking, camping, reading books, cooking, and playing a few instruments (guitar, bass, and piano). I look forward to where this journey will take me. 
