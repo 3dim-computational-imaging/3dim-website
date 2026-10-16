@@ -20,23 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-#interests:
-#  - Computational Imaging
-#  - 
-#  - ????? 
-#  
-#education:
-#  courses:
-#    - course:  M.S. in Computer Science
-#      institution: ETH Zürich
-#      year: present
-#    - course: B.S. in Computer Science and Mathematics
-#      institution: Northwestern University
-#      year: 2021
-#    - course: Postdoctoral Fellow
-#      institution: I3
-#      year: 2017
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,3 +45,4 @@ highlight_name: false
 user_groups:
   - M.S. Students
 ---
+Hi! My name is Leif Hilding, and I'm a first-year PhD student with broad interests in quantum mechanics, optical physics, and image science. I'm particularly interested in the mathematical foundations of optimization and inverse problems, and their applications to imaging and optical systems. Currently, my research focuses heavily on the development of next-generation self-calibrating multi-view deflectometry algorithms for joint specular surface and camera trajectory reconstruction. When I'm not working or in the lab, I enjoy hiking, camping, reading books, cooking, and playing a few instruments (guitar, bass, and piano). I look forward to where this journey will take me. 
