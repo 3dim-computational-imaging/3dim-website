@@ -30,7 +30,7 @@ social:
 #    link: https://linkedin.com/in/james-taylor-776a6b166
   - icon: envelope
     icon_pack: fas
-    link: 'anessaee@arizona.edu'
+    link: 'mailto:anessaee@arizona.edu'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

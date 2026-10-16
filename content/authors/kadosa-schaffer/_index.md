@@ -30,7 +30,7 @@ social:
     link: https://linkedin.com/in/kadosa-schaffer-ab6bb13b0
   - icon: envelope
     icon_pack: fas
-    link: 'schafferk@arizona.edu'
+    link: 'mailto:schafferk@arizona.edu'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
