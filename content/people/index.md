@@ -13,6 +13,15 @@ sections:
           align: center
           background:
             image:
+              filename: "website_slider_photos/00.jpg"
+              size: 'contain'
+            color: '#f7f7f7'
+            position: center
+        - title: ''
+          content: ''
+          align: center
+          background:
+            image:
               filename: "website_slider_photos/01.jpg"
               size: 'contain'
             color: '#f7f7f7'
