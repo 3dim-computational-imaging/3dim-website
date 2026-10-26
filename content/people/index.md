@@ -13,7 +13,7 @@ sections:
           align: center
           background:
             image:
-              filename: "website_slider_photos/00.jpg"
+              filename: "website_slider_photos/00.png"
               size: 'contain'
             color: '#f7f7f7'
             position: center
