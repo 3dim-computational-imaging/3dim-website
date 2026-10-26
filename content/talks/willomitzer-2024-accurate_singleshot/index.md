@@ -3,7 +3,7 @@
 title: 'Accurate single-shot eye tracking from deflectometric information'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 8
+landing_weight: 70
 weight_EyeTracking_Main: 80
 
 # Talk Tags (used for categorization into projects)

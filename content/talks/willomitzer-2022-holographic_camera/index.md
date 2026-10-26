@@ -3,7 +3,7 @@
 title: 'A holographic camera that can see the unseen'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 10
+landing_weight: 100
 weight_SWI_Main: 30
 
 # Talk Tags (used for categorization into projects)

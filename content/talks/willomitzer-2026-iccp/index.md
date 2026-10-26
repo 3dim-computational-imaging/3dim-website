@@ -3,7 +3,7 @@
 title: 'Coherent Computational Imaging with Synthetic Light Fields'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 8
+landing_weight: 80
 weight_SWI_Main: 20
 
 # Talk Tags (used for categorization into projects)
