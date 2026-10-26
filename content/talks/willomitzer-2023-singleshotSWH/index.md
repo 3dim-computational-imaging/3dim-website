@@ -3,11 +3,11 @@
 title: 'Single-shot synthetic wavelength holography: a flexible approach for high-resolution imaging through scattering media'
 
 # Talk Weights (used for order on different pages)
-landing_weight: 8
-weight_SWI_Main: 20
+# landing_weight: 7
+# weight_SWI_Main: 20
 
 # Talk Tags (used for categorization into projects)
-tags: ["SWI_Main"]
+# tags: ["SWI_Main"]
 
 # Authors
 # Format: A YAML List of Author Names
