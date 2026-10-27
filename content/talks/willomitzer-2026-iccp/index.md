@@ -15,7 +15,7 @@ authors:
 - florian-willomitzer
 
 # Location
-location: 'Invited talk at ICCP, Princeton University'
+location: 'ICCP, Princeton University'
 
 # Date
 # Format: YYYY-MM-DD. A day must be included, but it won't be visible.
