@@ -45,6 +45,10 @@ weight_SWH_LightInFlight: 80
 # Display this page in a list of Featured pages?
 featured: true
 
+# Preprint info
+url_preprint: 'https://arxiv.org/abs/1912.11438'
+preprint_date: '2019'
+
 # Links
 url_pdf: 'https://www.nature.com/articles/s41467-021-26776-w'
 url_code: ''

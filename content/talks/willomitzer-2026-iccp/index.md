@@ -15,14 +15,14 @@ authors:
 - florian-willomitzer
 
 # Location
-location: 'Invited talk at ICCP, Princeton University, New Jersey, 2026'
+location: 'ICCP, Princeton University'
 
 # Date
 # Format: YYYY-MM-DD. A day must be included, but it won't be visible.
-date: 2023-10-01
+date: 2026-07-01
 
 # Link to Talk
-external_link: https://drive.google.com/file/d/1i6v_6ECne85xFTakR-UOBmACmnNSdZF_/view?usp=sharing
+external_link: https://www.youtube.com/watch?v=ZME0TiwtSf0&list=PLEWnUV2kbsg4&index=3
 
 summary: ''
 image:
