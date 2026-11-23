@@ -93,11 +93,11 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
     <td class="article-table-data"><b>Associate Professor of Optical Sciences</b>, Wyant College of Optical Sciences, University of Arizona, Tucson, USA</td>
   </tr>
   <tr>  
-    <td class="article-table-data">Sept'22 - present</td>
+    <td class="article-table-data">Sept'22 - Aug'26</td>
     <td class="article-table-data"><b>Adjunct Associate Professor of Computer Science</b>, Department of Computer Science (CS), Northwestern University, Evanston, USA</td>
   </tr>
   <tr>  
-    <td class="article-table-data">Sept'22 - present</td>
+    <td class="article-table-data">Sept'22 - Aug'26</td>
     <td class="article-table-data"><b>Adjunct Associate Professor of Electrical and Computer Engineering</b>, Department of Electrical and Computer Engineering (ECE), Northwestern University, Evanston, USA</td>
   </tr>
   <tr>  
