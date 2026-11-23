@@ -144,6 +144,7 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 **Program Chair**, OSA Computational Optical Sensing and Imaging (COSI), 2020  
 
 
+**Program Committee**,	Speckle'27 : International Conference on Speckle Phenomena and their Applications, 2027    
 **Program Committee**,	OSA Frontiers in Optics (FiO), 2026   
 **Program Committee**,	SPIE Industrial Optical Devices and Systems (ODS), 2026   
 **Program Committee**,	OSA Computational Optical Sensing and Imaging (COSI), 2026   
@@ -170,6 +171,8 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 **Reviewer**, Nature  
 **Reviewer**, Nature Photonics   
 **Reviewer**, Nature - Light: Science and Applications  
+**Reviewer**, Optica OPTICA    
+**Reviewer**, Wiley: Laser & Photonics Reviews    
 **Reviewer**, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)  
 **Reviewer**, Optica Optics Letters   
 **Reviewer**, Optica Optics Express  
