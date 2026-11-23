@@ -172,7 +172,7 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 **Reviewer**, Nature Photonics   
 **Reviewer**, Nature - Light: Science and Applications  
 **Reviewer**, Optica OPTICA    
-**Reviewer**, Wiley: Laser & Photonics Reviews    
+**Reviewer**, Wiley Laser & Photonics Reviews    
 **Reviewer**, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)  
 **Reviewer**, Optica Optics Letters   
 **Reviewer**, Optica Optics Express  
