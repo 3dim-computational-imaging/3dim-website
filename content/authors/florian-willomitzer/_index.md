@@ -224,10 +224,11 @@ Florian serves/served as Chair and Host of the Optica Incubator on [Imaging Thro
 
 **2026**   
 
+- **NIH (NIBIB) Translational Biophotonics and Additive Manufacturing**, USA, 2026  | "Computational Deep-Tissue Imaging with Synthetic Waves" (Invited Talk)  | [\[Program\]](https://calendar.nih.gov/event/view/50285)   
+
 - **Optical MEMS and Nanophotonics (OMN) 2026**, Canada, 2026 | "Computational Wavefront Control using MEMS Phase Light Modulators" (Invited Talk; <u>Bass</u>, Willomitzer)   
 
 - **ICCP, Princeton University**, USA, 2026  | "Coherent Computational Imaging with Synthetic Light Fields" (Invited Talk)  | [\[Conf. Program\]](https://iccp2026.iccp-conference.org/#program)  |  [\[Conf. Proceedings\]](https://drive.google.com/file/d/1tSsFNNOR9X4Cne6iuJba5lvz10pBhwTK/view?usp=sharing)       
-
 - *Webinar*: **German Society of Applied Optics (DGaO)**, Nationwide lecture series “Ringvorlesung Optik 2026” | “Harnessing Limits in Computational 3D Imaging: From Inspection of Challenging Surfaces to “Seeing the Unseen”” (Invited Webinar)       
 
 - *Webinar*: **SPIE Henri Poincaré Webinar Series on Optical Polarization and Related Phenomena**,  | “Harnessing nature’s limits in computational 3D imaging: from inspection of challenging surfaces to “seeing the unseen” ” (Invited Webinar)  |   [\[Abstract and Recording\]](https://spie.org/conferences-and-exhibitions/spie-online/poincare-series)    
